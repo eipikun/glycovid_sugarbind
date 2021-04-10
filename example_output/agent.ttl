@@ -1,0 +1,2671 @@
+#######################################################
+### Individuals (Agent)
+#######################################################
+
+<https://sugarbind.expasy.org/agents/3> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/2> ,
+		<https://sugarbind.expasy.org/diseases/3> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/2> ;
+	:agentId "3"^^xsd:string ;
+	rdfs:label "Actinobacillus pleuropneumoniae Serotype 1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/4> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/2> ,
+		<https://sugarbind.expasy.org/diseases/3> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/2> ;
+	:agentId "4"^^xsd:string ;
+	rdfs:label "Actinobacillus pleuropneumoniae Serotype 2"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/7> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/4> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "7"^^xsd:string ;
+	rdfs:label "Actinomyces naeslundii N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/8> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/4> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/6> ;
+	:agentId "8"^^xsd:string ;
+	rdfs:label "Actinomyces naeslundii N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/9> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/4> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/6> ;
+	:agentId "9"^^xsd:string ;
+	rdfs:label "Actinomyces naeslundii WVU45"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/10> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/4> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/6> ;
+	:agentId "10"^^xsd:string ;
+	rdfs:label "Actinomyces naeslundii N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/11> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/4> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/6> ;
+	:agentId "11"^^xsd:string ;
+	rdfs:label "Actinomyces naeslundii ATCC 12104"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/12> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/4> ,
+		<https://sugarbind.expasy.org/diseases/5> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/10> ,
+		<https://sugarbind.expasy.org/affectedAreas/10> ,
+		<https://sugarbind.expasy.org/affectedAreas/9> ,
+		<https://sugarbind.expasy.org/affectedAreas/5> ,
+		<https://sugarbind.expasy.org/affectedAreas/9> ,
+		<https://sugarbind.expasy.org/affectedAreas/10> ,
+		<https://sugarbind.expasy.org/affectedAreas/9> ,
+		<https://sugarbind.expasy.org/affectedAreas/5> ,
+		<https://sugarbind.expasy.org/affectedAreas/5> ;
+	:agentId "12"^^xsd:string ;
+	rdfs:label "Actinomyces naeslundii WVU45"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/13> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/6> ;
+	:agentId "13"^^xsd:string ;
+	rdfs:label "Actinomyces spp."^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/14> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/6> ;
+	:agentId "14"^^xsd:string ;
+	rdfs:label "Actinomyces viscosus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/15> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/6> ;
+	:agentId "15"^^xsd:string ;
+	rdfs:label "Actinomyces viscosus N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/16> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/6> ;
+	:agentId "16"^^xsd:string ;
+	rdfs:label "Actinomyces viscosus ATCC 19246"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/18> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/6> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "18"^^xsd:string ;
+	rdfs:label "Bordetella pertussis"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/19> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/6> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "19"^^xsd:string ;
+	rdfs:label "Bordetella pertussis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/21> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/6> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "21"^^xsd:string ;
+	rdfs:label "Bordetella pertussis N/S Toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/24> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/7> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "24"^^xsd:string ;
+	rdfs:label "Borrelia burgdorferi N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/26> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "26"^^xsd:string ;
+	rdfs:label "Borrelia hermsii N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/29> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "29"^^xsd:string ;
+	rdfs:label "Burkholderia cenocepacia N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/30> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/8> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "30"^^xsd:string ;
+	rdfs:label "Burkholderia cepacia"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/31> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/8> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "31"^^xsd:string ;
+	rdfs:label "Burkholderia cepacia ATCC 13945"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/32> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/8> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "32"^^xsd:string ;
+	rdfs:label "Burkholderia cepacia 25416"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/33> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/8> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "33"^^xsd:string ;
+	rdfs:label "Burkholderia cepacia ML1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/34> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/8> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "34"^^xsd:string ;
+	rdfs:label "Burkholderia cepacia N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/36> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/11> ;
+	:agentId "36"^^xsd:string ;
+	rdfs:label "Burkholderia oklahomensis EO147"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/38> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/9> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/14> ;
+	:agentId "38"^^xsd:string ;
+	rdfs:label "Burkholderia pseudomallei H-99"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/39> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/9> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/14> ;
+	:agentId "39"^^xsd:string ;
+	rdfs:label "Burkholderia pseudomallei Sp-140"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/40> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/9> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/14> ;
+	:agentId "40"^^xsd:string ;
+	rdfs:label "Burkholderia pseudomallei Sp-186"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/41> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/9> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/14> ;
+	:agentId "41"^^xsd:string ;
+	rdfs:label "Burkholderia pseudomallei Sp-335"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/42> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/9> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/14> ;
+	:agentId "42"^^xsd:string ;
+	rdfs:label "Burkholderia pseudomallei U-232"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/45> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "45"^^xsd:string ;
+	rdfs:label "Campylobacter jejuni N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/47> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "47"^^xsd:string ;
+	rdfs:label "Campylobacter jejuni N/S Enterotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/49> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "49"^^xsd:string ;
+	rdfs:label "Campylobacter upsaliensis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/52> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/10> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "52"^^xsd:string ;
+	rdfs:label "Candida albicans ATCC 18804"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/53> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/10> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "53"^^xsd:string ;
+	rdfs:label "Candida albicans HFH 44"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/54> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/10> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "54"^^xsd:string ;
+	rdfs:label "Candida albicans HFH 45"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/55> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/10> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "55"^^xsd:string ;
+	rdfs:label "Candida albicans N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/58> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/11> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "58"^^xsd:string ;
+	rdfs:label "Chlamydia pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/60> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/12> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "60"^^xsd:string ;
+	rdfs:label "Chlamydia trachomatis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/61> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/14> ,
+		<https://sugarbind.expasy.org/diseases/15> ,
+		<https://sugarbind.expasy.org/diseases/13> ,
+		<https://sugarbind.expasy.org/diseases/1> ;
+	:agentId "61"^^xsd:string ;
+	rdfs:label "Clostridium"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/62> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:agentId "62"^^xsd:string ;
+	rdfs:label "Clostridium botulinum"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/63> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:agentId "63"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype A"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/64> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "64"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype A Neurotoxin type A"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/65> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "65"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype A Progenitor toxin type A"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/66> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:agentId "66"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype C"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/67> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "67"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype C Neurotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/68> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "68"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype C Progenitor toxin type C"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/70> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/15> ;
+	:agentId "70"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype D, OFD05 Neurotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/71> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:agentId "71"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype F"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/72> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "72"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype F Neurotoxin F"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/74> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "74"^^xsd:string ;
+	rdfs:label "Clostridium botulinum Serotype G Neurotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/76> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "76"^^xsd:string ;
+	rdfs:label "Clostridium botulinum N/S Neurotoxin type A"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/78> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/13> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "78"^^xsd:string ;
+	rdfs:label "Clostridium botulinum N/S Neurotoxin type B"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/81> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/18> ;
+	:agentId "81"^^xsd:string ;
+	rdfs:label "Clostridium difficle VP 10463 Toxin A"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/84> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/14> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/19> ,
+		<https://sugarbind.expasy.org/affectedAreas/4> ;
+	:agentId "84"^^xsd:string ;
+	rdfs:label "Clostridium perfringens N/S Delta toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/87> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/15> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/20> ;
+	:agentId "87"^^xsd:string ;
+	rdfs:label "Clostridium tetani N/S Tetanus neurotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/89> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/15> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/20> ;
+	:agentId "89"^^xsd:string ;
+	rdfs:label "Clostridium tetani N/S Tetanus neurotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/91> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/15> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/20> ;
+	:agentId "91"^^xsd:string ;
+	rdfs:label "Clostridium tetani N/S Tetanus neurotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/93> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/15> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/20> ;
+	:agentId "93"^^xsd:string ;
+	rdfs:label "Clostridium tetani N/S Tetanus neurotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/95> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/15> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/20> ;
+	:agentId "95"^^xsd:string ;
+	rdfs:label "Clostridium tetani N/S Tetanus neurotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/97> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "97"^^xsd:string ;
+	rdfs:label "Coronavirus Betacoronavirus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/98> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "98"^^xsd:string ;
+	rdfs:label "Coronavirus Betacoronavirus OC43"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/101> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/16> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "101"^^xsd:string ;
+	rdfs:label "Cryptococcus neoformans ATCC 34877"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/102> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/16> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "102"^^xsd:string ;
+	rdfs:label "Cryptococcus neoformans HFH 32"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/103> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/16> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "103"^^xsd:string ;
+	rdfs:label "Cryptococcus neoformans IMT 43"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/104> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/16> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "104"^^xsd:string ;
+	rdfs:label "Cryptococcus neoformans NIH 68A"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/107> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/17> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "107"^^xsd:string ;
+	rdfs:label "Entamoeba histolytica HM1-IMSS"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/108> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/17> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "108"^^xsd:string ;
+	rdfs:label "Entamoeba histolytica N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/109> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/17> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "109"^^xsd:string ;
+	rdfs:label "Entamoeba histolytica N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/112> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "112"^^xsd:string ;
+	rdfs:label "Enterobacteriaceae spp. N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/115> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "115"^^xsd:string ;
+	rdfs:label "Escherichia coli 107/86"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/116> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/18> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/22> ;
+	:agentId "116"^^xsd:string ;
+	rdfs:label "Escherichia coli 346"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/117> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/18> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/22> ;
+	:agentId "117"^^xsd:string ;
+	rdfs:label "Escherichia coli 6883"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/119> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/19> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "119"^^xsd:string ;
+	rdfs:label "Escherichia coli Bi 135 A O157:H7"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/120> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "120"^^xsd:string ;
+	rdfs:label "Escherichia coli EAggEC T7"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/121> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/23> ;
+	:agentId "121"^^xsd:string ;
+	rdfs:label "Escherichia coli IA2(pDC1)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/122> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/23> ;
+	:agentId "122"^^xsd:string ;
+	rdfs:label "Escherichia coli IA2"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/123> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/23> ;
+	:agentId "123"^^xsd:string ;
+	rdfs:label "Escherichia coli IH11165"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/124> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "124"^^xsd:string ;
+	rdfs:label "Escherichia coli J96 HB101/pPAP5"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/125> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/23> ;
+	:agentId "125"^^xsd:string ;
+	rdfs:label "Escherichia coli J96(JJ122)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/126> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/23> ;
+	:agentId "126"^^xsd:string ;
+	rdfs:label "Escherichia coli J96(pJFK102)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/127> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "127"^^xsd:string ;
+	rdfs:label "Escherichia coli J96"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/128> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "128"^^xsd:string ;
+	rdfs:label "Escherichia coli PN7"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/129> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/23> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ,
+		<https://sugarbind.expasy.org/affectedAreas/23> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "129"^^xsd:string ;
+	rdfs:label "Escherichia coli R45"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/130> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "130"^^xsd:string ;
+	rdfs:label "Escherichia coli Recombinant HB101(pPIL 219-15)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/131> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "131"^^xsd:string ;
+	rdfs:label "Escherichia coli Recombinant HB101(pPIL110-54)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/132> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "132"^^xsd:string ;
+	rdfs:label "Escherichia coli Recombinant HB101"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/133> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "133"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/134> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "134"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/135> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "135"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/136> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "136"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/137> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "137"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/138> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "138"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/139> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "139"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/140> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "140"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/141> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "141"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/142> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "142"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/143> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "143"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/144> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "144"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/145> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "145"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/146> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "146"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/147> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "147"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/148> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "148"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/149> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "149"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/150> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "150"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/151> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/43> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/4> ;
+	:agentId "151"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/152> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/20> ,
+		<https://sugarbind.expasy.org/diseases/21> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/22> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ,
+		<https://sugarbind.expasy.org/affectedAreas/22> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "152"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/154> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "154"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Heat-labile enterotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/156> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "156"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Heat-labile enterotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/158> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "158"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Heat-labile enterotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/160> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "160"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Heat-labile enterotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/162> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "162"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Heat-labile enterotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/164> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "164"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Heat-labile enterotoxin type I"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/165> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "165"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Heat-labile enterotoxin type IIa"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/166> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "166"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Heat-labile enterotoxin type IIb"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/168> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "168"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Shiga toxin 1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/169> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "169"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Shiga toxin 2"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/170> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "170"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Shiga toxin 2c"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/171> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "171"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Shiga toxin 2d"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/172> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "172"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Shiga toxin 2e"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/174> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "174"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Shiga toxin 2e"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/176> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "176"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S Verotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/177> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "177"^^xsd:string ;
+	rdfs:label "Escherichia coli VJ1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/180> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/22> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "180"^^xsd:string ;
+	rdfs:label "Fusobacterium nucleatum N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/183> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "183"^^xsd:string ;
+	rdfs:label "Haemophilus influenzae 33391"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/184> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "184"^^xsd:string ;
+	rdfs:label "Haemophilus influenzae 9795"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/185> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "185"^^xsd:string ;
+	rdfs:label "Haemophilus influenzae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/186> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "186"^^xsd:string ;
+	rdfs:label "Haemophilus influenzae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/187> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "187"^^xsd:string ;
+	rdfs:label "Haemophilus influenzae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/189> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "189"^^xsd:string ;
+	rdfs:label "Haemophilus parainfluenzae ATCC 33392"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/190> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "190"^^xsd:string ;
+	rdfs:label "Haemophilus parainfluenzae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/193> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "193"^^xsd:string ;
+	rdfs:label "Helicobacter bilis CCUG 38995"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/195> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "195"^^xsd:string ;
+	rdfs:label "Helicobacter canis CCUG 33835"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/197> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "197"^^xsd:string ;
+	rdfs:label "Helicobacter felis CCUG 28539"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/199> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "199"^^xsd:string ;
+	rdfs:label "Helicobacter hepaticus CCUG 33637"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/201> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "201"^^xsd:string ;
+	rdfs:label "Helicobacter mustelae 23950/1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/202> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "202"^^xsd:string ;
+	rdfs:label "Helicobacter mustelae 25715"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/204> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/25> ,
+		<https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/24> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "204"^^xsd:string ;
+	rdfs:label "Helicobacter pylori CCUG 17875"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/205> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/25> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "205"^^xsd:string ;
+	rdfs:label "Helicobacter pylori CCUG 17874"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/206> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/25> ,
+		<https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/23> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "206"^^xsd:string ;
+	rdfs:label "Helicobacter pylori CCUG 17875"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/207> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/25> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "207"^^xsd:string ;
+	rdfs:label "Helicobacter pylori J99"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/208> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/25> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "208"^^xsd:string ;
+	rdfs:label "Helicobacter pylori J99/NAP-"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/209> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/25> ,
+		<https://sugarbind.expasy.org/diseases/24> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "209"^^xsd:string ;
+	rdfs:label "Helicobacter pylori NCTC 11637"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/210> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/25> ,
+		<https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/23> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "210"^^xsd:string ;
+	rdfs:label "Helicobacter pylori P466"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/211> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/25> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "211"^^xsd:string ;
+	rdfs:label "Helicobacter pylori N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/212> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/25> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "212"^^xsd:string ;
+	rdfs:label "Helicobacter pylori 032"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/213> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/25> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "213"^^xsd:string ;
+	rdfs:label "Helicobacter pylori N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/214> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/25> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "214"^^xsd:string ;
+	rdfs:label "Helicobacter pylori N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/215> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/25> ,
+		<https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/24> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "215"^^xsd:string ;
+	rdfs:label "Helicobacter pylori N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/216> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/25> ,
+		<https://sugarbind.expasy.org/diseases/23> ,
+		<https://sugarbind.expasy.org/diseases/24> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "216"^^xsd:string ;
+	rdfs:label "Helicobacter pylori N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/217> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/25> ,
+		<https://sugarbind.expasy.org/diseases/24> ,
+		<https://sugarbind.expasy.org/diseases/23> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:agentId "217"^^xsd:string ;
+	rdfs:label "Helicobacter pylori N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/220> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/26> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "220"^^xsd:string ;
+	rdfs:label "Histoplasma capsulatum CDC B923"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/221> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/26> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "221"^^xsd:string ;
+	rdfs:label "Histoplasma capsulatum IMT 55"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/222> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/46> ;
+	:agentId "222"^^xsd:string ;
+	rdfs:label "Lentivirus Human Immunodeficiency Virus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/223> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/46> ;
+	:agentId "223"^^xsd:string ;
+	rdfs:label "Lentivirus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/224> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/46> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/7> ;
+	:agentId "224"^^xsd:string ;
+	rdfs:label "Lentivirus Human Immunodeficiency Virus Type 1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/225> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "225"^^xsd:string ;
+	rdfs:label "Influenza"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/227> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "227"^^xsd:string ;
+	rdfs:label "Influenza A b"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/228> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:agentId "228"^^xsd:string ;
+	rdfs:label "Influenza B"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/229> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "229"^^xsd:string ;
+	rdfs:label "Influenza B Influenza B virus B/HongKong/8/73"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/230> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "230"^^xsd:string ;
+	rdfs:label "Influenza C"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/231> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "231"^^xsd:string ;
+	rdfs:label "Influenza 1918 H1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/235> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/25> ;
+	:agentId "235"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H10N4 subtype A/Mallard/Netherlands/02/00"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/236> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/27> ;
+	:agentId "236"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H1N1 subtype"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/237> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "237"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N2 subtype"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/238> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/25> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "238"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H4N6 subtype"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/239> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "239"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/240> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "240"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/241> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "241"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/243> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "243"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H1 Mal/TN/11464/85 (226Q, 228G)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/244> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "244"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H10N4 subtype A/Mallard/Netherlands/02/2000"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/245> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/27> ;
+	:agentId "245"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H1N1 subtype A/Swine/Finistere/2899/82"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/246> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/27> ;
+	:agentId "246"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H1N1 subtype A/Swine/France/80"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/248> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "248"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H1N3 subtype A/Duck/Hong Kong/717/79"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/250> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "250"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H2 Leningrad/134/57 (226Q, 228G)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/252> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "252"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H2N9 subtype A/Duck/Hong Kong/278/78"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/253> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "253"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H2N9 subtype A/Duck/NanChang/2-0485/00"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/254> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "254"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H2N9 subtype A/Duck/NanChang/2-0485/2000"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/255> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:agentId "255"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N3 subtype"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/256> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "256"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N3 subtype Duck/Hokkaido/7/82 (226Q, 228G)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/257> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "257"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N3 subtype RI/5+/57 (226L, 228S)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/258> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "258"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N3 subtype A/seal/MA/3911/1992"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/259> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "259"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N3 subtype A/Udorn/72/R2 (226Q, 228G)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/260> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "260"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N3 subtype A/Udorn/72/R4 (226Q, 228G)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/262> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "262"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N1 subtype A/Memphis/1/71-Bel/42 (H3N1)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/263> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "263"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N2 subtype A/Canada/228/68"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/264> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "264"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N2 subtype A/USSR/039/68"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/266> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/27> ;
+	:agentId "266"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N6 subtype A/Swine/Kazakhstan/48/82"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/268> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "268"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N8 subtype A/Canine/Florida/43/04"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/269> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "269"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N8 subtype A/Duck/Burjatia/652/88"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/270> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "270"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N8 subtype A/Equine/Kentucky/5/02"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/271> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "271"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H3N8 subtype A/Equine/Ohio/1/03"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/272> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "272"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H4N6 subtype A/Duck/Buryatia/1905/00"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/273> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "273"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H4N6 subtype A/Mallard/New York/670/78"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/274> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/25> ;
+	:agentId "274"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H4N6 subtype A/Mallard/NewYork/670/78"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/275> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "275"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/276> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "276"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Hong Kong/220/97"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/277> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "277"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Korea/ES/2003"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/278> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "278"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Laos/7191/2004"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/279> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "279"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Vietnam/NCVD11/03"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/280> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "280"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Vietnam/NCVD5/2003"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/281> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "281"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Duck meat/Amyang/AVL/2001"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/282> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "282"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Goose/Hong Kong/437-4/99"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/283> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "283"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Goose/Hong Kong/739.2/2002"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/284> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "284"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Goose/Vietnam/113/2001"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/285> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "285"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Goose/Vietnam/324/2001"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/286> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "286"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/212/2003"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/287> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "287"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/213/2003"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/288> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "288"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/483/97"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/289> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "289"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/486/97"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/290> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "290"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/542/97"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/291> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "291"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Rosybilled Pochard/Hong Kong/821/2002"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/292> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "292"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Teal/Hong Kong/2978.1/2002"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/293> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "293"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Thailand/16/2004"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/294> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "294"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Vietnam/1194/2004"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/295> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "295"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N1 subtype A/Vietnam/1203/2004"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/297> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "297"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N2 subtype A/Chicken/Mexico/31381-3/94"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/298> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "298"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N2 subtype A/Chicken/New Jersey/17169/1993"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/299> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "299"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N2 subtype A/Chukkar/Minnesota/14591-7/98"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/300> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "300"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N2 subtype A/Duck/NJ/117228-7/2001"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/301> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "301"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N2 subtype A/Turkey/California/DO-6/2002"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/303> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "303"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N3 subtype A/Chicken/Texas/167280-4/2002"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/304> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "304"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N3 subtype A/Turkey/California/6878/79"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/306> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "306"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N8 subtype A/Turkey/Wisconsin/68"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/308> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "308"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H5N9 subtype A/Ratite/New York/12716/94"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/310> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "310"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H6N1 subtype A/Teal/Hong Kong/W312/97"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/312> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "312"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H6N2 subtype A/Gull/Moscow/3100/06"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/313> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "313"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H6N2 subtype A/turkey/Massachusetts/3740/1965"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/315> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "315"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H6N5 subtype A/Shearwater/Australia/1/72"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/317> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "317"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H6N8 subtype A/Chicken/New York/13237/98"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/319> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "319"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H7N2 subtype A/Avian/New York/273874/03"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/320> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "320"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H7N2 subtype A/Chicken/Delaware/296763/04"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/321> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "321"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H7N2 subtype A/Chicken/NJ/294598-12/04"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/322> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "322"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H7N2 subtype A/New York/107/03"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/323> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "323"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H7N2 subtype A/Turkey/Virginia/4529/02"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/325> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "325"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H7N7 subtype A/Netherlands/219/03"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/326> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "326"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H7N7 subtype A/Netherlands/230/03"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/327> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "327"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H7N7 subtype A/Netherlands/231/03"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/329> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "329"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Chicken/Hong Kong/FY20/99"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/330> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "330"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Chicken/Hong Kong/G9/97"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/331> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "331"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Chicken/Hong Kong/SF3/99"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/332> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "332"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Chicken/Korea/96323/96"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/333> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "333"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Chicken/New Jersey/12220/97"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/334> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "334"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Duck/Hong Kong/Y280/97"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/335> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "335"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Teal/Primorie/3628/02"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/336> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "336"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Goose/Minnesota/5773/80"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/337> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "337"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Hong Kong/1073/99"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/338> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "338"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Hong Kong/2108/03"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/339> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "339"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Pheasant/Wisconsin/1780/8"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/340> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "340"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Quail/Hong Kong/G1/97"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/341> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/27> ;
+	:agentId "341"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Swine/Hong Kong/9/98"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/342> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "342"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Turkey/Minnesota/38391-6/95"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/343> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "343"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus H9N2 subtype A/Turkey/Wisconsin/1/66"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/344> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "344"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus Sw/Germany/2/81 (190D, 155V)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/345> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "345"^^xsd:string ;
+	rdfs:label "Influenzavirus A influenza A virus Sw/Netherlands/3/80 (225E, 155I)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/348> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/28> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "348"^^xsd:string ;
+	rdfs:label "Klebsiella pneumoniae 27736"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/349> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/28> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "349"^^xsd:string ;
+	rdfs:label "Klebsiella pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/350> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/28> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "350"^^xsd:string ;
+	rdfs:label "Klebsiella pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/351> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/28> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "351"^^xsd:string ;
+	rdfs:label "Klebsiella pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/352> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "352"^^xsd:string ;
+	rdfs:label "Klebsiella pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/355> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "355"^^xsd:string ;
+	rdfs:label "Lactobacillus casei N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/357> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "357"^^xsd:string ;
+	rdfs:label "Lactobacillus johnsonii NCC533"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/360> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/29> ,
+		<https://sugarbind.expasy.org/diseases/30> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "360"^^xsd:string ;
+	rdfs:label "Legionella pneumophila N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/361> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/29> ,
+		<https://sugarbind.expasy.org/diseases/30> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "361"^^xsd:string ;
+	rdfs:label "Legionella pneumophila N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/363> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "363"^^xsd:string ;
+	rdfs:label "Moraxella catarrhalis"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/366> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/31> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "366"^^xsd:string ;
+	rdfs:label "Mycoplasma gallisepticum N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/368> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/32> ,
+		<https://sugarbind.expasy.org/diseases/33> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "368"^^xsd:string ;
+	rdfs:label "Mycoplasma pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/369> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/32> ,
+		<https://sugarbind.expasy.org/diseases/33> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "369"^^xsd:string ;
+	rdfs:label "Mycoplasma pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/371> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:agentId "371"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/372> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "372"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae FA5100"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/373> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "373"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae LP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/374> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "374"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae ML1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/375> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "375"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae MS11"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/376> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "376"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae MS11 with pili"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/377> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "377"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae MS11 without pili"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/378> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "378"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/379> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "379"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/380> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "380"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/381> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/34> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "381"^^xsd:string ;
+	rdfs:label "Neisseria gonorrhoeae WG-52"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/383> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "383"^^xsd:string ;
+	rdfs:label "Neisseria meningitidis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/386> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "386"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus Boxer"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/387> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "387"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus BUDS"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/388> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "388"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus GrV"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/389> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "389"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus GrV or VA207"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/390> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "390"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus HV"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/391> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "391"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus MOH"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/392> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "392"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus MxV"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/393> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "393"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus NV"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/394> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "394"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus OIF"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/395> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "395"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus PiV"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/396> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "396"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus VA207"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/397> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "397"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus VA387"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/399> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "399"^^xsd:string ;
+	rdfs:label "Parainfluenza virus 5 (SV5) hPIV-5"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/400> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:agentId "400"^^xsd:string ;
+	rdfs:label "Respirovirus Parainfluenza Virus Type 1 (human)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/401> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "401"^^xsd:string ;
+	rdfs:label "Respirovirus Parainfluenza Virus Type 1 (human) c35"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/402> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:agentId "402"^^xsd:string ;
+	rdfs:label "Respirovirus Parainfluenza Virus Type 3 (human)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/403> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "403"^^xsd:string ;
+	rdfs:label "Respirovirus Parainfluenza Virus Type 3 (human) c243"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/406> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "406"^^xsd:string ;
+	rdfs:label "Pasteurella haemolytica N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/409> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/36> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "409"^^xsd:string ;
+	rdfs:label "Plasmodium falciparum N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/410> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/36> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "410"^^xsd:string ;
+	rdfs:label "Plasmodium falciparum N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/411> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/36> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "411"^^xsd:string ;
+	rdfs:label "Plasmodium falciparum N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/412> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "412"^^xsd:string ;
+	rdfs:label "Polyomavirus Murine polyomavirus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/413> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "413"^^xsd:string ;
+	rdfs:label "Propionibacterium sp."^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/416> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "416"^^xsd:string ;
+	rdfs:label "Propionibacterium granulosum N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/417> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "417"^^xsd:string ;
+	rdfs:label "Propionibacterium granulosum N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/419> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "419"^^xsd:string ;
+	rdfs:label "Proteus mirabilis"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/422> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "422"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa 17648"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/423> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "423"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa 19142"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/424> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "424"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa 21472"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/425> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "425"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa 33347"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/426> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "426"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa CT3"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/427> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "427"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa CT4"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/428> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "428"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa CT5"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/429> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "429"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/430> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "430"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/431> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "431"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/432> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "432"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/433> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "433"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/434> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "434"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/435> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "435"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/436> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "436"^^xsd:string ;
+	rdfs:label "Pseudomonas aeruginosa N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/437> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "437"^^xsd:string ;
+	rdfs:label "Reovirus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/438> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "438"^^xsd:string ;
+	rdfs:label "Ricin toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/439> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:agentId "439"^^xsd:string ;
+	rdfs:label "Rotavirus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/440> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "440"^^xsd:string ;
+	rdfs:label "Rotavirus Bovine rotavirus A NCDV/G6"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/441> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "441"^^xsd:string ;
+	rdfs:label "Rotavirus Simian rotavirus A SA11"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/442> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "442"^^xsd:string ;
+	rdfs:label "Rotavirus Bovine rotavirus A UK/G6"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/445> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "445"^^xsd:string ;
+	rdfs:label "Saccharomyces cerevisiae ATCC 18824"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/446> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "446"^^xsd:string ;
+	rdfs:label "Saccharomyces cerevisiae HFH 21"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/448> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "448"^^xsd:string ;
+	rdfs:label "Salmonella sp."^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/449> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "449"^^xsd:string ;
+	rdfs:label "Salmonella sp. N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/451> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "451"^^xsd:string ;
+	rdfs:label "Salmonella typhimurium N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/452> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "452"^^xsd:string ;
+	rdfs:label "Salmonella typhimurium N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/454> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "454"^^xsd:string ;
+	rdfs:label "Salmonella typhimurium N/S Heat-labile enterotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/455> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "455"^^xsd:string ;
+	rdfs:label "Respirovirus Sendai virus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/456> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:agentId "456"^^xsd:string ;
+	rdfs:label "Respirovirus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/457> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "457"^^xsd:string ;
+	rdfs:label "Respirovirus Sendai virus Enders"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/460> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "460"^^xsd:string ;
+	rdfs:label "Serratia marcescens N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/461> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "461"^^xsd:string ;
+	rdfs:label "Shiga toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/462> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "462"^^xsd:string ;
+	rdfs:label "Shiga-like toxin type 1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/463> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "463"^^xsd:string ;
+	rdfs:label "Shigella toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/467> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/37> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "467"^^xsd:string ;
+	rdfs:label "Shigella dysenteriae N/S Shiga toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/469> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "469"^^xsd:string ;
+	rdfs:label "Shigella flexneri N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/472> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/38> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "472"^^xsd:string ;
+	rdfs:label "Sporothrix schenckii CDC B4668"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/473> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/38> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "473"^^xsd:string ;
+	rdfs:label "Sporothrix schenckii IMT58"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/474> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "474"^^xsd:string ;
+	rdfs:label "Staphylococcal enterotoxin-B"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/477> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "477"^^xsd:string ;
+	rdfs:label "Staphylococcus aureus ATCC 12600"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/478> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "478"^^xsd:string ;
+	rdfs:label "Staphylococcus aureus 8095"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/479> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "479"^^xsd:string ;
+	rdfs:label "Staphylococcus aureus N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/481> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "481"^^xsd:string ;
+	rdfs:label "Staphylococcus saprophyticus N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/484> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "484"^^xsd:string ;
+	rdfs:label "Stenotrophomonas maltophilia ATCC 13637"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/487> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "487"^^xsd:string ;
+	rdfs:label "Streptococcus gordonii Challis"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/488> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/5> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/9> ,
+		<https://sugarbind.expasy.org/affectedAreas/10> ,
+		<https://sugarbind.expasy.org/affectedAreas/9> ,
+		<https://sugarbind.expasy.org/affectedAreas/10> ;
+	:agentId "488"^^xsd:string ;
+	rdfs:label "Streptococcus gordonii DL1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/489> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "489"^^xsd:string ;
+	rdfs:label "Streptococcus gordonii M99"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/490> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "490"^^xsd:string ;
+	rdfs:label "Streptococcus gordonii N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/492> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "492"^^xsd:string ;
+	rdfs:label "Streptococcus mitis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/493> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "493"^^xsd:string ;
+	rdfs:label "Streptococcus mitis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/495> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "495"^^xsd:string ;
+	rdfs:label "Streptococcus pneumoniae 27336"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/496> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "496"^^xsd:string ;
+	rdfs:label "Streptococcus pneumoniae ATCC 33400"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/497> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "497"^^xsd:string ;
+	rdfs:label "Streptococcus pneumoniae 6303"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/498> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "498"^^xsd:string ;
+	rdfs:label "Streptococcus pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/499> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "499"^^xsd:string ;
+	rdfs:label "Streptococcus pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/500> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "500"^^xsd:string ;
+	rdfs:label "Streptococcus pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/501> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "501"^^xsd:string ;
+	rdfs:label "Streptococcus pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/502> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "502"^^xsd:string ;
+	rdfs:label "Streptococcus pneumoniae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/504> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "504"^^xsd:string ;
+	rdfs:label "Streptococcus sanguinis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/505> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "505"^^xsd:string ;
+	rdfs:label "Streptococcus sanguinis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/507> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "507"^^xsd:string ;
+	rdfs:label "Streptococcus suis 628"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/508> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "508"^^xsd:string ;
+	rdfs:label "Streptococcus suis 836"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/509> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "509"^^xsd:string ;
+	rdfs:label "Streptococcus suis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/510> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "510"^^xsd:string ;
+	rdfs:label "Streptococcus suis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/511> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/1> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "511"^^xsd:string ;
+	rdfs:label "Streptococcus suis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/514> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/39> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/34> ;
+	:agentId "514"^^xsd:string ;
+	rdfs:label "Toxoplasma gondii N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/515> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/39> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/20> ;
+	:agentId "515"^^xsd:string ;
+	rdfs:label "Toxoplasma gondii N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/516> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/39> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/20> ;
+	:agentId "516"^^xsd:string ;
+	rdfs:label "Toxoplasma gondii N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/519> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/40> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "519"^^xsd:string ;
+	rdfs:label "Trypanosoma cruzi N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/520> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "520"^^xsd:string ;
+	rdfs:label "Verotoxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/523> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "523"^^xsd:string ;
+	rdfs:label "Vibrio cholerae ATCC 14034"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/524> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "524"^^xsd:string ;
+	rdfs:label "Vibrio cholerae ATCC 14035"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/525> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "525"^^xsd:string ;
+	rdfs:label "Vibrio cholerae O1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/526> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "526"^^xsd:string ;
+	rdfs:label "Vibrio cholerae N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/528> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "528"^^xsd:string ;
+	rdfs:label "Vibrio cholerae N/S Toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/530> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "530"^^xsd:string ;
+	rdfs:label "Vibrio cholerae N/S Toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/532> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "532"^^xsd:string ;
+	rdfs:label "Vibrio cholerae N/S Toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/534> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "534"^^xsd:string ;
+	rdfs:label "Vibrio cholerae N/S Toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/536> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "536"^^xsd:string ;
+	rdfs:label "Vibrio cholerae N/S Toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/538> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/41> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "538"^^xsd:string ;
+	rdfs:label "Vibrio cholerae N/S Toxin"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/539> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "539"^^xsd:string ;
+	rdfs:label "Vibrio damsela (Photobacterium damsela)"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/541> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "541"^^xsd:string ;
+	rdfs:label "Vibrio furnissii N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/543> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "543"^^xsd:string ;
+	rdfs:label "Vibrio harveyi N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/546> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/42> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "546"^^xsd:string ;
+	rdfs:label "Yersinia pestis N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/548> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/44> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/1> ;
+	:agentId "548"^^xsd:string ;
+	rdfs:label "Burkholderia cenocepacia J2135"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/549> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "549"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/550> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "550"^^xsd:string ;
+	rdfs:label "Escherichia coli N/S"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/551> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "551"^^xsd:string ;
+	rdfs:label "Polyomavirus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/552> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/27> ;
+	:agentId "552"^^xsd:string ;
+	rdfs:label "Influenza B Influenza B virus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/553> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "553"^^xsd:string ;
+	rdfs:label "Polyomavirus Human polyomavirus 9"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/554> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "554"^^xsd:string ;
+	rdfs:label "Polyomavirus Human JC polyomavirus"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/555> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "555"^^xsd:string ;
+	rdfs:label "Polyomavirus Human JC polyomavirus Mad-1"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/556> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:agentId "556"^^xsd:string ;
+	rdfs:label "Rotavirus Human rotavirus P[14]"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/557> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "557"^^xsd:string ;
+	rdfs:label "Rotavirus Human rotavirus P[14] HAL1166"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/558> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:agentId "558"^^xsd:string ;
+	rdfs:label "Rotavirus Simian rotavirus A"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/559> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:agentId "559"^^xsd:string ;
+	rdfs:label "Rotavirus Bovine rotavirus A"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/560> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "560"^^xsd:string ;
+	rdfs:label "Rotavirus Unclassified Rotavirus A RRV"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/564> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/47> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:agentId "564"^^xsd:string ;
+	rdfs:label "Adenovirus Human adenovirus D 37"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/565> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:agentId "565"^^xsd:string ;
+	rdfs:label "Adenovirus Human adenovirus D 19"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/566> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/17> ;
+	:agentId "566"^^xsd:string ;
+	rdfs:label "Norovirus norwalk virus GII.12"^^xsd:string .
+
+<https://sugarbind.expasy.org/agents/569> rdf:type owl:NamedIndividual ,
+		:Agent ;
+	:causes <https://sugarbind.expasy.org/diseases/35> ;
+	:found_in <https://sugarbind.expasy.org/affectedAreas/33> ;
+	:agentId "569"^^xsd:string ;
+	rdfs:label "Rotavirus Human Rotavirus A Human Rotavirus G3P[6]"^^xsd:string .
+

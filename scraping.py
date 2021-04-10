@@ -591,21 +591,21 @@ def ttl_agent():
 
 if __name__ == "__main__":
     ### scraping from sugarbind ( https://sugarbind.expasy.org )
-    #agent_list()
+    agent_list()
         # creating agent_list.csv
-    #lectin_list()
+    lectin_list()
         # creating lectin_list.csv
-    #disease_list()
+    disease_list()
         # creating disease_list.csv
-    #area_list()
+    area_list()
         # creating area_list.csv
-    #lectin_pubmed()
+    lectin_pubmed()
         # creating lectin_pubmed.csv
-    #lectin_ligand()
+    lectin_ligand()
         # creating lectin_ligand.csv
-    #structure_ligand()
-        # creating ligand_names.csv
-    #area_disease()
+    structure_ligand()
+        # creating ligand_names.csv, structure_ligand
+    area_disease()
         # creating area_disease.csv
     agent_area()
         # creating agent_affected_area.csv

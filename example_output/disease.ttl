@@ -1,0 +1,633 @@
+#######################################################
+### Individuals (Disease)
+#######################################################
+
+<https://sugarbind.expasy.org/diseases/1> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/399> ,
+		<https://sugarbind.expasy.org/agents/461> ,
+		<https://sugarbind.expasy.org/agents/115> ,
+		<https://sugarbind.expasy.org/agents/469> ,
+		<https://sugarbind.expasy.org/agents/463> ,
+		<https://sugarbind.expasy.org/agents/495> ,
+		<https://sugarbind.expasy.org/agents/36> ,
+		<https://sugarbind.expasy.org/agents/497> ,
+		<https://sugarbind.expasy.org/agents/509> ,
+		<https://sugarbind.expasy.org/agents/496> ,
+		<https://sugarbind.expasy.org/agents/498> ,
+		<https://sugarbind.expasy.org/agents/499> ,
+		<https://sugarbind.expasy.org/agents/501> ,
+		<https://sugarbind.expasy.org/agents/502> ,
+		<https://sugarbind.expasy.org/agents/507> ,
+		<https://sugarbind.expasy.org/agents/81> ,
+		<https://sugarbind.expasy.org/agents/419> ,
+		<https://sugarbind.expasy.org/agents/500> ,
+		<https://sugarbind.expasy.org/agents/508> ,
+		<https://sugarbind.expasy.org/agents/460> ,
+		<https://sugarbind.expasy.org/agents/120> ,
+		<https://sugarbind.expasy.org/agents/430> ,
+		<https://sugarbind.expasy.org/agents/456> ,
+		<https://sugarbind.expasy.org/agents/400> ,
+		<https://sugarbind.expasy.org/agents/511> ,
+		<https://sugarbind.expasy.org/agents/401> ,
+		<https://sugarbind.expasy.org/agents/402> ,
+		<https://sugarbind.expasy.org/agents/403> ,
+		<https://sugarbind.expasy.org/agents/454> ,
+		<https://sugarbind.expasy.org/agents/445> ,
+		<https://sugarbind.expasy.org/agents/451> ,
+		<https://sugarbind.expasy.org/agents/13> ,
+		<https://sugarbind.expasy.org/agents/14> ,
+		<https://sugarbind.expasy.org/agents/16> ,
+		<https://sugarbind.expasy.org/agents/15> ,
+		<https://sugarbind.expasy.org/agents/510> ,
+		<https://sugarbind.expasy.org/agents/452> ,
+		<https://sugarbind.expasy.org/agents/446> ,
+		<https://sugarbind.expasy.org/agents/61> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/18> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ,
+		<https://sugarbind.expasy.org/affectedAreas/6> ,
+		<https://sugarbind.expasy.org/affectedAreas/11> ;
+	:diseaseId "1"^^xsd:string ;
+	rdfs:label "Unknown"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/2> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/3> ,
+		<https://sugarbind.expasy.org/agents/4> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/2> ;
+	:diseaseId "2"^^xsd:string ;
+	rdfs:label "Pleuropneumonia"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/3> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/3> ,
+		<https://sugarbind.expasy.org/agents/4> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/2> ;
+	:diseaseId "3"^^xsd:string ;
+	rdfs:label "Porcine fibrinohemorrhagic necrotizing pleuropneumonia"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/4> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/9> ,
+		<https://sugarbind.expasy.org/agents/11> ,
+		<https://sugarbind.expasy.org/agents/8> ,
+		<https://sugarbind.expasy.org/agents/10> ,
+		<https://sugarbind.expasy.org/agents/7> ,
+		<https://sugarbind.expasy.org/agents/12> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/10> ,
+		<https://sugarbind.expasy.org/affectedAreas/6> ,
+		<https://sugarbind.expasy.org/affectedAreas/5> ,
+		<https://sugarbind.expasy.org/affectedAreas/9> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "4"^^xsd:string ;
+	rdfs:label "Actinomycosis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/5> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/488> ,
+		<https://sugarbind.expasy.org/agents/12> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/10> ,
+		<https://sugarbind.expasy.org/affectedAreas/5> ,
+		<https://sugarbind.expasy.org/affectedAreas/9> ;
+	:diseaseId "5"^^xsd:string ;
+	rdfs:label "Lazy leukocyte syndrome"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/6> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/18> ,
+		<https://sugarbind.expasy.org/agents/19> ,
+		<https://sugarbind.expasy.org/agents/21> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "6"^^xsd:string ;
+	rdfs:label "Pertussis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/7> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/24> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "7"^^xsd:string ;
+	rdfs:label "Lyme disease"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/8> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/34> ,
+		<https://sugarbind.expasy.org/agents/30> ,
+		<https://sugarbind.expasy.org/agents/33> ,
+		<https://sugarbind.expasy.org/agents/31> ,
+		<https://sugarbind.expasy.org/agents/32> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "8"^^xsd:string ;
+	rdfs:label "Cutaneous lesions"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/9> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/38> ,
+		<https://sugarbind.expasy.org/agents/40> ,
+		<https://sugarbind.expasy.org/agents/39> ,
+		<https://sugarbind.expasy.org/agents/42> ,
+		<https://sugarbind.expasy.org/agents/41> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/14> ;
+	:diseaseId "9"^^xsd:string ;
+	rdfs:label "Melioidosis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/10> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/52> ,
+		<https://sugarbind.expasy.org/agents/53> ,
+		<https://sugarbind.expasy.org/agents/54> ,
+		<https://sugarbind.expasy.org/agents/55> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "10"^^xsd:string ;
+	rdfs:label "Candidiasis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/11> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/58> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "11"^^xsd:string ;
+	rdfs:label "Taiwan acute respiratory agent"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/12> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/60> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "12"^^xsd:string ;
+	rdfs:label "Trachoma"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/13> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/76> ,
+		<https://sugarbind.expasy.org/agents/74> ,
+		<https://sugarbind.expasy.org/agents/72> ,
+		<https://sugarbind.expasy.org/agents/71> ,
+		<https://sugarbind.expasy.org/agents/70> ,
+		<https://sugarbind.expasy.org/agents/68> ,
+		<https://sugarbind.expasy.org/agents/67> ,
+		<https://sugarbind.expasy.org/agents/66> ,
+		<https://sugarbind.expasy.org/agents/65> ,
+		<https://sugarbind.expasy.org/agents/64> ,
+		<https://sugarbind.expasy.org/agents/63> ,
+		<https://sugarbind.expasy.org/agents/78> ,
+		<https://sugarbind.expasy.org/agents/62> ,
+		<https://sugarbind.expasy.org/agents/61> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/15> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "13"^^xsd:string ;
+	rdfs:label "Botulism"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/14> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/84> ,
+		<https://sugarbind.expasy.org/agents/61> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/19> ,
+		<https://sugarbind.expasy.org/affectedAreas/4> ;
+	:diseaseId "14"^^xsd:string ;
+	rdfs:label "Clostridial myonecrosis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/15> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/95> ,
+		<https://sugarbind.expasy.org/agents/91> ,
+		<https://sugarbind.expasy.org/agents/61> ,
+		<https://sugarbind.expasy.org/agents/87> ,
+		<https://sugarbind.expasy.org/agents/89> ,
+		<https://sugarbind.expasy.org/agents/93> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/20> ;
+	:diseaseId "15"^^xsd:string ;
+	rdfs:label "Tetanus"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/16> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/101> ,
+		<https://sugarbind.expasy.org/agents/102> ,
+		<https://sugarbind.expasy.org/agents/103> ,
+		<https://sugarbind.expasy.org/agents/104> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "16"^^xsd:string ;
+	rdfs:label "Cryptococcosis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/17> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/107> ,
+		<https://sugarbind.expasy.org/agents/109> ,
+		<https://sugarbind.expasy.org/agents/108> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "17"^^xsd:string ;
+	rdfs:label "Amebiasis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/18> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/117> ,
+		<https://sugarbind.expasy.org/agents/116> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/22> ;
+	:diseaseId "18"^^xsd:string ;
+	rdfs:label "Cystitis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/19> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/119> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "19"^^xsd:string ;
+	rdfs:label "Hemorrhagic colitis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/20> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/121> ,
+		<https://sugarbind.expasy.org/agents/130> ,
+		<https://sugarbind.expasy.org/agents/123> ,
+		<https://sugarbind.expasy.org/agents/127> ,
+		<https://sugarbind.expasy.org/agents/124> ,
+		<https://sugarbind.expasy.org/agents/125> ,
+		<https://sugarbind.expasy.org/agents/126> ,
+		<https://sugarbind.expasy.org/agents/152> ,
+		<https://sugarbind.expasy.org/agents/128> ,
+		<https://sugarbind.expasy.org/agents/129> ,
+		<https://sugarbind.expasy.org/agents/132> ,
+		<https://sugarbind.expasy.org/agents/122> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/23> ,
+		<https://sugarbind.expasy.org/affectedAreas/22> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "20"^^xsd:string ;
+	rdfs:label "Pyelonephritis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/21> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/152> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ,
+		<https://sugarbind.expasy.org/affectedAreas/22> ;
+	:diseaseId "21"^^xsd:string ;
+	rdfs:label "Acute cystitis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/22> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/180> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "22"^^xsd:string ;
+	rdfs:label "Vincent's angina"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/23> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/210> ,
+		<https://sugarbind.expasy.org/agents/209> ,
+		<https://sugarbind.expasy.org/agents/216> ,
+		<https://sugarbind.expasy.org/agents/204> ,
+		<https://sugarbind.expasy.org/agents/206> ,
+		<https://sugarbind.expasy.org/agents/208> ,
+		<https://sugarbind.expasy.org/agents/217> ,
+		<https://sugarbind.expasy.org/agents/211> ,
+		<https://sugarbind.expasy.org/agents/213> ,
+		<https://sugarbind.expasy.org/agents/214> ,
+		<https://sugarbind.expasy.org/agents/205> ,
+		<https://sugarbind.expasy.org/agents/207> ,
+		<https://sugarbind.expasy.org/agents/215> ,
+		<https://sugarbind.expasy.org/agents/212> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:diseaseId "23"^^xsd:string ;
+	rdfs:label "Chronic gastritis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/24> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/210> ,
+		<https://sugarbind.expasy.org/agents/208> ,
+		<https://sugarbind.expasy.org/agents/204> ,
+		<https://sugarbind.expasy.org/agents/216> ,
+		<https://sugarbind.expasy.org/agents/217> ,
+		<https://sugarbind.expasy.org/agents/214> ,
+		<https://sugarbind.expasy.org/agents/211> ,
+		<https://sugarbind.expasy.org/agents/212> ,
+		<https://sugarbind.expasy.org/agents/213> ,
+		<https://sugarbind.expasy.org/agents/207> ,
+		<https://sugarbind.expasy.org/agents/209> ,
+		<https://sugarbind.expasy.org/agents/205> ,
+		<https://sugarbind.expasy.org/agents/215> ,
+		<https://sugarbind.expasy.org/agents/206> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:diseaseId "24"^^xsd:string ;
+	rdfs:label "Peptic ulcers"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/25> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/206> ,
+		<https://sugarbind.expasy.org/agents/205> ,
+		<https://sugarbind.expasy.org/agents/204> ,
+		<https://sugarbind.expasy.org/agents/215> ,
+		<https://sugarbind.expasy.org/agents/212> ,
+		<https://sugarbind.expasy.org/agents/208> ,
+		<https://sugarbind.expasy.org/agents/207> ,
+		<https://sugarbind.expasy.org/agents/216> ,
+		<https://sugarbind.expasy.org/agents/214> ,
+		<https://sugarbind.expasy.org/agents/210> ,
+		<https://sugarbind.expasy.org/agents/209> ,
+		<https://sugarbind.expasy.org/agents/213> ,
+		<https://sugarbind.expasy.org/agents/211> ,
+		<https://sugarbind.expasy.org/agents/217> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/24> ;
+	:diseaseId "25"^^xsd:string ;
+	rdfs:label "Gastric cancer"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/26> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/220> ,
+		<https://sugarbind.expasy.org/agents/221> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "26"^^xsd:string ;
+	rdfs:label "Histoplasmosis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/27> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/322> ,
+		<https://sugarbind.expasy.org/agents/327> ,
+		<https://sugarbind.expasy.org/agents/329> ,
+		<https://sugarbind.expasy.org/agents/326> ,
+		<https://sugarbind.expasy.org/agents/325> ,
+		<https://sugarbind.expasy.org/agents/323> ,
+		<https://sugarbind.expasy.org/agents/321> ,
+		<https://sugarbind.expasy.org/agents/313> ,
+		<https://sugarbind.expasy.org/agents/319> ,
+		<https://sugarbind.expasy.org/agents/317> ,
+		<https://sugarbind.expasy.org/agents/315> ,
+		<https://sugarbind.expasy.org/agents/330> ,
+		<https://sugarbind.expasy.org/agents/312> ,
+		<https://sugarbind.expasy.org/agents/310> ,
+		<https://sugarbind.expasy.org/agents/308> ,
+		<https://sugarbind.expasy.org/agents/320> ,
+		<https://sugarbind.expasy.org/agents/331> ,
+		<https://sugarbind.expasy.org/agents/337> ,
+		<https://sugarbind.expasy.org/agents/333> ,
+		<https://sugarbind.expasy.org/agents/306> ,
+		<https://sugarbind.expasy.org/agents/345> ,
+		<https://sugarbind.expasy.org/agents/344> ,
+		<https://sugarbind.expasy.org/agents/241> ,
+		<https://sugarbind.expasy.org/agents/239> ,
+		<https://sugarbind.expasy.org/agents/240> ,
+		<https://sugarbind.expasy.org/agents/343> ,
+		<https://sugarbind.expasy.org/agents/342> ,
+		<https://sugarbind.expasy.org/agents/335> ,
+		<https://sugarbind.expasy.org/agents/341> ,
+		<https://sugarbind.expasy.org/agents/340> ,
+		<https://sugarbind.expasy.org/agents/339> ,
+		<https://sugarbind.expasy.org/agents/338> ,
+		<https://sugarbind.expasy.org/agents/336> ,
+		<https://sugarbind.expasy.org/agents/334> ,
+		<https://sugarbind.expasy.org/agents/332> ,
+		<https://sugarbind.expasy.org/agents/304> ,
+		<https://sugarbind.expasy.org/agents/272> ,
+		<https://sugarbind.expasy.org/agents/301> ,
+		<https://sugarbind.expasy.org/agents/266> ,
+		<https://sugarbind.expasy.org/agents/231> ,
+		<https://sugarbind.expasy.org/agents/227> ,
+		<https://sugarbind.expasy.org/agents/552> ,
+		<https://sugarbind.expasy.org/agents/229> ,
+		<https://sugarbind.expasy.org/agents/230> ,
+		<https://sugarbind.expasy.org/agents/243> ,
+		<https://sugarbind.expasy.org/agents/235> ,
+		<https://sugarbind.expasy.org/agents/244> ,
+		<https://sugarbind.expasy.org/agents/303> ,
+		<https://sugarbind.expasy.org/agents/236> ,
+		<https://sugarbind.expasy.org/agents/245> ,
+		<https://sugarbind.expasy.org/agents/246> ,
+		<https://sugarbind.expasy.org/agents/268> ,
+		<https://sugarbind.expasy.org/agents/248> ,
+		<https://sugarbind.expasy.org/agents/252> ,
+		<https://sugarbind.expasy.org/agents/257> ,
+		<https://sugarbind.expasy.org/agents/253> ,
+		<https://sugarbind.expasy.org/agents/254> ,
+		<https://sugarbind.expasy.org/agents/262> ,
+		<https://sugarbind.expasy.org/agents/256> ,
+		<https://sugarbind.expasy.org/agents/258> ,
+		<https://sugarbind.expasy.org/agents/260> ,
+		<https://sugarbind.expasy.org/agents/259> ,
+		<https://sugarbind.expasy.org/agents/255> ,
+		<https://sugarbind.expasy.org/agents/264> ,
+		<https://sugarbind.expasy.org/agents/263> ,
+		<https://sugarbind.expasy.org/agents/237> ,
+		<https://sugarbind.expasy.org/agents/250> ,
+		<https://sugarbind.expasy.org/agents/269> ,
+		<https://sugarbind.expasy.org/agents/228> ,
+		<https://sugarbind.expasy.org/agents/271> ,
+		<https://sugarbind.expasy.org/agents/293> ,
+		<https://sugarbind.expasy.org/agents/292> ,
+		<https://sugarbind.expasy.org/agents/291> ,
+		<https://sugarbind.expasy.org/agents/290> ,
+		<https://sugarbind.expasy.org/agents/289> ,
+		<https://sugarbind.expasy.org/agents/270> ,
+		<https://sugarbind.expasy.org/agents/275> ,
+		<https://sugarbind.expasy.org/agents/276> ,
+		<https://sugarbind.expasy.org/agents/294> ,
+		<https://sugarbind.expasy.org/agents/277> ,
+		<https://sugarbind.expasy.org/agents/279> ,
+		<https://sugarbind.expasy.org/agents/280> ,
+		<https://sugarbind.expasy.org/agents/281> ,
+		<https://sugarbind.expasy.org/agents/282> ,
+		<https://sugarbind.expasy.org/agents/283> ,
+		<https://sugarbind.expasy.org/agents/284> ,
+		<https://sugarbind.expasy.org/agents/285> ,
+		<https://sugarbind.expasy.org/agents/286> ,
+		<https://sugarbind.expasy.org/agents/278> ,
+		<https://sugarbind.expasy.org/agents/295> ,
+		<https://sugarbind.expasy.org/agents/297> ,
+		<https://sugarbind.expasy.org/agents/298> ,
+		<https://sugarbind.expasy.org/agents/238> ,
+		<https://sugarbind.expasy.org/agents/225> ,
+		<https://sugarbind.expasy.org/agents/287> ,
+		<https://sugarbind.expasy.org/agents/273> ,
+		<https://sugarbind.expasy.org/agents/274> ,
+		<https://sugarbind.expasy.org/agents/300> ,
+		<https://sugarbind.expasy.org/agents/288> ,
+		<https://sugarbind.expasy.org/agents/299> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/25> ,
+		<https://sugarbind.expasy.org/affectedAreas/3> ,
+		<https://sugarbind.expasy.org/affectedAreas/27> ;
+	:diseaseId "27"^^xsd:string ;
+	rdfs:label "Influenza"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/28> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/351> ,
+		<https://sugarbind.expasy.org/agents/350> ,
+		<https://sugarbind.expasy.org/agents/349> ,
+		<https://sugarbind.expasy.org/agents/348> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "28"^^xsd:string ;
+	rdfs:label "Klebsiella pneumonia infection"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/29> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/360> ,
+		<https://sugarbind.expasy.org/agents/361> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "29"^^xsd:string ;
+	rdfs:label "Pneumonia"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/30> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/361> ,
+		<https://sugarbind.expasy.org/agents/360> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "30"^^xsd:string ;
+	rdfs:label "Legionnaires' disease"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/31> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/366> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "31"^^xsd:string ;
+	rdfs:label "Chronic respiratory disease"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/32> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/369> ,
+		<https://sugarbind.expasy.org/agents/368> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "32"^^xsd:string ;
+	rdfs:label "Pharyngitis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/33> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/369> ,
+		<https://sugarbind.expasy.org/agents/368> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "33"^^xsd:string ;
+	rdfs:label "Tracheobronchitis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/34> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/381> ,
+		<https://sugarbind.expasy.org/agents/378> ,
+		<https://sugarbind.expasy.org/agents/379> ,
+		<https://sugarbind.expasy.org/agents/377> ,
+		<https://sugarbind.expasy.org/agents/376> ,
+		<https://sugarbind.expasy.org/agents/375> ,
+		<https://sugarbind.expasy.org/agents/374> ,
+		<https://sugarbind.expasy.org/agents/373> ,
+		<https://sugarbind.expasy.org/agents/372> ,
+		<https://sugarbind.expasy.org/agents/371> ,
+		<https://sugarbind.expasy.org/agents/380> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "34"^^xsd:string ;
+	rdfs:label "Gonorrhea"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/35> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/558> ,
+		<https://sugarbind.expasy.org/agents/560> ,
+		<https://sugarbind.expasy.org/agents/441> ,
+		<https://sugarbind.expasy.org/agents/557> ,
+		<https://sugarbind.expasy.org/agents/391> ,
+		<https://sugarbind.expasy.org/agents/569> ,
+		<https://sugarbind.expasy.org/agents/556> ,
+		<https://sugarbind.expasy.org/agents/386> ,
+		<https://sugarbind.expasy.org/agents/566> ,
+		<https://sugarbind.expasy.org/agents/388> ,
+		<https://sugarbind.expasy.org/agents/389> ,
+		<https://sugarbind.expasy.org/agents/390> ,
+		<https://sugarbind.expasy.org/agents/392> ,
+		<https://sugarbind.expasy.org/agents/393> ,
+		<https://sugarbind.expasy.org/agents/394> ,
+		<https://sugarbind.expasy.org/agents/387> ,
+		<https://sugarbind.expasy.org/agents/559> ,
+		<https://sugarbind.expasy.org/agents/396> ,
+		<https://sugarbind.expasy.org/agents/397> ,
+		<https://sugarbind.expasy.org/agents/395> ,
+		<https://sugarbind.expasy.org/agents/442> ,
+		<https://sugarbind.expasy.org/agents/439> ,
+		<https://sugarbind.expasy.org/agents/440> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/17> ,
+		<https://sugarbind.expasy.org/affectedAreas/33> ;
+	:diseaseId "35"^^xsd:string ;
+	rdfs:label "Gastroenteritis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/36> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/409> ,
+		<https://sugarbind.expasy.org/agents/410> ,
+		<https://sugarbind.expasy.org/agents/411> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "36"^^xsd:string ;
+	rdfs:label "Malaria"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/37> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/467> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "37"^^xsd:string ;
+	rdfs:label "Shigellosis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/38> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/473> ,
+		<https://sugarbind.expasy.org/agents/472> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "38"^^xsd:string ;
+	rdfs:label "Sporotrichosis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/39> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/516> ,
+		<https://sugarbind.expasy.org/agents/515> ,
+		<https://sugarbind.expasy.org/agents/514> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/20> ,
+		<https://sugarbind.expasy.org/affectedAreas/34> ;
+	:diseaseId "39"^^xsd:string ;
+	rdfs:label "Toxoplasmosis"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/40> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/519> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "40"^^xsd:string ;
+	rdfs:label "Chagas disease"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/41> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/524> ,
+		<https://sugarbind.expasy.org/agents/523> ,
+		<https://sugarbind.expasy.org/agents/536> ,
+		<https://sugarbind.expasy.org/agents/532> ,
+		<https://sugarbind.expasy.org/agents/525> ,
+		<https://sugarbind.expasy.org/agents/534> ,
+		<https://sugarbind.expasy.org/agents/526> ,
+		<https://sugarbind.expasy.org/agents/538> ,
+		<https://sugarbind.expasy.org/agents/530> ,
+		<https://sugarbind.expasy.org/agents/528> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "41"^^xsd:string ;
+	rdfs:label "Cholera"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/42> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/546> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "42"^^xsd:string ;
+	rdfs:label "Plague"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/43> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/151> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/4> ;
+	:diseaseId "43"^^xsd:string ;
+	rdfs:label "Diarrhea"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/44> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/548> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/1> ;
+	:diseaseId "44"^^xsd:string ;
+	rdfs:label "Lung infection"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/46> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/223> ,
+		<https://sugarbind.expasy.org/agents/222> ,
+		<https://sugarbind.expasy.org/agents/224> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/7> ;
+	:diseaseId "46"^^xsd:string ;
+	rdfs:label "Acquired immune deficiency syndrome"^^xsd:string .
+
+<https://sugarbind.expasy.org/diseases/47> rdf:type owl:NamedIndividual ,
+		:Disease ;
+	:caused_by <https://sugarbind.expasy.org/agents/564> ;
+	:caused_at <https://sugarbind.expasy.org/affectedAreas/3> ;
+	:diseaseId "47"^^xsd:string ;
+	rdfs:label "Keratoconjunctivitis"^^xsd:string .
+

@@ -1,0 +1,40 @@
+Affected Area ID,Area Name,Area Type
+1,Respiratory system,1
+3,Unknown,1
+4,Digestive system,1
+7,Immune system,1
+11,Integumentary system,1
+15,Nervous system,1
+19,Integumentary,1
+20,Central nervous system,1
+21,Urinary tract,1
+34,Systemic,1
+39,Circulatory system,1
+2,Lung,2
+5,Oral cavity,2
+12,Pharnyx,2
+16,Colon,2
+22,Urinary bladder,2
+23,Kidney,2
+24,Stomach,2
+25,Intestine,2
+26,Upper respiratory tract,2
+28,Oral cavitiy,2
+30,Rectum,2
+31,Eye,2
+33,Small intestine,2
+36,Colonic mesentery,2
+38,Brain,2
+37,Stomach submucosa,2
+6,Oral epithelial,3
+8,Lymph,3
+10,Periodontium,3
+13,Pharyngeal epithelium,3
+17,Colonic epithelium,3
+27,Tracheal epithelium,3
+29,Mucous membrane,3
+32,Conjunctiva,3
+40,Vascular endothelium,3
+9,Polymorphonuclear leukocyte,4
+14,Pharyngeal epithelial cells,4
+18,Colonic epithelial cells,4

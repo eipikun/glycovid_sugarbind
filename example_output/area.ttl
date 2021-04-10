@@ -1,0 +1,238 @@
+#######################################################
+### Individuals (Area)
+#######################################################
+
+<https://sugarbind.expasy.org/affectedAreas/1> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "1"^^xsd:string ;
+	rdfs:label "Respiratory system"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/2> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "2"^^xsd:string ;
+	rdfs:label "Lung"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/3> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "3"^^xsd:string ;
+	rdfs:label "Unknown"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/4> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "4"^^xsd:string ;
+	rdfs:label "Digestive system"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/5> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "5"^^xsd:string ;
+	rdfs:label "Oral cavity"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/6> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Tissue ;
+	:areaId "6"^^xsd:string ;
+	rdfs:label "Oral epithelial"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/7> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "7"^^xsd:string ;
+	rdfs:label "Immune system"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/8> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Tissue ;
+	:areaId "8"^^xsd:string ;
+	rdfs:label "Lymph"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/9> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Cell ;
+	:areaId "9"^^xsd:string ;
+	rdfs:label "Polymorphonuclear leukocyte"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/10> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Tissue ;
+	:areaId "10"^^xsd:string ;
+	rdfs:label "Periodontium"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/11> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "11"^^xsd:string ;
+	rdfs:label "Integumentary system"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/12> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "12"^^xsd:string ;
+	rdfs:label "Pharnyx"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/13> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Tissue ;
+	:areaId "13"^^xsd:string ;
+	rdfs:label "Pharyngeal epithelium"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/14> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Cell ;
+	:areaId "14"^^xsd:string ;
+	rdfs:label "Pharyngeal epithelial cells"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/15> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "15"^^xsd:string ;
+	rdfs:label "Nervous system"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/16> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "16"^^xsd:string ;
+	rdfs:label "Colon"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/17> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Tissue ;
+	:areaId "17"^^xsd:string ;
+	rdfs:label "Colonic epithelium"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/18> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Cell ;
+	:areaId "18"^^xsd:string ;
+	rdfs:label "Colonic epithelial cells"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/19> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "19"^^xsd:string ;
+	rdfs:label "Integumentary"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/20> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "20"^^xsd:string ;
+	rdfs:label "Central nervous system"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/21> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "21"^^xsd:string ;
+	rdfs:label "Urinary tract"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/22> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "22"^^xsd:string ;
+	rdfs:label "Urinary bladder"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/23> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "23"^^xsd:string ;
+	rdfs:label "Kidney"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/24> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "24"^^xsd:string ;
+	rdfs:label "Stomach"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/25> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "25"^^xsd:string ;
+	rdfs:label "Intestine"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/26> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "26"^^xsd:string ;
+	rdfs:label "Upper respiratory tract"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/27> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Tissue ;
+	:areaId "27"^^xsd:string ;
+	rdfs:label "Tracheal epithelium"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/28> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "28"^^xsd:string ;
+	rdfs:label "Oral cavitiy"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/29> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Tissue ;
+	:areaId "29"^^xsd:string ;
+	rdfs:label "Mucous membrane"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/30> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "30"^^xsd:string ;
+	rdfs:label "Rectum"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/31> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "31"^^xsd:string ;
+	rdfs:label "Eye"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/32> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Tissue ;
+	:areaId "32"^^xsd:string ;
+	rdfs:label "Conjunctiva"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/33> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "33"^^xsd:string ;
+	rdfs:label "Small intestine"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/34> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "34"^^xsd:string ;
+	rdfs:label "Systemic"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/36> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "36"^^xsd:string ;
+	rdfs:label "Colonic mesentery"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/37> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "37"^^xsd:string ;
+	rdfs:label "Stomach submucosa"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/38> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Organ ;
+	:areaId "38"^^xsd:string ;
+	rdfs:label "Brain"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/39> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:System ;
+	:areaId "39"^^xsd:string ;
+	rdfs:label "Circulatory system"^^xsd:string .
+
+<https://sugarbind.expasy.org/affectedAreas/40> rdf:type owl:NamedIndividual ,
+		:Area ,
+		:Tissue ;
+	:areaId "40"^^xsd:string ;
+	rdfs:label "Vascular endothelium"^^xsd:string .
+

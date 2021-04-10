@@ -1,0 +1,3808 @@
+#######################################################
+### Individuals (Lectin including N/S) 
+#######################################################
+
+<https://sugarbind.expasy.org/lectins/1> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/1"^^xsd:anyURI ;
+	rdfs:label "1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/2> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/2"^^xsd:anyURI ;
+	rdfs:label "2"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/3> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/3"^^xsd:anyURI ;
+	rdfs:label "3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/4> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/4"^^xsd:anyURI ;
+	rdfs:label "4"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/5> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/5"^^xsd:anyURI ;
+	rdfs:label "5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/6> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/6"^^xsd:anyURI ;
+	rdfs:label "6"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/7> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/7"^^xsd:anyURI ;
+	rdfs:label "7"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/8> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/8"^^xsd:anyURI ;
+	rdfs:label "8"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/9> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/9"^^xsd:anyURI ;
+	rdfs:label "9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/10> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/10"^^xsd:anyURI ;
+	rdfs:label "10"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/11> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/11"^^xsd:anyURI ;
+	rdfs:label "11"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/12> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/12"^^xsd:anyURI ;
+	rdfs:label "12"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/13> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/13"^^xsd:anyURI ;
+	rdfs:label "13"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/14> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/14"^^xsd:anyURI ;
+	rdfs:label "14"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/15> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/15"^^xsd:anyURI ;
+	rdfs:label "15"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/16> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/16"^^xsd:anyURI ;
+	rdfs:label "16"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/17> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/17"^^xsd:anyURI ;
+	rdfs:label "17"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/18> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/18"^^xsd:anyURI ;
+	rdfs:label "18"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/19> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/19"^^xsd:anyURI ;
+	rdfs:label "19"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/20> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/20"^^xsd:anyURI ;
+	rdfs:label "20"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/21> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/21"^^xsd:anyURI ;
+	rdfs:label "21"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/22> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/22"^^xsd:anyURI ;
+	rdfs:label "22"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/23> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/23"^^xsd:anyURI ;
+	rdfs:label "23"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/24> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/24"^^xsd:anyURI ;
+	rdfs:label "24"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/25> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/25"^^xsd:anyURI ;
+	rdfs:label "25"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/26> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/26"^^xsd:anyURI ;
+	rdfs:label "26"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/27> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/27"^^xsd:anyURI ;
+	rdfs:label "27"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/28> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/28"^^xsd:anyURI ;
+	rdfs:label "28"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/29> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/29"^^xsd:anyURI ;
+	rdfs:label "29"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/30> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/30"^^xsd:anyURI ;
+	rdfs:label "30"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/31> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/31"^^xsd:anyURI ;
+	rdfs:label "31"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/32> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/32"^^xsd:anyURI ;
+	rdfs:label "32"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/33> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/33"^^xsd:anyURI ;
+	rdfs:label "33"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/34> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/34"^^xsd:anyURI ;
+	rdfs:label "34"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/35> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/35"^^xsd:anyURI ;
+	rdfs:label "35"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/36> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/36"^^xsd:anyURI ;
+	rdfs:label "36"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/37> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/37"^^xsd:anyURI ;
+	rdfs:label "37"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/38> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/38"^^xsd:anyURI ;
+	rdfs:label "38"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/39> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/39"^^xsd:anyURI ;
+	rdfs:label "39"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/40> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/40"^^xsd:anyURI ;
+	rdfs:label "40"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/41> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/41"^^xsd:anyURI ;
+	rdfs:label "41"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/42> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/42"^^xsd:anyURI ;
+	rdfs:label "42"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/43> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/43"^^xsd:anyURI ;
+	rdfs:label "43"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/44> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/44"^^xsd:anyURI ;
+	rdfs:label "44"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/45> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/45"^^xsd:anyURI ;
+	rdfs:label "45"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/46> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/46"^^xsd:anyURI ;
+	rdfs:label "46"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/48> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/48"^^xsd:anyURI ;
+	rdfs:label "48"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/51> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/51"^^xsd:anyURI ;
+	rdfs:label "51"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/52> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/52"^^xsd:anyURI ;
+	rdfs:label "52"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/53> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/53"^^xsd:anyURI ;
+	rdfs:label "53"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/54> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/54"^^xsd:anyURI ;
+	rdfs:label "54"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/55> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/55"^^xsd:anyURI ;
+	rdfs:label "55"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/56> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/56"^^xsd:anyURI ;
+	rdfs:label "56"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/57> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/57"^^xsd:anyURI ;
+	rdfs:label "57"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/58> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/58"^^xsd:anyURI ;
+	rdfs:label "58"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/59> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/59"^^xsd:anyURI ;
+	rdfs:label "59"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/61> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/61"^^xsd:anyURI ;
+	rdfs:label "61"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/62> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/62"^^xsd:anyURI ;
+	rdfs:label "62"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/63> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/63"^^xsd:anyURI ;
+	rdfs:label "63"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/64> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/64"^^xsd:anyURI ;
+	rdfs:label "64"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/65> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/65"^^xsd:anyURI ;
+	rdfs:label "65"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/66> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/66"^^xsd:anyURI ;
+	rdfs:label "66"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/67> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/67"^^xsd:anyURI ;
+	rdfs:label "67"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/69> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/69"^^xsd:anyURI ;
+	rdfs:label "69"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/70> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/70"^^xsd:anyURI ;
+	rdfs:label "70"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/71> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/71"^^xsd:anyURI ;
+	rdfs:label "71"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/72> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/72"^^xsd:anyURI ;
+	rdfs:label "72"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/73> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/73"^^xsd:anyURI ;
+	rdfs:label "73"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/74> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/74"^^xsd:anyURI ;
+	rdfs:label "74"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/75> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/75"^^xsd:anyURI ;
+	rdfs:label "75"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/76> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/76"^^xsd:anyURI ;
+	rdfs:label "76"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/77> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/77"^^xsd:anyURI ;
+	rdfs:label "77"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/78> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/78"^^xsd:anyURI ;
+	rdfs:label "78"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/79> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/79"^^xsd:anyURI ;
+	rdfs:label "79"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/80> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/80"^^xsd:anyURI ;
+	rdfs:label "80"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/81> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/81"^^xsd:anyURI ;
+	rdfs:label "81"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/82> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/82"^^xsd:anyURI ;
+	rdfs:label "82"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/83> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/83"^^xsd:anyURI ;
+	rdfs:label "83"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/84> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/84"^^xsd:anyURI ;
+	rdfs:label "84"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/85> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/85"^^xsd:anyURI ;
+	rdfs:label "85"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/86> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/86"^^xsd:anyURI ;
+	rdfs:label "86"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/87> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/87"^^xsd:anyURI ;
+	rdfs:label "87"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/88> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/88"^^xsd:anyURI ;
+	rdfs:label "88"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/89> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/89"^^xsd:anyURI ;
+	rdfs:label "89"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/90> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/90"^^xsd:anyURI ;
+	rdfs:label "90"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/91> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/91"^^xsd:anyURI ;
+	rdfs:label "91"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/92> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/92"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P10845> ;
+	rdfs:label "92"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/93> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/93"^^xsd:anyURI ;
+	rdfs:label "93"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/101> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/101"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P30996> ;
+	rdfs:label "101"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/102> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/102"^^xsd:anyURI ;
+	rdfs:label "102"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/103> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/103"^^xsd:anyURI ;
+	rdfs:label "103"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/106> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/106"^^xsd:anyURI ;
+	rdfs:label "106"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/107> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/107"^^xsd:anyURI ;
+	rdfs:label "107"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/110> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/110"^^xsd:anyURI ;
+	rdfs:label "110"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/111> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/111"^^xsd:anyURI ;
+	rdfs:label "111"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/112> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/112"^^xsd:anyURI ;
+	rdfs:label "112"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/113> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/113"^^xsd:anyURI ;
+	rdfs:label "113"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/114> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/114"^^xsd:anyURI ;
+	rdfs:label "114"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/115> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/115"^^xsd:anyURI ;
+	rdfs:label "115"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/117> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/117"^^xsd:anyURI ;
+	rdfs:label "117"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/118> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/118"^^xsd:anyURI ;
+	rdfs:label "118"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/119> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/119"^^xsd:anyURI ;
+	rdfs:label "119"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/120> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/120"^^xsd:anyURI ;
+	rdfs:label "120"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/121> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/121"^^xsd:anyURI ;
+	rdfs:label "121"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/125> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/125"^^xsd:anyURI ;
+	rdfs:label "125"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/127> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/127"^^xsd:anyURI ;
+	rdfs:label "127"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/128> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/128"^^xsd:anyURI ;
+	rdfs:label "128"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/129> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/129"^^xsd:anyURI ;
+	rdfs:label "129"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/130> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/130"^^xsd:anyURI ;
+	rdfs:label "130"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/131> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/131"^^xsd:anyURI ;
+	rdfs:label "131"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/132> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/132"^^xsd:anyURI ;
+	rdfs:label "132"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/133> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/133"^^xsd:anyURI ;
+	rdfs:label "133"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/134> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/134"^^xsd:anyURI ;
+	rdfs:label "134"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/135> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/135"^^xsd:anyURI ;
+	rdfs:label "135"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/136> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/136"^^xsd:anyURI ;
+	rdfs:label "136"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/137> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/137"^^xsd:anyURI ;
+	rdfs:label "137"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/138> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/138"^^xsd:anyURI ;
+	rdfs:label "138"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/139> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/139"^^xsd:anyURI ;
+	rdfs:label "139"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/140> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/140"^^xsd:anyURI ;
+	rdfs:label "140"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/149> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/149"^^xsd:anyURI ;
+	rdfs:label "149"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/151> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/151"^^xsd:anyURI ;
+	rdfs:label "151"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/152> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/152"^^xsd:anyURI ;
+	rdfs:label "152"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/153> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/153"^^xsd:anyURI ;
+	rdfs:label "153"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/154> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/154"^^xsd:anyURI ;
+	rdfs:label "154"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/155> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/155"^^xsd:anyURI ;
+	rdfs:label "155"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/156> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/156"^^xsd:anyURI ;
+	rdfs:label "156"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/157> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/157"^^xsd:anyURI ;
+	rdfs:label "157"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/158> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/158"^^xsd:anyURI ;
+	rdfs:label "158"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/159> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/159"^^xsd:anyURI ;
+	rdfs:label "159"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/160> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/160"^^xsd:anyURI ;
+	rdfs:label "160"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/161> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/161"^^xsd:anyURI ;
+	rdfs:label "161"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/162> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/162"^^xsd:anyURI ;
+	rdfs:label "162"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/163> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/163"^^xsd:anyURI ;
+	rdfs:label "163"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/164> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/164"^^xsd:anyURI ;
+	rdfs:label "164"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/165> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/165"^^xsd:anyURI ;
+	rdfs:label "165"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/166> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/166"^^xsd:anyURI ;
+	rdfs:label "166"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/167> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/167"^^xsd:anyURI ;
+	rdfs:label "167"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/168> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/168"^^xsd:anyURI ;
+	rdfs:label "168"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/169> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/169"^^xsd:anyURI ;
+	rdfs:label "169"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/170> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/170"^^xsd:anyURI ;
+	rdfs:label "170"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/171> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/171"^^xsd:anyURI ;
+	rdfs:label "171"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/173> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/173"^^xsd:anyURI ;
+	rdfs:label "173"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/174> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/174"^^xsd:anyURI ;
+	rdfs:label "174"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/175> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/175"^^xsd:anyURI ;
+	rdfs:label "175"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/176> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/176"^^xsd:anyURI ;
+	rdfs:label "176"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/177> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/177"^^xsd:anyURI ;
+	rdfs:label "177"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/180> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/180"^^xsd:anyURI ;
+	rdfs:label "180"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/181> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/181"^^xsd:anyURI ;
+	rdfs:label "181"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/182> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/182"^^xsd:anyURI ;
+	rdfs:label "182"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/188> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/188"^^xsd:anyURI ;
+	rdfs:label "188"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/190> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/190"^^xsd:anyURI ;
+	rdfs:label "190"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/191> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/191"^^xsd:anyURI ;
+	rdfs:label "191"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/192> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/192"^^xsd:anyURI ;
+	rdfs:label "192"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/193> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/193"^^xsd:anyURI ;
+	rdfs:label "193"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/194> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/194"^^xsd:anyURI ;
+	rdfs:label "194"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/200> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/200"^^xsd:anyURI ;
+	rdfs:label "200"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/201> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/201"^^xsd:anyURI ;
+	rdfs:label "201"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/202> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/202"^^xsd:anyURI ;
+	rdfs:label "202"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/203> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/203"^^xsd:anyURI ;
+	rdfs:label "203"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/204> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/204"^^xsd:anyURI ;
+	rdfs:label "204"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/205> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/205"^^xsd:anyURI ;
+	rdfs:label "205"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/206> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/206"^^xsd:anyURI ;
+	rdfs:label "206"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/207> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/207"^^xsd:anyURI ;
+	rdfs:label "207"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/208> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/208"^^xsd:anyURI ;
+	rdfs:label "208"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/209> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/209"^^xsd:anyURI ;
+	rdfs:label "209"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/210> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/210"^^xsd:anyURI ;
+	rdfs:label "210"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/211> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/211"^^xsd:anyURI ;
+	rdfs:label "211"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/212> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/212"^^xsd:anyURI ;
+	rdfs:label "212"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/213> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/213"^^xsd:anyURI ;
+	rdfs:label "213"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/214> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/214"^^xsd:anyURI ;
+	rdfs:label "214"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/215> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/215"^^xsd:anyURI ;
+	rdfs:label "215"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/216> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/216"^^xsd:anyURI ;
+	rdfs:label "216"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/221> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/221"^^xsd:anyURI ;
+	rdfs:label "221"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/224> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/224"^^xsd:anyURI ;
+	rdfs:label "224"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/226> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/226"^^xsd:anyURI ;
+	rdfs:label "226"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/227> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/227"^^xsd:anyURI ;
+	rdfs:label "227"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/228> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/228"^^xsd:anyURI ;
+	rdfs:label "228"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/229> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/229"^^xsd:anyURI ;
+	rdfs:label "229"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/230> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/230"^^xsd:anyURI ;
+	rdfs:label "230"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/231> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/231"^^xsd:anyURI ;
+	rdfs:label "231"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/232> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/232"^^xsd:anyURI ;
+	rdfs:label "232"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/233> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/233"^^xsd:anyURI ;
+	rdfs:label "233"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/234> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/234"^^xsd:anyURI ;
+	rdfs:label "234"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/239> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/239"^^xsd:anyURI ;
+	rdfs:label "239"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/240> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/240"^^xsd:anyURI ;
+	rdfs:label "240"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/241> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/241"^^xsd:anyURI ;
+	rdfs:label "241"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/242> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/242"^^xsd:anyURI ;
+	rdfs:label "242"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/243> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/243"^^xsd:anyURI ;
+	rdfs:label "243"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/244> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/244"^^xsd:anyURI ;
+	rdfs:label "244"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/245> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/245"^^xsd:anyURI ;
+	rdfs:label "245"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/246> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/246"^^xsd:anyURI ;
+	rdfs:label "246"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/247> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/247"^^xsd:anyURI ;
+	rdfs:label "247"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/248> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/248"^^xsd:anyURI ;
+	rdfs:label "248"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/249> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/249"^^xsd:anyURI ;
+	rdfs:label "249"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/250> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/250"^^xsd:anyURI ;
+	rdfs:label "250"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/251> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/251"^^xsd:anyURI ;
+	rdfs:label "251"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/252> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/252"^^xsd:anyURI ;
+	rdfs:label "252"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/253> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/253"^^xsd:anyURI ;
+	rdfs:label "253"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/254> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/254"^^xsd:anyURI ;
+	rdfs:label "254"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/255> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/255"^^xsd:anyURI ;
+	rdfs:label "255"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/256> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/256"^^xsd:anyURI ;
+	rdfs:label "256"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/257> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/257"^^xsd:anyURI ;
+	rdfs:label "257"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/258> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/258"^^xsd:anyURI ;
+	rdfs:label "258"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/259> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/259"^^xsd:anyURI ;
+	rdfs:label "259"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/260> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/260"^^xsd:anyURI ;
+	rdfs:label "260"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/261> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/261"^^xsd:anyURI ;
+	rdfs:label "261"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/262> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/262"^^xsd:anyURI ;
+	rdfs:label "262"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/263> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/263"^^xsd:anyURI ;
+	rdfs:label "263"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/264> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/264"^^xsd:anyURI ;
+	rdfs:label "264"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/265> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/265"^^xsd:anyURI ;
+	rdfs:label "265"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/266> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/266"^^xsd:anyURI ;
+	rdfs:label "266"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/267> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/267"^^xsd:anyURI ;
+	rdfs:label "267"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/268> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/268"^^xsd:anyURI ;
+	rdfs:label "268"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/269> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/269"^^xsd:anyURI ;
+	rdfs:label "269"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/270> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/270"^^xsd:anyURI ;
+	rdfs:label "270"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/271> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/271"^^xsd:anyURI ;
+	rdfs:label "271"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/272> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/272"^^xsd:anyURI ;
+	rdfs:label "272"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/273> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/273"^^xsd:anyURI ;
+	rdfs:label "273"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/274> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/274"^^xsd:anyURI ;
+	rdfs:label "274"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/275> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/275"^^xsd:anyURI ;
+	rdfs:label "275"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/276> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/276"^^xsd:anyURI ;
+	rdfs:label "276"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/277> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/277"^^xsd:anyURI ;
+	rdfs:label "277"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/278> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/278"^^xsd:anyURI ;
+	rdfs:label "278"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/279> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/279"^^xsd:anyURI ;
+	rdfs:label "279"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/280> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/280"^^xsd:anyURI ;
+	rdfs:label "280"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/281> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/281"^^xsd:anyURI ;
+	rdfs:label "281"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/282> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/282"^^xsd:anyURI ;
+	rdfs:label "282"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/283> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/283"^^xsd:anyURI ;
+	rdfs:label "283"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/284> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/284"^^xsd:anyURI ;
+	rdfs:label "284"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/285> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/285"^^xsd:anyURI ;
+	rdfs:label "285"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/286> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/286"^^xsd:anyURI ;
+	rdfs:label "286"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/288> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/288"^^xsd:anyURI ;
+	rdfs:label "288"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/289> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/289"^^xsd:anyURI ;
+	rdfs:label "289"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/290> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/290"^^xsd:anyURI ;
+	rdfs:label "290"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/291> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/291"^^xsd:anyURI ;
+	rdfs:label "291"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/292> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/292"^^xsd:anyURI ;
+	rdfs:label "292"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/293> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/293"^^xsd:anyURI ;
+	rdfs:label "293"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/294> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/294"^^xsd:anyURI ;
+	rdfs:label "294"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/295> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/295"^^xsd:anyURI ;
+	rdfs:label "295"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/296> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/296"^^xsd:anyURI ;
+	rdfs:label "296"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/297> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/297"^^xsd:anyURI ;
+	rdfs:label "297"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/298> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/298"^^xsd:anyURI ;
+	rdfs:label "298"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/299> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/299"^^xsd:anyURI ;
+	rdfs:label "299"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/300> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/300"^^xsd:anyURI ;
+	rdfs:label "300"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/301> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/301"^^xsd:anyURI ;
+	rdfs:label "301"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/302> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/302"^^xsd:anyURI ;
+	rdfs:label "302"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/303> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/303"^^xsd:anyURI ;
+	rdfs:label "303"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/304> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/304"^^xsd:anyURI ;
+	rdfs:label "304"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/305> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/305"^^xsd:anyURI ;
+	rdfs:label "305"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/306> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/306"^^xsd:anyURI ;
+	rdfs:label "306"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/307> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/307"^^xsd:anyURI ;
+	rdfs:label "307"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/308> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/308"^^xsd:anyURI ;
+	rdfs:label "308"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/309> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/309"^^xsd:anyURI ;
+	rdfs:label "309"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/310> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/310"^^xsd:anyURI ;
+	rdfs:label "310"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/311> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/311"^^xsd:anyURI ;
+	rdfs:label "311"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/312> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/312"^^xsd:anyURI ;
+	rdfs:label "312"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/313> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/313"^^xsd:anyURI ;
+	rdfs:label "313"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/314> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/314"^^xsd:anyURI ;
+	rdfs:label "314"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/315> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/315"^^xsd:anyURI ;
+	rdfs:label "315"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/316> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/316"^^xsd:anyURI ;
+	rdfs:label "316"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/317> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/317"^^xsd:anyURI ;
+	rdfs:label "317"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/319> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/319"^^xsd:anyURI ;
+	rdfs:label "319"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/320> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/320"^^xsd:anyURI ;
+	rdfs:label "320"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/321> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/321"^^xsd:anyURI ;
+	rdfs:label "321"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/322> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/322"^^xsd:anyURI ;
+	rdfs:label "322"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/324> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/324"^^xsd:anyURI ;
+	rdfs:label "324"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/325> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/325"^^xsd:anyURI ;
+	rdfs:label "325"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/326> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/326"^^xsd:anyURI ;
+	rdfs:label "326"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/327> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/327"^^xsd:anyURI ;
+	rdfs:label "327"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/328> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/328"^^xsd:anyURI ;
+	rdfs:label "328"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/329> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/329"^^xsd:anyURI ;
+	rdfs:label "329"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/333> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/333"^^xsd:anyURI ;
+	rdfs:label "333"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/334> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/334"^^xsd:anyURI ;
+	rdfs:label "334"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/335> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/335"^^xsd:anyURI ;
+	rdfs:label "335"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/338> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/338"^^xsd:anyURI ;
+	rdfs:label "338"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/339> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/339"^^xsd:anyURI ;
+	rdfs:label "339"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/340> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/340"^^xsd:anyURI ;
+	rdfs:label "340"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/341> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/341"^^xsd:anyURI ;
+	rdfs:label "341"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/342> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/342"^^xsd:anyURI ;
+	rdfs:label "342"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/343> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/343"^^xsd:anyURI ;
+	rdfs:label "343"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/344> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/344"^^xsd:anyURI ;
+	rdfs:label "344"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/345> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/345"^^xsd:anyURI ;
+	rdfs:label "345"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/346> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/346"^^xsd:anyURI ;
+	rdfs:label "346"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/347> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/347"^^xsd:anyURI ;
+	rdfs:label "347"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/348> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/348"^^xsd:anyURI ;
+	rdfs:label "348"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/349> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/349"^^xsd:anyURI ;
+	rdfs:label "349"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/350> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/350"^^xsd:anyURI ;
+	rdfs:label "350"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/351> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/351"^^xsd:anyURI ;
+	rdfs:label "351"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/352> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/352"^^xsd:anyURI ;
+	rdfs:label "352"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/353> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/353"^^xsd:anyURI ;
+	rdfs:label "353"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/354> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/354"^^xsd:anyURI ;
+	rdfs:label "354"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/355> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/355"^^xsd:anyURI ;
+	rdfs:label "355"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/356> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/356"^^xsd:anyURI ;
+	rdfs:label "356"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/357> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/357"^^xsd:anyURI ;
+	rdfs:label "357"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/358> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/358"^^xsd:anyURI ;
+	rdfs:label "358"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/361> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/361"^^xsd:anyURI ;
+	rdfs:label "361"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/362> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/362"^^xsd:anyURI ;
+	rdfs:label "362"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/363> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/363"^^xsd:anyURI ;
+	rdfs:label "363"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/364> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/364"^^xsd:anyURI ;
+	rdfs:label "364"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/365> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/365"^^xsd:anyURI ;
+	rdfs:label "365"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/366> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/366"^^xsd:anyURI ;
+	rdfs:label "366"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/367> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/367"^^xsd:anyURI ;
+	rdfs:label "367"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/368> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/368"^^xsd:anyURI ;
+	rdfs:label "368"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/369> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/369"^^xsd:anyURI ;
+	rdfs:label "369"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/370> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/370"^^xsd:anyURI ;
+	rdfs:label "370"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/373> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/373"^^xsd:anyURI ;
+	rdfs:label "373"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/376> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/376"^^xsd:anyURI ;
+	rdfs:label "376"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/377> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/377"^^xsd:anyURI ;
+	rdfs:label "377"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/378> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/378"^^xsd:anyURI ;
+	rdfs:label "378"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/379> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/379"^^xsd:anyURI ;
+	rdfs:label "379"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/380> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/380"^^xsd:anyURI ;
+	rdfs:label "380"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/381> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/381"^^xsd:anyURI ;
+	rdfs:label "381"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/382> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/382"^^xsd:anyURI ;
+	rdfs:label "382"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/383> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/383"^^xsd:anyURI ;
+	rdfs:label "383"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/384> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/384"^^xsd:anyURI ;
+	rdfs:label "384"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/385> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/385"^^xsd:anyURI ;
+	rdfs:label "385"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/386> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/386"^^xsd:anyURI ;
+	rdfs:label "386"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/387> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/387"^^xsd:anyURI ;
+	rdfs:label "387"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/388> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/388"^^xsd:anyURI ;
+	rdfs:label "388"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/403> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/403"^^xsd:anyURI ;
+	rdfs:label "403"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/404> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/404"^^xsd:anyURI ;
+	rdfs:label "404"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/405> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/405"^^xsd:anyURI ;
+	rdfs:label "405"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/406> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/406"^^xsd:anyURI ;
+	rdfs:label "406"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/407> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/407"^^xsd:anyURI ;
+	rdfs:label "407"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/408> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/408"^^xsd:anyURI ;
+	rdfs:label "408"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/419> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/419"^^xsd:anyURI ;
+	rdfs:label "419"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/477> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/477"^^xsd:anyURI ;
+	rdfs:label "477"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/478> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/478"^^xsd:anyURI ;
+	rdfs:label "478"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/479> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/479"^^xsd:anyURI ;
+	rdfs:label "479"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/480> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/480"^^xsd:anyURI ;
+	rdfs:label "480"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/481> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/481"^^xsd:anyURI ;
+	rdfs:label "481"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/482> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/482"^^xsd:anyURI ;
+	rdfs:label "482"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/483> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/483"^^xsd:anyURI ;
+	rdfs:label "483"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/485> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/485"^^xsd:anyURI ;
+	rdfs:label "485"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/486> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/486"^^xsd:anyURI ;
+	rdfs:label "486"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/487> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/487"^^xsd:anyURI ;
+	rdfs:label "487"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/488> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/488"^^xsd:anyURI ;
+	rdfs:label "488"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/489> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/489"^^xsd:anyURI ;
+	rdfs:label "489"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/490> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/490"^^xsd:anyURI ;
+	rdfs:label "490"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/491> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/491"^^xsd:anyURI ;
+	rdfs:label "491"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/492> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/492"^^xsd:anyURI ;
+	rdfs:label "492"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/493> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/493"^^xsd:anyURI ;
+	rdfs:label "493"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/494> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/494"^^xsd:anyURI ;
+	rdfs:label "494"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/495> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/495"^^xsd:anyURI ;
+	rdfs:label "495"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/496> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/496"^^xsd:anyURI ;
+	rdfs:label "496"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/497> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/497"^^xsd:anyURI ;
+	rdfs:label "497"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/498> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/498"^^xsd:anyURI ;
+	rdfs:label "498"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/499> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/499"^^xsd:anyURI ;
+	rdfs:label "499"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/500> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/500"^^xsd:anyURI ;
+	rdfs:label "500"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/501> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/501"^^xsd:anyURI ;
+	rdfs:label "501"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/502> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/502"^^xsd:anyURI ;
+	rdfs:label "502"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/503> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/503"^^xsd:anyURI ;
+	rdfs:label "503"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/504> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/504"^^xsd:anyURI ;
+	rdfs:label "504"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/505> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/505"^^xsd:anyURI ;
+	rdfs:label "505"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/506> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/506"^^xsd:anyURI ;
+	rdfs:label "506"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/507> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/507"^^xsd:anyURI ;
+	rdfs:label "507"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/508> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/508"^^xsd:anyURI ;
+	rdfs:label "508"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/509> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/509"^^xsd:anyURI ;
+	rdfs:label "509"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/510> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/510"^^xsd:anyURI ;
+	rdfs:label "510"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/511> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/511"^^xsd:anyURI ;
+	rdfs:label "511"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/512> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/512"^^xsd:anyURI ;
+	rdfs:label "512"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/513> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/513"^^xsd:anyURI ;
+	rdfs:label "513"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/514> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/514"^^xsd:anyURI ;
+	rdfs:label "514"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/515> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/515"^^xsd:anyURI ;
+	rdfs:label "515"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/516> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/516"^^xsd:anyURI ;
+	rdfs:label "516"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/517> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/517"^^xsd:anyURI ;
+	rdfs:label "517"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/518> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/518"^^xsd:anyURI ;
+	rdfs:label "518"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/519> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/519"^^xsd:anyURI ;
+	rdfs:label "519"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/520> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/520"^^xsd:anyURI ;
+	rdfs:label "520"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/521> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/521"^^xsd:anyURI ;
+	rdfs:label "521"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/522> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/522"^^xsd:anyURI ;
+	rdfs:label "522"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/523> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/523"^^xsd:anyURI ;
+	rdfs:label "523"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/524> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/524"^^xsd:anyURI ;
+	rdfs:label "524"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/525> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/525"^^xsd:anyURI ;
+	rdfs:label "525"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/526> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/526"^^xsd:anyURI ;
+	rdfs:label "526"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/527> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/527"^^xsd:anyURI ;
+	rdfs:label "527"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/528> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/528"^^xsd:anyURI ;
+	rdfs:label "528"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/529> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/529"^^xsd:anyURI ;
+	rdfs:label "529"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/530> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/530"^^xsd:anyURI ;
+	rdfs:label "530"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/531> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/531"^^xsd:anyURI ;
+	rdfs:label "531"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/532> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/532"^^xsd:anyURI ;
+	rdfs:label "532"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/533> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/533"^^xsd:anyURI ;
+	rdfs:label "533"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/534> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/534"^^xsd:anyURI ;
+	rdfs:label "534"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/535> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/535"^^xsd:anyURI ;
+	rdfs:label "535"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/536> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/536"^^xsd:anyURI ;
+	rdfs:label "536"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/537> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/537"^^xsd:anyURI ;
+	rdfs:label "537"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/538> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/538"^^xsd:anyURI ;
+	rdfs:label "538"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/539> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/539"^^xsd:anyURI ;
+	rdfs:label "539"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/540> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/540"^^xsd:anyURI ;
+	rdfs:label "540"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/541> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/541"^^xsd:anyURI ;
+	rdfs:label "541"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/542> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/542"^^xsd:anyURI ;
+	rdfs:label "542"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/543> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/543"^^xsd:anyURI ;
+	rdfs:label "543"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/544> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/544"^^xsd:anyURI ;
+	rdfs:label "544"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/545> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/545"^^xsd:anyURI ;
+	rdfs:label "545"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/546> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/546"^^xsd:anyURI ;
+	rdfs:label "546"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/547> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/547"^^xsd:anyURI ;
+	rdfs:label "547"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/548> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/548"^^xsd:anyURI ;
+	rdfs:label "548"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/549> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/549"^^xsd:anyURI ;
+	rdfs:label "549"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/550> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/550"^^xsd:anyURI ;
+	rdfs:label "550"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/551> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/551"^^xsd:anyURI ;
+	rdfs:label "551"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/560> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/560"^^xsd:anyURI ;
+	rdfs:label "560"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/561> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/561"^^xsd:anyURI ;
+	rdfs:label "561"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/562> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/562"^^xsd:anyURI ;
+	rdfs:label "562"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/563> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/563"^^xsd:anyURI ;
+	rdfs:label "563"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/564> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/564"^^xsd:anyURI ;
+	rdfs:label "564"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/569> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/569"^^xsd:anyURI ;
+	rdfs:label "569"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/570> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/570"^^xsd:anyURI ;
+	rdfs:label "570"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/571> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/571"^^xsd:anyURI ;
+	rdfs:label "571"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/572> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/572"^^xsd:anyURI ;
+	rdfs:label "572"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/573> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/573"^^xsd:anyURI ;
+	rdfs:label "573"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/574> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/574"^^xsd:anyURI ;
+	rdfs:label "574"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/575> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/575"^^xsd:anyURI ;
+	rdfs:label "575"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/576> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/576"^^xsd:anyURI ;
+	rdfs:label "576"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/577> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/577"^^xsd:anyURI ;
+	rdfs:label "577"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/578> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/578"^^xsd:anyURI ;
+	rdfs:label "578"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/579> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/579"^^xsd:anyURI ;
+	rdfs:label "579"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/581> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/581"^^xsd:anyURI ;
+	rdfs:label "581"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/585> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/585"^^xsd:anyURI ;
+	rdfs:label "585"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/586> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/586"^^xsd:anyURI ;
+	rdfs:label "586"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/587> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/587"^^xsd:anyURI ;
+	rdfs:label "587"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/588> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/588"^^xsd:anyURI ;
+	rdfs:label "588"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/589> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/589"^^xsd:anyURI ;
+	rdfs:label "589"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/590> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/590"^^xsd:anyURI ;
+	rdfs:label "590"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/591> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/591"^^xsd:anyURI ;
+	rdfs:label "591"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/592> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/592"^^xsd:anyURI ;
+	rdfs:label "592"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/593> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/593"^^xsd:anyURI ;
+	rdfs:label "593"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/594> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/594"^^xsd:anyURI ;
+	rdfs:label "594"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/595> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/595"^^xsd:anyURI ;
+	rdfs:label "595"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/596> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/596"^^xsd:anyURI ;
+	rdfs:label "596"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/597> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/597"^^xsd:anyURI ;
+	rdfs:label "597"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/598> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/598"^^xsd:anyURI ;
+	rdfs:label "598"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/599> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/599"^^xsd:anyURI ;
+	rdfs:label "599"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/600> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/600"^^xsd:anyURI ;
+	rdfs:label "600"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/601> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/601"^^xsd:anyURI ;
+	rdfs:label "601"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/602> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/602"^^xsd:anyURI ;
+	rdfs:label "602"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/603> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/603"^^xsd:anyURI ;
+	rdfs:label "603"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/604> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/604"^^xsd:anyURI ;
+	rdfs:label "604"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/606> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/606"^^xsd:anyURI ;
+	rdfs:label "606"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/607> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/607"^^xsd:anyURI ;
+	rdfs:label "607"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/608> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/608"^^xsd:anyURI ;
+	rdfs:label "608"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/609> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/609"^^xsd:anyURI ;
+	rdfs:label "609"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/610> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/610"^^xsd:anyURI ;
+	rdfs:label "610"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/611> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/611"^^xsd:anyURI ;
+	rdfs:label "611"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/612> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/612"^^xsd:anyURI ;
+	rdfs:label "612"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/613> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/613"^^xsd:anyURI ;
+	rdfs:label "613"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/614> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/614"^^xsd:anyURI ;
+	rdfs:label "614"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/620> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/620"^^xsd:anyURI ;
+	rdfs:label "620"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/621> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/621"^^xsd:anyURI ;
+	rdfs:label "621"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/622> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/622"^^xsd:anyURI ;
+	rdfs:label "622"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/623> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/623"^^xsd:anyURI ;
+	rdfs:label "623"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/624> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/624"^^xsd:anyURI ;
+	rdfs:label "624"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/625> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/625"^^xsd:anyURI ;
+	rdfs:label "625"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/626> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/626"^^xsd:anyURI ;
+	rdfs:label "626"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/627> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/627"^^xsd:anyURI ;
+	rdfs:label "627"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/646> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/646"^^xsd:anyURI ;
+	rdfs:label "646"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/647> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/647"^^xsd:anyURI ;
+	rdfs:label "647"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/649> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/649"^^xsd:anyURI ;
+	rdfs:label "649"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/650> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/650"^^xsd:anyURI ;
+	rdfs:label "650"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/651> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/651"^^xsd:anyURI ;
+	rdfs:label "651"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/652> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/652"^^xsd:anyURI ;
+	rdfs:label "652"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/653> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/653"^^xsd:anyURI ;
+	rdfs:label "653"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/654> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/654"^^xsd:anyURI ;
+	rdfs:label "654"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/655> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/655"^^xsd:anyURI ;
+	rdfs:label "655"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/656> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/656"^^xsd:anyURI ;
+	rdfs:label "656"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/657> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/657"^^xsd:anyURI ;
+	rdfs:label "657"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/658> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/658"^^xsd:anyURI ;
+	rdfs:label "658"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/659> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/659"^^xsd:anyURI ;
+	rdfs:label "659"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/660> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/660"^^xsd:anyURI ;
+	rdfs:label "660"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/661> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/661"^^xsd:anyURI ;
+	rdfs:label "661"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/662> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/662"^^xsd:anyURI ;
+	rdfs:label "662"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/663> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/663"^^xsd:anyURI ;
+	rdfs:label "663"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/664> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/664"^^xsd:anyURI ;
+	rdfs:label "664"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/665> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/665"^^xsd:anyURI ;
+	rdfs:label "665"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/666> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/666"^^xsd:anyURI ;
+	rdfs:label "666"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/667> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/667"^^xsd:anyURI ;
+	rdfs:label "667"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/668> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/668"^^xsd:anyURI ;
+	rdfs:label "668"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/671> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/671"^^xsd:anyURI ;
+	rdfs:label "671"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/672> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/672"^^xsd:anyURI ;
+	rdfs:label "672"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/673> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/673"^^xsd:anyURI ;
+	rdfs:label "673"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/674> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/674"^^xsd:anyURI ;
+	rdfs:label "674"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/675> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/675"^^xsd:anyURI ;
+	rdfs:label "675"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/676> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/676"^^xsd:anyURI ;
+	rdfs:label "676"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/677> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/677"^^xsd:anyURI ;
+	rdfs:label "677"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/678> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/678"^^xsd:anyURI ;
+	rdfs:label "678"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/679> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/679"^^xsd:anyURI ;
+	rdfs:label "679"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/680> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/680"^^xsd:anyURI ;
+	rdfs:label "680"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/681> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/681"^^xsd:anyURI ;
+	rdfs:label "681"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/682> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/682"^^xsd:anyURI ;
+	rdfs:label "682"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/683> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/683"^^xsd:anyURI ;
+	rdfs:label "683"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/684> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/684"^^xsd:anyURI ;
+	rdfs:label "684"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/685> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/685"^^xsd:anyURI ;
+	rdfs:label "685"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/687> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/687"^^xsd:anyURI ;
+	rdfs:label "687"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/688> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/688"^^xsd:anyURI ;
+	rdfs:label "688"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/690> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/690"^^xsd:anyURI ;
+	rdfs:label "690"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/691> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/691"^^xsd:anyURI ;
+	rdfs:label "691"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/692> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/692"^^xsd:anyURI ;
+	rdfs:label "692"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/693> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/693"^^xsd:anyURI ;
+	rdfs:label "693"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/694> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/694"^^xsd:anyURI ;
+	rdfs:label "694"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/695> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/695"^^xsd:anyURI ;
+	rdfs:label "695"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/696> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/696"^^xsd:anyURI ;
+	rdfs:label "696"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/697> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/697"^^xsd:anyURI ;
+	rdfs:label "697"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/698> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/698"^^xsd:anyURI ;
+	rdfs:label "698"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/699> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/699"^^xsd:anyURI ;
+	rdfs:label "699"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/700> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/700"^^xsd:anyURI ;
+	rdfs:label "700"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/701> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/701"^^xsd:anyURI ;
+	rdfs:label "701"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/702> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/702"^^xsd:anyURI ;
+	rdfs:label "702"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/703> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/703"^^xsd:anyURI ;
+	rdfs:label "703"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/704> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/704"^^xsd:anyURI ;
+	rdfs:label "704"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/705> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/705"^^xsd:anyURI ;
+	rdfs:label "705"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/706> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/706"^^xsd:anyURI ;
+	rdfs:label "706"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/707> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/707"^^xsd:anyURI ;
+	rdfs:label "707"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/708> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/708"^^xsd:anyURI ;
+	rdfs:label "708"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/709> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/709"^^xsd:anyURI ;
+	rdfs:label "709"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/713> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/713"^^xsd:anyURI ;
+	rdfs:label "713"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/714> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/714"^^xsd:anyURI ;
+	rdfs:label "714"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/718> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/718"^^xsd:anyURI ;
+	rdfs:label "718"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/719> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/719"^^xsd:anyURI ;
+	rdfs:label "719"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/720> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/720"^^xsd:anyURI ;
+	rdfs:label "720"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/721> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/721"^^xsd:anyURI ;
+	rdfs:label "721"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/723> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/723"^^xsd:anyURI ;
+	rdfs:label "723"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/725> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/725"^^xsd:anyURI ;
+	rdfs:label "725"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/726> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/726"^^xsd:anyURI ;
+	rdfs:label "726"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/727> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/727"^^xsd:anyURI ;
+	rdfs:label "727"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/728> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/728"^^xsd:anyURI ;
+	rdfs:label "728"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/729> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/729"^^xsd:anyURI ;
+	rdfs:label "729"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/730> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/730"^^xsd:anyURI ;
+	rdfs:label "730"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/731> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/731"^^xsd:anyURI ;
+	rdfs:label "731"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/732> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/732"^^xsd:anyURI ;
+	rdfs:label "732"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/733> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/733"^^xsd:anyURI ;
+	rdfs:label "733"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/734> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/734"^^xsd:anyURI ;
+	rdfs:label "734"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/735> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/735"^^xsd:anyURI ;
+	rdfs:label "735"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/736> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/736"^^xsd:anyURI ;
+	rdfs:label "736"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/737> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/737"^^xsd:anyURI ;
+	rdfs:label "737"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/738> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/738"^^xsd:anyURI ;
+	rdfs:label "738"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/739> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/739"^^xsd:anyURI ;
+	rdfs:label "739"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/740> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/740"^^xsd:anyURI ;
+	rdfs:label "740"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/741> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/741"^^xsd:anyURI ;
+	rdfs:label "741"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/744> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/744"^^xsd:anyURI ;
+	rdfs:label "744"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/745> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/745"^^xsd:anyURI ;
+	rdfs:label "745"^^xsd:string .
+
+#######################################################
+### Individuals (Lectin without N/S) 
+#######################################################
+
+<https://sugarbind.expasy.org/lectins/47> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/47"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q8VV99> ;
+	rdfs:label "FHA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/49> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/49"^^xsd:anyURI ;
+	rdfs:label "S2 subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/50> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/50"^^xsd:anyURI ;
+	rdfs:label "S3 subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/60> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/60"^^xsd:anyURI ;
+	rdfs:label "22-kDa protein"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/68> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/68"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/R4GRU1> ;
+	rdfs:label "BOA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/94> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/94"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q33CP8> ;
+	rdfs:label "HA3b"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/95> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/95"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P46084> ;
+	rdfs:label "HA1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/96> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/96"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P46084> ;
+	rdfs:label "HA1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/97> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/97"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P46084> ;
+	rdfs:label "HA1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/98> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/98"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P46084> ;
+	rdfs:label "HA1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/99> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/99"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P46084> ;
+	rdfs:label "HA1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/100> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/100"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9LBR1> ;
+	rdfs:label "Neurotoxine ganglioside binding site"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/104> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/104"^^xsd:anyURI ;
+	rdfs:label "B subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/105> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/105"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P16154> ;
+	rdfs:label "TcdA-f2"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/108> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/108"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P04958> ;
+	rdfs:label "50 kDa C-terminal fragment"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/109> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/109"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P04958> ;
+	rdfs:label "50 kDa N-terminal fragment"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/116> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/116"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P36334> ;
+	rdfs:label "Spike glycoprotein"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/122> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/122"^^xsd:anyURI ;
+	rdfs:label "Heavy (170-kDa) subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/123> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/123"^^xsd:anyURI ;
+	rdfs:label "Light (35- or 31-kDa) subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/124> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/124"^^xsd:anyURI ;
+	rdfs:label "Hgl; Lgl"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/126> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/126"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q47212> ;
+	rdfs:label "FedF"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/141> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/141"^^xsd:anyURI ;
+	rdfs:label "18 kDa protein"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/142> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/142"^^xsd:anyURI ;
+	rdfs:label "Class II Pap"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/143> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/143"^^xsd:anyURI ;
+	rdfs:label "Class II Pap"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/144> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/144"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q47341> ;
+	rdfs:label "GafD"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/145> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/145"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P13720> ;
+	rdfs:label "PapG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/146> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/146"^^xsd:anyURI ;
+	rdfs:label "Class I PapG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/147> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/147"^^xsd:anyURI ;
+	rdfs:label "Class III PrsG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/148> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/148"^^xsd:anyURI ;
+	rdfs:label "Class I G"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/150> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/150"^^xsd:anyURI ;
+	rdfs:label "Class II Pap"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/172> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/172"^^xsd:anyURI ;
+	rdfs:label "17 kDa protein"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/178> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/178"^^xsd:anyURI ;
+	rdfs:label "CS3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/179> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/179"^^xsd:anyURI ;
+	rdfs:label "20-kDa subunits"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/183> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/183"^^xsd:anyURI ;
+	rdfs:label "FimH"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/184> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/184"^^xsd:anyURI ;
+	rdfs:label "FimH"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/185> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/185"^^xsd:anyURI ;
+	rdfs:label "PrsG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/186> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/186"^^xsd:anyURI ;
+	rdfs:label "SafS"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/187> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/187"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P08191> ;
+	rdfs:label "FimH"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/189> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/189"^^xsd:anyURI ;
+	rdfs:label "K1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/195> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/195"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q99003> ;
+	rdfs:label "F17a-G fimbrial adhesin"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/196> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/196"^^xsd:anyURI ;
+	rdfs:label "CfaB"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/197> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/197"^^xsd:anyURI ;
+	rdfs:label "SfaS"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/198> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/198"^^xsd:anyURI ;
+	rdfs:label "PrsG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/199> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/199"^^xsd:anyURI ;
+	rdfs:label "FimH"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/217> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/217"^^xsd:anyURI ;
+	rdfs:label "K88ab"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/218> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/218"^^xsd:anyURI ;
+	rdfs:label "K88ac"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/219> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/219"^^xsd:anyURI ;
+	rdfs:label "K88ad"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/220> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/220"^^xsd:anyURI ;
+	rdfs:label "FaeG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/222> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/222"^^xsd:anyURI ;
+	rdfs:label "PapGII"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/223> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/223"^^xsd:anyURI ;
+	rdfs:label "PapGIII"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/225> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/225"^^xsd:anyURI ;
+	rdfs:label "PapG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/235> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/235"^^xsd:anyURI ;
+	rdfs:label "Class II G, PapG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/236> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/236"^^xsd:anyURI ;
+	rdfs:label "Class III G, PrsG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/237> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/237"^^xsd:anyURI ;
+	rdfs:label "PapG"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/238> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/238"^^xsd:anyURI ;
+	rdfs:label "FocH"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/287> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/287"^^xsd:anyURI ;
+	rdfs:label "HifE"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/318> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/318"^^xsd:anyURI ;
+	rdfs:label "BabA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/323> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/323"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/I0ZIE1> ;
+	rdfs:label "SabA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/330> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/330"^^xsd:anyURI ;
+	rdfs:label "SabA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/331> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/331"^^xsd:anyURI ;
+	rdfs:label "BabA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/332> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/332"^^xsd:anyURI ;
+	rdfs:label "SabA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/336> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/336"^^xsd:anyURI ;
+	rdfs:label "BabA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/337> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/337"^^xsd:anyURI ;
+	rdfs:label "HpaA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/360> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/360"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P18799> ;
+	rdfs:label "Gp120"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/371> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/371"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P03462> ;
+	rdfs:label "Hemagglutinin"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/374> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/374"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9WFX3> ;
+	rdfs:label "H1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/375> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/375"^^xsd:anyURI ;
+	rdfs:label "H10"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/389> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/389"^^xsd:anyURI ;
+	rdfs:label "H1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/390> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/390"^^xsd:anyURI ;
+	rdfs:label "H10"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/391> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/391"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/J9UPN1> ;
+	rdfs:label "H1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/392> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/392"^^xsd:anyURI ;
+	rdfs:label "H1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/393> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/393"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/A7L6B8> ;
+	rdfs:label "H1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/394> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/394"^^xsd:anyURI ;
+	rdfs:label "H2"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/395> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/395"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q20Q42> ;
+	rdfs:label "H2"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/396> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/396"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/I1Z3V0> ;
+	rdfs:label "H2"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/397> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/397"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/I1Z3V0> ;
+	rdfs:label "H2"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/398> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/398"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P12585> ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/399> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/399"^^xsd:anyURI ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/400> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/400"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/D1LNN7> ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/401> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/401"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q20MD6> ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/402> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/402"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q20MD6> ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/409> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/409"^^xsd:anyURI ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/410> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/410"^^xsd:anyURI ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/411> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/411"^^xsd:anyURI ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/412> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/412"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q3I3R0> ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/413> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/413"^^xsd:anyURI ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/414> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/414"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/F8VAV2> ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/415> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/415"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q3I3Q8> ;
+	rdfs:label "H3"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/416> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/416"^^xsd:anyURI ;
+	rdfs:label "H4"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/417> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/417"^^xsd:anyURI ;
+	rdfs:label "H4"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/418> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/418"^^xsd:anyURI ;
+	rdfs:label "H4"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/420> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/420"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/O89746> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/421> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/421"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q5DLA9> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/422> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/422"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/A5A5N6> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/423> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/423"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/424> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/424"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/425> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/425"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/426> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/426"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/427> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/427"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/D1LPA6> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/428> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/428"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/A5A5M2> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/429> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/429"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/D1LN20> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/430> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/430"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/431> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/431"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q4H2E2> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/432> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/432"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/D1LN00> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/433> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/433"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9WDF1> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/434> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/434"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9WDF8> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/435> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/435"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/436> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/436"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/437> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/437"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/A5A5N1> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/438> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/438"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q6DQ34> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/439> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/439"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/A8UDQ2> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/440> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/440"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/D1MKB4> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/441> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/441"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/442> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/442"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/443> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/443"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q7TEA2> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/444> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/444"^^xsd:anyURI ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/445> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/445"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/B5SNA6> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/446> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/446"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/B4ZHQ0> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/447> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/447"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/I4EPC9> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/448> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/448"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/B4ZH27> ;
+	rdfs:label "H5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/449> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/449"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9IGN9> ;
+	rdfs:label "H6"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/450> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/450"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/B5STW4> ;
+	rdfs:label "H6"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/451> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/451"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/A3KF31> ;
+	rdfs:label "H6"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/452> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/452"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P03448> ;
+	rdfs:label "H6"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/453> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/453"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q2Y1R6> ;
+	rdfs:label "H6"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/454> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/454"^^xsd:anyURI ;
+	rdfs:label "H7"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/455> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/455"^^xsd:anyURI ;
+	rdfs:label "H7"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/456> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/456"^^xsd:anyURI ;
+	rdfs:label "H7"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/457> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/457"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/B2LVD7> ;
+	rdfs:label "H7"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/458> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/458"^^xsd:anyURI ;
+	rdfs:label "H7"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/459> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/459"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q6VMK1> ;
+	rdfs:label "H7"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/460> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/460"^^xsd:anyURI ;
+	rdfs:label "H7"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/461> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/461"^^xsd:anyURI ;
+	rdfs:label "H7"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/462> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/462"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9DRM9> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/463> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/463"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/T1RT42> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/464> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/464"^^xsd:anyURI ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/465> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/465"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9Q0I0> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/466> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/466"^^xsd:anyURI ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/467> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/467"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9Q0I7> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/468> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/468"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/A4D838> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/469> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/469"^^xsd:anyURI ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/470> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/470"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9ICY5> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/471> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/471"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q2XVM0> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/472> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/472"^^xsd:anyURI ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/473> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/473"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9Q0I5> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/474> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/474"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q8QZ86> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/475> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/475"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9PZG1> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/476> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/476"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P03457> ;
+	rdfs:label "H9"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/484> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/484"^^xsd:anyURI ;
+	rdfs:label "FimH"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/552> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/552"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/553> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/553"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/554> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/554"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/555> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/555"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/556> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/556"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/557> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/557"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/558> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/558"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/559> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/559"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/565> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/565"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/566> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/566"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/567> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/567"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/568> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/568"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q83884> ;
+	rdfs:label "VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/580> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/580"^^xsd:anyURI ;
+	rdfs:label "68-kDa protein"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/582> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/582"^^xsd:anyURI ;
+	rdfs:label "EBA-175"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/583> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/583"^^xsd:anyURI ;
+	rdfs:label "BAEBL"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/584> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/584"^^xsd:anyURI ;
+	rdfs:label "EBP2"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/605> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/605"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q9R6Q8> ;
+	rdfs:label "MrpH"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/615> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/615"^^xsd:anyURI ;
+	rdfs:label "Exoenzyme S"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/616> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/616"^^xsd:anyURI ;
+	rdfs:label "Pilin subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/617> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/617"^^xsd:anyURI ;
+	rdfs:label "Exoenzyme S"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/618> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/618"^^xsd:anyURI ;
+	rdfs:label "PA-IIL"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/619> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/619"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q05097> ;
+	rdfs:label "PA-IL"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/628> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/628"^^xsd:anyURI ;
+	rdfs:label "B subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/630> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/630"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P12473> ;
+	rdfs:label "Virus Spike Protein VP4/VP8* domain"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/631> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/631"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P17465> ;
+	rdfs:label "Virus Spike Protein VP4/VP8* domain"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/636> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/636"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/A2T3T2> ;
+	rdfs:label "Virus Spike Protein VP4/VP8* domain"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/641> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/641"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P12474> ;
+	rdfs:label "Virus Spike Protein VP4/VP8* domain"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/648> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/648"^^xsd:anyURI ;
+	rdfs:label "FimH"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/669> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/669"^^xsd:anyURI ;
+	rdfs:label "B subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/670> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/670"^^xsd:anyURI ;
+	rdfs:label "B subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/686> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/686"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/A8AWU7> ;
+	rdfs:label "Hsa"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/689> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/689"^^xsd:anyURI ;
+	rdfs:label "GspB"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/710> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/710"^^xsd:anyURI ;
+	rdfs:label "P adhesin"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/711> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/711"^^xsd:anyURI ;
+	rdfs:label "P adhesin"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/712> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/712"^^xsd:anyURI ;
+	rdfs:label "18 kDa protein"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/715> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/715"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/O00834> ;
+	rdfs:label "TgMIC-NT"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/716> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/716"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/O00834> ;
+	rdfs:label "TgMIC1-MARR"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/717> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/717"^^xsd:anyURI ;
+	rdfs:label "TgMIC4-A5"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/722> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/722"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/G7TUK8> ;
+	rdfs:label "MSHA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/724> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/724"^^xsd:anyURI ;
+	rdfs:label "B subunit"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/742> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/742"^^xsd:anyURI ;
+	rdfs:label "PH 6"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/743> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/743"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/B4EH87> ;
+	rdfs:label "BclA"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/746> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/746"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q47212> ;
+	rdfs:label "FedF"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/747> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/747"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q47212> ;
+	rdfs:label "FedF"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/748> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/748"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/E9NQ90> ;
+	rdfs:label "Capsid protein VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/749> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/749"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P03089> ;
+	rdfs:label "Capsid protein VP1"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/750> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/750"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q86169> ;
+	rdfs:label "Virus Spike Protein VP4/VP8* domain"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/751> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/751"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q64823> ;
+	rdfs:label "Fiber"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/752> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/752"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q64822> ;
+	rdfs:label "Fiber"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/753> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/753"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/Q54AD6> ;
+	rdfs:label "Capsid protein"^^xsd:string .
+
+<https://sugarbind.expasy.org/lectins/754> rdf:type owl:NamedIndividual ,
+			:Lectin ;
+	:lectinId "https://sugarbind.expasy.org/lectins/754"^^xsd:anyURI ;
+	:uniprotId <http://purl.uniprot.org/uniprot/P11200> ;
+	rdfs:label "Virus Spike Protein VP4/VP8* domain"^^xsd:string .
+

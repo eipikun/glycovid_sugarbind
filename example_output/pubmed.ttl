@@ -1,0 +1,3649 @@
+#######################################################
+### Individuals (Pubmed) 
+#######################################################
+
+<http://www.ncbi.nlm.nih.gov/pubmed/214384> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/214384"^^xsd:anyURI ;
+		rdfs:label "214384"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1091565> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1091565"^^xsd:anyURI ;
+		rdfs:label "1091565"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1091565> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1091565"^^xsd:anyURI ;
+		rdfs:label "1091565"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1091565> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1091565"^^xsd:anyURI ;
+		rdfs:label "1091565"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1091565> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1091565"^^xsd:anyURI ;
+		rdfs:label "1091565"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1091565> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1091565"^^xsd:anyURI ;
+		rdfs:label "1091565"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1310320> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1310320"^^xsd:anyURI ;
+		rdfs:label "1310320"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1352712> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1352712"^^xsd:anyURI ;
+		rdfs:label "1352712"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1522244> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1522244"^^xsd:anyURI ;
+		rdfs:label "1522244"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1522244> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1522244"^^xsd:anyURI ;
+		rdfs:label "1522244"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1522244> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1522244"^^xsd:anyURI ;
+		rdfs:label "1522244"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1522244> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1522244"^^xsd:anyURI ;
+		rdfs:label "1522244"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1522244> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1522244"^^xsd:anyURI ;
+		rdfs:label "1522244"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1522244> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1522244"^^xsd:anyURI ;
+		rdfs:label "1522244"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1522244> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1522244"^^xsd:anyURI ;
+		rdfs:label "1522244"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1522244> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1522244"^^xsd:anyURI ;
+		rdfs:label "1522244"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1620344> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1620344"^^xsd:anyURI ;
+		rdfs:label "1620344"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1679039> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1679039"^^xsd:anyURI ;
+		rdfs:label "1679039"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1729677> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1729677"^^xsd:anyURI ;
+		rdfs:label "1729677"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1729677> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1729677"^^xsd:anyURI ;
+		rdfs:label "1729677"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1894623> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1894623"^^xsd:anyURI ;
+		rdfs:label "1894623"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1894623> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1894623"^^xsd:anyURI ;
+		rdfs:label "1894623"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1894623> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1894623"^^xsd:anyURI ;
+		rdfs:label "1894623"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1918002> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1918002"^^xsd:anyURI ;
+		rdfs:label "1918002"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1967600> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1967600"^^xsd:anyURI ;
+		rdfs:label "1967600"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1971261> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1971261"^^xsd:anyURI ;
+		rdfs:label "1971261"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/1971261> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/1971261"^^xsd:anyURI ;
+		rdfs:label "1971261"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2025240> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2025240"^^xsd:anyURI ;
+		rdfs:label "2025240"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2025240> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2025240"^^xsd:anyURI ;
+		rdfs:label "2025240"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2025240> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2025240"^^xsd:anyURI ;
+		rdfs:label "2025240"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2025240> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2025240"^^xsd:anyURI ;
+		rdfs:label "2025240"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2115881> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2115881"^^xsd:anyURI ;
+		rdfs:label "2115881"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2168971> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2168971"^^xsd:anyURI ;
+		rdfs:label "2168971"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2194958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2194958"^^xsd:anyURI ;
+		rdfs:label "2194958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2294057> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2294057"^^xsd:anyURI ;
+		rdfs:label "2294057"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358460> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358460"^^xsd:anyURI ;
+		rdfs:label "2358460"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358460> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358460"^^xsd:anyURI ;
+		rdfs:label "2358460"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358460> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358460"^^xsd:anyURI ;
+		rdfs:label "2358460"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358460> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358460"^^xsd:anyURI ;
+		rdfs:label "2358460"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358460> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358460"^^xsd:anyURI ;
+		rdfs:label "2358460"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358460> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358460"^^xsd:anyURI ;
+		rdfs:label "2358460"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358460> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358460"^^xsd:anyURI ;
+		rdfs:label "2358460"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358460> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358460"^^xsd:anyURI ;
+		rdfs:label "2358460"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358460> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358460"^^xsd:anyURI ;
+		rdfs:label "2358460"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2358461> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2358461"^^xsd:anyURI ;
+		rdfs:label "2358461"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2435422> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2435422"^^xsd:anyURI ;
+		rdfs:label "2435422"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2459065> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2459065"^^xsd:anyURI ;
+		rdfs:label "2459065"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2468365> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2468365"^^xsd:anyURI ;
+		rdfs:label "2468365"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2470753> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2470753"^^xsd:anyURI ;
+		rdfs:label "2470753"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2470753> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2470753"^^xsd:anyURI ;
+		rdfs:label "2470753"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2470753> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2470753"^^xsd:anyURI ;
+		rdfs:label "2470753"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2470753> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2470753"^^xsd:anyURI ;
+		rdfs:label "2470753"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2470753> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2470753"^^xsd:anyURI ;
+		rdfs:label "2470753"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2470753> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2470753"^^xsd:anyURI ;
+		rdfs:label "2470753"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2470753> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2470753"^^xsd:anyURI ;
+		rdfs:label "2470753"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2470753> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2470753"^^xsd:anyURI ;
+		rdfs:label "2470753"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2470753> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2470753"^^xsd:anyURI ;
+		rdfs:label "2470753"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2476569> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2476569"^^xsd:anyURI ;
+		rdfs:label "2476569"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2476569> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2476569"^^xsd:anyURI ;
+		rdfs:label "2476569"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2476569> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2476569"^^xsd:anyURI ;
+		rdfs:label "2476569"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2476569> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2476569"^^xsd:anyURI ;
+		rdfs:label "2476569"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2476569> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2476569"^^xsd:anyURI ;
+		rdfs:label "2476569"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2476569> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2476569"^^xsd:anyURI ;
+		rdfs:label "2476569"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2554536> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2554536"^^xsd:anyURI ;
+		rdfs:label "2554536"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2885220> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2885220"^^xsd:anyURI ;
+		rdfs:label "2885220"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898091"^^xsd:anyURI ;
+		rdfs:label "2898091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/2898784> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/2898784"^^xsd:anyURI ;
+		rdfs:label "2898784"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3284526> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3284526"^^xsd:anyURI ;
+		rdfs:label "3284526"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3290106> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3290106"^^xsd:anyURI ;
+		rdfs:label "3290106"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3308959> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3308959"^^xsd:anyURI ;
+		rdfs:label "3308959"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3380803> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3380803"^^xsd:anyURI ;
+		rdfs:label "3380803"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3413084> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3413084"^^xsd:anyURI ;
+		rdfs:label "3413084"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3519828> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3519828"^^xsd:anyURI ;
+		rdfs:label "3519828"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3543013> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3543013"^^xsd:anyURI ;
+		rdfs:label "3543013"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3543013> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3543013"^^xsd:anyURI ;
+		rdfs:label "3543013"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3543013> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3543013"^^xsd:anyURI ;
+		rdfs:label "3543013"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3543013> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3543013"^^xsd:anyURI ;
+		rdfs:label "3543013"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3543013> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3543013"^^xsd:anyURI ;
+		rdfs:label "3543013"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3804448> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3804448"^^xsd:anyURI ;
+		rdfs:label "3804448"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3804448> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3804448"^^xsd:anyURI ;
+		rdfs:label "3804448"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3804448> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3804448"^^xsd:anyURI ;
+		rdfs:label "3804448"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3804448> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3804448"^^xsd:anyURI ;
+		rdfs:label "3804448"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3804448> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3804448"^^xsd:anyURI ;
+		rdfs:label "3804448"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3804448> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3804448"^^xsd:anyURI ;
+		rdfs:label "3804448"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/3804448> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/3804448"^^xsd:anyURI ;
+		rdfs:label "3804448"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/4810267> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/4810267"^^xsd:anyURI ;
+		rdfs:label "4810267"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6116675> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6116675"^^xsd:anyURI ;
+		rdfs:label "6116675"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6138149> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6138149"^^xsd:anyURI ;
+		rdfs:label "6138149"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6138149> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6138149"^^xsd:anyURI ;
+		rdfs:label "6138149"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6138149> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6138149"^^xsd:anyURI ;
+		rdfs:label "6138149"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6146600> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6146600"^^xsd:anyURI ;
+		rdfs:label "6146600"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6150011> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6150011"^^xsd:anyURI ;
+		rdfs:label "6150011"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6257717> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6257717"^^xsd:anyURI ;
+		rdfs:label "6257717"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6768400> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6768400"^^xsd:anyURI ;
+		rdfs:label "6768400"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6886624> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6886624"^^xsd:anyURI ;
+		rdfs:label "6886624"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6886624> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6886624"^^xsd:anyURI ;
+		rdfs:label "6886624"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/6886624> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/6886624"^^xsd:anyURI ;
+		rdfs:label "6886624"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7499414> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7499414"^^xsd:anyURI ;
+		rdfs:label "7499414"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7499414> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7499414"^^xsd:anyURI ;
+		rdfs:label "7499414"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7527546> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7527546"^^xsd:anyURI ;
+		rdfs:label "7527546"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7594654> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7594654"^^xsd:anyURI ;
+		rdfs:label "7594654"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7594654> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7594654"^^xsd:anyURI ;
+		rdfs:label "7594654"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7594654> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7594654"^^xsd:anyURI ;
+		rdfs:label "7594654"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7594654> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7594654"^^xsd:anyURI ;
+		rdfs:label "7594654"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7601831> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7601831"^^xsd:anyURI ;
+		rdfs:label "7601831"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7622201> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7622201"^^xsd:anyURI ;
+		rdfs:label "7622201"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7622201> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7622201"^^xsd:anyURI ;
+		rdfs:label "7622201"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7622201> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7622201"^^xsd:anyURI ;
+		rdfs:label "7622201"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7622201> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7622201"^^xsd:anyURI ;
+		rdfs:label "7622201"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7655170> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7655170"^^xsd:anyURI ;
+		rdfs:label "7655170"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7696856> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7696856"^^xsd:anyURI ;
+		rdfs:label "7696856"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7708767> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7708767"^^xsd:anyURI ;
+		rdfs:label "7708767"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7708767> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7708767"^^xsd:anyURI ;
+		rdfs:label "7708767"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7710097> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7710097"^^xsd:anyURI ;
+		rdfs:label "7710097"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7710097> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7710097"^^xsd:anyURI ;
+		rdfs:label "7710097"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7710097> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7710097"^^xsd:anyURI ;
+		rdfs:label "7710097"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7710097> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7710097"^^xsd:anyURI ;
+		rdfs:label "7710097"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7721812> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7721812"^^xsd:anyURI ;
+		rdfs:label "7721812"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7721812> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7721812"^^xsd:anyURI ;
+		rdfs:label "7721812"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7721812> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7721812"^^xsd:anyURI ;
+		rdfs:label "7721812"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7721812> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7721812"^^xsd:anyURI ;
+		rdfs:label "7721812"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7721812> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7721812"^^xsd:anyURI ;
+		rdfs:label "7721812"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7721812> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7721812"^^xsd:anyURI ;
+		rdfs:label "7721812"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7721812> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7721812"^^xsd:anyURI ;
+		rdfs:label "7721812"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7721812> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7721812"^^xsd:anyURI ;
+		rdfs:label "7721812"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7752878> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7752878"^^xsd:anyURI ;
+		rdfs:label "7752878"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7790078> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7790078"^^xsd:anyURI ;
+		rdfs:label "7790078"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7822033> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7822033"^^xsd:anyURI ;
+		rdfs:label "7822033"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7827024> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7827024"^^xsd:anyURI ;
+		rdfs:label "7827024"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7849044> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7849044"^^xsd:anyURI ;
+		rdfs:label "7849044"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7868240> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7868240"^^xsd:anyURI ;
+		rdfs:label "7868240"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7868240> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7868240"^^xsd:anyURI ;
+		rdfs:label "7868240"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7870741> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7870741"^^xsd:anyURI ;
+		rdfs:label "7870741"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7883703> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7883703"^^xsd:anyURI ;
+		rdfs:label "7883703"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7883703> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7883703"^^xsd:anyURI ;
+		rdfs:label "7883703"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7961660> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7961660"^^xsd:anyURI ;
+		rdfs:label "7961660"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7975212> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7975212"^^xsd:anyURI ;
+		rdfs:label "7975212"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7975212> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7975212"^^xsd:anyURI ;
+		rdfs:label "7975212"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/7981205> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/7981205"^^xsd:anyURI ;
+		rdfs:label "7981205"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8004056> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8004056"^^xsd:anyURI ;
+		rdfs:label "8004056"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8005674> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8005674"^^xsd:anyURI ;
+		rdfs:label "8005674"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8005674> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8005674"^^xsd:anyURI ;
+		rdfs:label "8005674"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8005674> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8005674"^^xsd:anyURI ;
+		rdfs:label "8005674"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8104898> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8104898"^^xsd:anyURI ;
+		rdfs:label "8104898"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8157640> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8157640"^^xsd:anyURI ;
+		rdfs:label "8157640"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8174985> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8174985"^^xsd:anyURI ;
+		rdfs:label "8174985"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8174985> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8174985"^^xsd:anyURI ;
+		rdfs:label "8174985"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8184533> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8184533"^^xsd:anyURI ;
+		rdfs:label "8184533"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8395448> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8395448"^^xsd:anyURI ;
+		rdfs:label "8395448"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8440715> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8440715"^^xsd:anyURI ;
+		rdfs:label "8440715"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8440715> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8440715"^^xsd:anyURI ;
+		rdfs:label "8440715"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8440715> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8440715"^^xsd:anyURI ;
+		rdfs:label "8440715"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8464878> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8464878"^^xsd:anyURI ;
+		rdfs:label "8464878"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8514379> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8514379"^^xsd:anyURI ;
+		rdfs:label "8514379"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8557360> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8557360"^^xsd:anyURI ;
+		rdfs:label "8557360"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8606110> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8606110"^^xsd:anyURI ;
+		rdfs:label "8606110"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8606110> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8606110"^^xsd:anyURI ;
+		rdfs:label "8606110"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8606110> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8606110"^^xsd:anyURI ;
+		rdfs:label "8606110"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8751914> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8751914"^^xsd:anyURI ;
+		rdfs:label "8751914"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8806582> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8806582"^^xsd:anyURI ;
+		rdfs:label "8806582"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8912650> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8912650"^^xsd:anyURI ;
+		rdfs:label "8912650"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8912650> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8912650"^^xsd:anyURI ;
+		rdfs:label "8912650"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8912650> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8912650"^^xsd:anyURI ;
+		rdfs:label "8912650"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8912650> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8912650"^^xsd:anyURI ;
+		rdfs:label "8912650"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8912650> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8912650"^^xsd:anyURI ;
+		rdfs:label "8912650"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8912650> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8912650"^^xsd:anyURI ;
+		rdfs:label "8912650"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/8926069> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/8926069"^^xsd:anyURI ;
+		rdfs:label "8926069"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9038159> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9038159"^^xsd:anyURI ;
+		rdfs:label "9038159"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9038159> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9038159"^^xsd:anyURI ;
+		rdfs:label "9038159"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9038159> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9038159"^^xsd:anyURI ;
+		rdfs:label "9038159"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9038159> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9038159"^^xsd:anyURI ;
+		rdfs:label "9038159"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9038159> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9038159"^^xsd:anyURI ;
+		rdfs:label "9038159"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9038159> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9038159"^^xsd:anyURI ;
+		rdfs:label "9038159"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9038159> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9038159"^^xsd:anyURI ;
+		rdfs:label "9038159"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9169796> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9169796"^^xsd:anyURI ;
+		rdfs:label "9169796"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9169796> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9169796"^^xsd:anyURI ;
+		rdfs:label "9169796"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9169796> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9169796"^^xsd:anyURI ;
+		rdfs:label "9169796"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9201232> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9201232"^^xsd:anyURI ;
+		rdfs:label "9201232"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9201232> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9201232"^^xsd:anyURI ;
+		rdfs:label "9201232"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9201232> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9201232"^^xsd:anyURI ;
+		rdfs:label "9201232"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9224879> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9224879"^^xsd:anyURI ;
+		rdfs:label "9224879"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9224879> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9224879"^^xsd:anyURI ;
+		rdfs:label "9224879"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9228091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9228091"^^xsd:anyURI ;
+		rdfs:label "9228091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9228091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9228091"^^xsd:anyURI ;
+		rdfs:label "9228091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9228091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9228091"^^xsd:anyURI ;
+		rdfs:label "9228091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9228091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9228091"^^xsd:anyURI ;
+		rdfs:label "9228091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9228091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9228091"^^xsd:anyURI ;
+		rdfs:label "9228091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9228091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9228091"^^xsd:anyURI ;
+		rdfs:label "9228091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9228091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9228091"^^xsd:anyURI ;
+		rdfs:label "9228091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9228091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9228091"^^xsd:anyURI ;
+		rdfs:label "9228091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9228091> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9228091"^^xsd:anyURI ;
+		rdfs:label "9228091"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9261399> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9261399"^^xsd:anyURI ;
+		rdfs:label "9261399"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9261399> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9261399"^^xsd:anyURI ;
+		rdfs:label "9261399"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9261399> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9261399"^^xsd:anyURI ;
+		rdfs:label "9261399"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9261399> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9261399"^^xsd:anyURI ;
+		rdfs:label "9261399"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9261399> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9261399"^^xsd:anyURI ;
+		rdfs:label "9261399"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9393794> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9393794"^^xsd:anyURI ;
+		rdfs:label "9393794"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9393794> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9393794"^^xsd:anyURI ;
+		rdfs:label "9393794"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9499377> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9499377"^^xsd:anyURI ;
+		rdfs:label "9499377"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9499377> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9499377"^^xsd:anyURI ;
+		rdfs:label "9499377"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9499377> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9499377"^^xsd:anyURI ;
+		rdfs:label "9499377"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9499377> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9499377"^^xsd:anyURI ;
+		rdfs:label "9499377"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9499377> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9499377"^^xsd:anyURI ;
+		rdfs:label "9499377"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9673272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9673272"^^xsd:anyURI ;
+		rdfs:label "9673272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9673272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9673272"^^xsd:anyURI ;
+		rdfs:label "9673272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9673272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9673272"^^xsd:anyURI ;
+		rdfs:label "9673272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9673272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9673272"^^xsd:anyURI ;
+		rdfs:label "9673272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9673272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9673272"^^xsd:anyURI ;
+		rdfs:label "9673272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9712688> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9712688"^^xsd:anyURI ;
+		rdfs:label "9712688"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9712788> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9712788"^^xsd:anyURI ;
+		rdfs:label "9712788"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9712788> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9712788"^^xsd:anyURI ;
+		rdfs:label "9712788"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9712794> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9712794"^^xsd:anyURI ;
+		rdfs:label "9712794"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9712817> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9712817"^^xsd:anyURI ;
+		rdfs:label "9712817"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9882316> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9882316"^^xsd:anyURI ;
+		rdfs:label "9882316"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9973330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9973330"^^xsd:anyURI ;
+		rdfs:label "9973330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/9973330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/9973330"^^xsd:anyURI ;
+		rdfs:label "9973330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10049907> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10049907"^^xsd:anyURI ;
+		rdfs:label "10049907"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10049907> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10049907"^^xsd:anyURI ;
+		rdfs:label "10049907"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10049907> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10049907"^^xsd:anyURI ;
+		rdfs:label "10049907"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10049907> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10049907"^^xsd:anyURI ;
+		rdfs:label "10049907"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10049907> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10049907"^^xsd:anyURI ;
+		rdfs:label "10049907"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10219594> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10219594"^^xsd:anyURI ;
+		rdfs:label "10219594"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10225860> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10225860"^^xsd:anyURI ;
+		rdfs:label "10225860"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10225860> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10225860"^^xsd:anyURI ;
+		rdfs:label "10225860"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10338487> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10338487"^^xsd:anyURI ;
+		rdfs:label "10338487"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10406842> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10406842"^^xsd:anyURI ;
+		rdfs:label "10406842"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10496867> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10496867"^^xsd:anyURI ;
+		rdfs:label "10496867"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10497993> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10497993"^^xsd:anyURI ;
+		rdfs:label "10497993"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10526222> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10526222"^^xsd:anyURI ;
+		rdfs:label "10526222"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10531225> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10531225"^^xsd:anyURI ;
+		rdfs:label "10531225"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10531281> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10531281"^^xsd:anyURI ;
+		rdfs:label "10531281"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10569742> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10569742"^^xsd:anyURI ;
+		rdfs:label "10569742"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10570221> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10570221"^^xsd:anyURI ;
+		rdfs:label "10570221"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10675534> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10675534"^^xsd:anyURI ;
+		rdfs:label "10675534"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10816509> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10816509"^^xsd:anyURI ;
+		rdfs:label "10816509"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10816509> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10816509"^^xsd:anyURI ;
+		rdfs:label "10816509"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10816509> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10816509"^^xsd:anyURI ;
+		rdfs:label "10816509"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10816509> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10816509"^^xsd:anyURI ;
+		rdfs:label "10816509"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10816509> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10816509"^^xsd:anyURI ;
+		rdfs:label "10816509"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10816509> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10816509"^^xsd:anyURI ;
+		rdfs:label "10816509"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10816509> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10816509"^^xsd:anyURI ;
+		rdfs:label "10816509"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10816509> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10816509"^^xsd:anyURI ;
+		rdfs:label "10816509"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10954551> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10954551"^^xsd:anyURI ;
+		rdfs:label "10954551"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10954551> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10954551"^^xsd:anyURI ;
+		rdfs:label "10954551"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10954551> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10954551"^^xsd:anyURI ;
+		rdfs:label "10954551"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10954551> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10954551"^^xsd:anyURI ;
+		rdfs:label "10954551"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10954551> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10954551"^^xsd:anyURI ;
+		rdfs:label "10954551"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10954551> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10954551"^^xsd:anyURI ;
+		rdfs:label "10954551"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10954551> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10954551"^^xsd:anyURI ;
+		rdfs:label "10954551"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10954551> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10954551"^^xsd:anyURI ;
+		rdfs:label "10954551"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10954551> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10954551"^^xsd:anyURI ;
+		rdfs:label "10954551"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10992500> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10992500"^^xsd:anyURI ;
+		rdfs:label "10992500"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/10992500> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/10992500"^^xsd:anyURI ;
+		rdfs:label "10992500"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11030743> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11030743"^^xsd:anyURI ;
+		rdfs:label "11030743"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11030743> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11030743"^^xsd:anyURI ;
+		rdfs:label "11030743"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11035744> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11035744"^^xsd:anyURI ;
+		rdfs:label "11035744"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11035744> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11035744"^^xsd:anyURI ;
+		rdfs:label "11035744"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11035744> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11035744"^^xsd:anyURI ;
+		rdfs:label "11035744"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11035744> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11035744"^^xsd:anyURI ;
+		rdfs:label "11035744"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11087711> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11087711"^^xsd:anyURI ;
+		rdfs:label "11087711"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11087711> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11087711"^^xsd:anyURI ;
+		rdfs:label "11087711"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11087711> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11087711"^^xsd:anyURI ;
+		rdfs:label "11087711"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11087711> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11087711"^^xsd:anyURI ;
+		rdfs:label "11087711"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11087711> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11087711"^^xsd:anyURI ;
+		rdfs:label "11087711"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11087711> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11087711"^^xsd:anyURI ;
+		rdfs:label "11087711"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11087711> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11087711"^^xsd:anyURI ;
+		rdfs:label "11087711"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11087711> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11087711"^^xsd:anyURI ;
+		rdfs:label "11087711"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11087711> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11087711"^^xsd:anyURI ;
+		rdfs:label "11087711"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11160731> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11160731"^^xsd:anyURI ;
+		rdfs:label "11160731"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11160731> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11160731"^^xsd:anyURI ;
+		rdfs:label "11160731"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11160731> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11160731"^^xsd:anyURI ;
+		rdfs:label "11160731"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11179385> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11179385"^^xsd:anyURI ;
+		rdfs:label "11179385"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11179385> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11179385"^^xsd:anyURI ;
+		rdfs:label "11179385"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11179385> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11179385"^^xsd:anyURI ;
+		rdfs:label "11179385"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11179385> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11179385"^^xsd:anyURI ;
+		rdfs:label "11179385"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11179385> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11179385"^^xsd:anyURI ;
+		rdfs:label "11179385"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11283277> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11283277"^^xsd:anyURI ;
+		rdfs:label "11283277"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11312330> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11312330"^^xsd:anyURI ;
+		rdfs:label "11312330"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11368522> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11368522"^^xsd:anyURI ;
+		rdfs:label "11368522"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11401961> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11401961"^^xsd:anyURI ;
+		rdfs:label "11401961"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11401961> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11401961"^^xsd:anyURI ;
+		rdfs:label "11401961"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11454740> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11454740"^^xsd:anyURI ;
+		rdfs:label "11454740"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11454740> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11454740"^^xsd:anyURI ;
+		rdfs:label "11454740"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11454740> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11454740"^^xsd:anyURI ;
+		rdfs:label "11454740"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11454740> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11454740"^^xsd:anyURI ;
+		rdfs:label "11454740"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11555616> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11555616"^^xsd:anyURI ;
+		rdfs:label "11555616"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11814568> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11814568"^^xsd:anyURI ;
+		rdfs:label "11814568"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11814568> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11814568"^^xsd:anyURI ;
+		rdfs:label "11814568"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11890554> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11890554"^^xsd:anyURI ;
+		rdfs:label "11890554"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11953368> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11953368"^^xsd:anyURI ;
+		rdfs:label "11953368"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11953368> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11953368"^^xsd:anyURI ;
+		rdfs:label "11953368"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/11953368> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/11953368"^^xsd:anyURI ;
+		rdfs:label "11953368"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12010488> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12010488"^^xsd:anyURI ;
+		rdfs:label "12010488"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12137200> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12137200"^^xsd:anyURI ;
+		rdfs:label "12137200"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12137200> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12137200"^^xsd:anyURI ;
+		rdfs:label "12137200"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12562767> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12562767"^^xsd:anyURI ;
+		rdfs:label "12562767"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12640357> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12640357"^^xsd:anyURI ;
+		rdfs:label "12640357"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12640357> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12640357"^^xsd:anyURI ;
+		rdfs:label "12640357"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12640357> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12640357"^^xsd:anyURI ;
+		rdfs:label "12640357"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12640357> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12640357"^^xsd:anyURI ;
+		rdfs:label "12640357"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12640357> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12640357"^^xsd:anyURI ;
+		rdfs:label "12640357"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12704182> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12704182"^^xsd:anyURI ;
+		rdfs:label "12704182"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12825167> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12825167"^^xsd:anyURI ;
+		rdfs:label "12825167"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12825167> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12825167"^^xsd:anyURI ;
+		rdfs:label "12825167"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12825167> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12825167"^^xsd:anyURI ;
+		rdfs:label "12825167"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12825167> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12825167"^^xsd:anyURI ;
+		rdfs:label "12825167"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12825167> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12825167"^^xsd:anyURI ;
+		rdfs:label "12825167"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12825167> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12825167"^^xsd:anyURI ;
+		rdfs:label "12825167"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12825167> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12825167"^^xsd:anyURI ;
+		rdfs:label "12825167"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/12864853> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/12864853"^^xsd:anyURI ;
+		rdfs:label "12864853"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14576169> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14576169"^^xsd:anyURI ;
+		rdfs:label "14576169"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14687561> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14687561"^^xsd:anyURI ;
+		rdfs:label "14687561"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14687561> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14687561"^^xsd:anyURI ;
+		rdfs:label "14687561"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14687561> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14687561"^^xsd:anyURI ;
+		rdfs:label "14687561"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14687561> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14687561"^^xsd:anyURI ;
+		rdfs:label "14687561"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14687561> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14687561"^^xsd:anyURI ;
+		rdfs:label "14687561"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14764886> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14764886"^^xsd:anyURI ;
+		rdfs:label "14764886"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14977958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14977958"^^xsd:anyURI ;
+		rdfs:label "14977958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14977958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14977958"^^xsd:anyURI ;
+		rdfs:label "14977958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/14977958> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/14977958"^^xsd:anyURI ;
+		rdfs:label "14977958"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15049333> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15049333"^^xsd:anyURI ;
+		rdfs:label "15049333"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15049333> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15049333"^^xsd:anyURI ;
+		rdfs:label "15049333"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15153502> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15153502"^^xsd:anyURI ;
+		rdfs:label "15153502"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15220447> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15220447"^^xsd:anyURI ;
+		rdfs:label "15220447"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15273394> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15273394"^^xsd:anyURI ;
+		rdfs:label "15273394"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15273394> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15273394"^^xsd:anyURI ;
+		rdfs:label "15273394"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15273394> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15273394"^^xsd:anyURI ;
+		rdfs:label "15273394"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15322032> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15322032"^^xsd:anyURI ;
+		rdfs:label "15322032"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15358234> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15358234"^^xsd:anyURI ;
+		rdfs:label "15358234"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15659615> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15659615"^^xsd:anyURI ;
+		rdfs:label "15659615"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15890909> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15890909"^^xsd:anyURI ;
+		rdfs:label "15890909"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/15893670> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/15893670"^^xsd:anyURI ;
+		rdfs:label "15893670"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16088272> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16088272"^^xsd:anyURI ;
+		rdfs:label "16088272"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16104015> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16104015"^^xsd:anyURI ;
+		rdfs:label "16104015"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16104015> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16104015"^^xsd:anyURI ;
+		rdfs:label "16104015"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16177339> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16177339"^^xsd:anyURI ;
+		rdfs:label "16177339"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16177339> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16177339"^^xsd:anyURI ;
+		rdfs:label "16177339"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16226289> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16226289"^^xsd:anyURI ;
+		rdfs:label "16226289"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16567801> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16567801"^^xsd:anyURI ;
+		rdfs:label "16567801"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16622409> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16622409"^^xsd:anyURI ;
+		rdfs:label "16622409"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16762477> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16762477"^^xsd:anyURI ;
+		rdfs:label "16762477"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/16953581> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/16953581"^^xsd:anyURI ;
+		rdfs:label "16953581"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/17262177> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/17262177"^^xsd:anyURI ;
+		rdfs:label "17262177"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/17491595> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/17491595"^^xsd:anyURI ;
+		rdfs:label "17491595"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/17895522> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/17895522"^^xsd:anyURI ;
+		rdfs:label "17895522"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/17942670> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/17942670"^^xsd:anyURI ;
+		rdfs:label "17942670"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18178224> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18178224"^^xsd:anyURI ;
+		rdfs:label "18178224"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18178224> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18178224"^^xsd:anyURI ;
+		rdfs:label "18178224"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18215132> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18215132"^^xsd:anyURI ;
+		rdfs:label "18215132"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18652681> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18652681"^^xsd:anyURI ;
+		rdfs:label "18652681"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/18704164> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/18704164"^^xsd:anyURI ;
+		rdfs:label "18704164"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/19208633> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/19208633"^^xsd:anyURI ;
+		rdfs:label "19208633"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/19476346> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/19476346"^^xsd:anyURI ;
+		rdfs:label "19476346"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/19593815> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/19593815"^^xsd:anyURI ;
+		rdfs:label "19593815"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/20219474> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/20219474"^^xsd:anyURI ;
+		rdfs:label "20219474"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/20951965> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/20951965"^^xsd:anyURI ;
+		rdfs:label "20951965"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21151139> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21151139"^^xsd:anyURI ;
+		rdfs:label "21151139"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21525337> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21525337"^^xsd:anyURI ;
+		rdfs:label "21525337"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21640703> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21640703"^^xsd:anyURI ;
+		rdfs:label "21640703"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21640703> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21640703"^^xsd:anyURI ;
+		rdfs:label "21640703"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21640703> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21640703"^^xsd:anyURI ;
+		rdfs:label "21640703"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21749855> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21749855"^^xsd:anyURI ;
+		rdfs:label "21749855"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/21949679> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/21949679"^^xsd:anyURI ;
+		rdfs:label "21949679"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/22399295> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/22399295"^^xsd:anyURI ;
+		rdfs:label "22399295"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/22504179> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/22504179"^^xsd:anyURI ;
+		rdfs:label "22504179"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/22812428> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/22812428"^^xsd:anyURI ;
+		rdfs:label "22812428"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/22812428> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/22812428"^^xsd:anyURI ;
+		rdfs:label "22812428"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/23480609> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/23480609"^^xsd:anyURI ;
+		rdfs:label "23480609"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/24648448> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/24648448"^^xsd:anyURI ;
+		rdfs:label "24648448"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/25048705> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/25048705"^^xsd:anyURI ;
+		rdfs:label "25048705"^^xsd:string .
+
+<http://www.ncbi.nlm.nih.gov/pubmed/25048706> rdf:type owl:NamedIndividual ,
+			:Pubmed ;
+		:pubmedId "http://www.ncbi.nlm.nih.gov/pubmed/25048706"^^xsd:anyURI ;
+		rdfs:label "25048706"^^xsd:string .
+

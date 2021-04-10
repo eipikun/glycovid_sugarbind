@@ -1,0 +1,1198 @@
+#######################################################
+### Individuals (Structure) 
+#######################################################
+
+<https://sugarbind.expasy.org/structures/1> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G65889KE ;
+		:structureId "https://sugarbind.expasy.org/structures/1"^^xsd:anyURI ;
+		rdfs:label "1"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/2> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G21856LC ;
+		:structureId "https://sugarbind.expasy.org/structures/2"^^xsd:anyURI ;
+		rdfs:label "2"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/3> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G84224TW ;
+		:structureId "https://sugarbind.expasy.org/structures/3"^^xsd:anyURI ;
+		rdfs:label "3"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/4> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G90562PB ;
+		:structureId "https://sugarbind.expasy.org/structures/4"^^xsd:anyURI ;
+		rdfs:label "4"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/5> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G71142DF ;
+		:structureId "https://sugarbind.expasy.org/structures/5"^^xsd:anyURI ;
+		rdfs:label "5"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/6> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G74621DY ;
+		:structureId "https://sugarbind.expasy.org/structures/6"^^xsd:anyURI ;
+		rdfs:label "6"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/7> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G68158BT ;
+		:structureId "https://sugarbind.expasy.org/structures/7"^^xsd:anyURI ;
+		rdfs:label "7"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/8> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G78436BB ;
+		:structureId "https://sugarbind.expasy.org/structures/8"^^xsd:anyURI ;
+		rdfs:label "8"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/8> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G78436BB ;
+		:structureId "https://sugarbind.expasy.org/structures/8"^^xsd:anyURI ;
+		rdfs:label "8"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/8> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G78436BB ;
+		:structureId "https://sugarbind.expasy.org/structures/8"^^xsd:anyURI ;
+		rdfs:label "8"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/9> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G61418DU ;
+		:structureId "https://sugarbind.expasy.org/structures/9"^^xsd:anyURI ;
+		rdfs:label "9"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/10> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G78074HX ;
+		:structureId "https://sugarbind.expasy.org/structures/10"^^xsd:anyURI ;
+		rdfs:label "10"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/11> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G54721WC ;
+		:structureId "https://sugarbind.expasy.org/structures/11"^^xsd:anyURI ;
+		rdfs:label "11"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/12> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G99053DY ;
+		:structureId "https://sugarbind.expasy.org/structures/12"^^xsd:anyURI ;
+		rdfs:label "12"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/13> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G48558GR ;
+		:structureId "https://sugarbind.expasy.org/structures/13"^^xsd:anyURI ;
+		rdfs:label "13"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/14> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G37184KW ;
+		:structureId "https://sugarbind.expasy.org/structures/14"^^xsd:anyURI ;
+		rdfs:label "14"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/15> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G58896AZ ;
+		:structureId "https://sugarbind.expasy.org/structures/15"^^xsd:anyURI ;
+		rdfs:label "15"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/17> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G57710SU ;
+		:structureId "https://sugarbind.expasy.org/structures/17"^^xsd:anyURI ;
+		rdfs:label "17"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/18> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00061MO ;
+		:structureId "https://sugarbind.expasy.org/structures/18"^^xsd:anyURI ;
+		rdfs:label "18"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/19> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G51699SI ;
+		:structureId "https://sugarbind.expasy.org/structures/19"^^xsd:anyURI ;
+		rdfs:label "19"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/20> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G06239NA ;
+		:structureId "https://sugarbind.expasy.org/structures/20"^^xsd:anyURI ;
+		rdfs:label "20"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/21> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G87315SO ;
+		:structureId "https://sugarbind.expasy.org/structures/21"^^xsd:anyURI ;
+		rdfs:label "21"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/22> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G46677TE ;
+		:structureId "https://sugarbind.expasy.org/structures/22"^^xsd:anyURI ;
+		rdfs:label "22"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/23> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G60859DF ;
+		:structureId "https://sugarbind.expasy.org/structures/23"^^xsd:anyURI ;
+		rdfs:label "23"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/24> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00049MO ;
+		:structureId "https://sugarbind.expasy.org/structures/24"^^xsd:anyURI ;
+		rdfs:label "24"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/25> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00059MO ;
+		:structureId "https://sugarbind.expasy.org/structures/25"^^xsd:anyURI ;
+		rdfs:label "25"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/26> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G40183QN ;
+		:structureId "https://sugarbind.expasy.org/structures/26"^^xsd:anyURI ;
+		rdfs:label "26"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/27> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G04616ST ;
+		:structureId "https://sugarbind.expasy.org/structures/27"^^xsd:anyURI ;
+		rdfs:label "27"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/27> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G04616ST ;
+		:structureId "https://sugarbind.expasy.org/structures/27"^^xsd:anyURI ;
+		rdfs:label "27"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/28> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G51331BY ;
+		:structureId "https://sugarbind.expasy.org/structures/28"^^xsd:anyURI ;
+		rdfs:label "28"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/29> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G62763GO ;
+		:structureId "https://sugarbind.expasy.org/structures/29"^^xsd:anyURI ;
+		rdfs:label "29"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/30> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G67988RO ;
+		:structureId "https://sugarbind.expasy.org/structures/30"^^xsd:anyURI ;
+		rdfs:label "30"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/30> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G67988RO ;
+		:structureId "https://sugarbind.expasy.org/structures/30"^^xsd:anyURI ;
+		rdfs:label "30"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/31> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G20624LQ ;
+		:structureId "https://sugarbind.expasy.org/structures/31"^^xsd:anyURI ;
+		rdfs:label "31"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/32> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G39064VB ;
+		:structureId "https://sugarbind.expasy.org/structures/32"^^xsd:anyURI ;
+		rdfs:label "32"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/33> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G81533KY ;
+		:structureId "https://sugarbind.expasy.org/structures/33"^^xsd:anyURI ;
+		rdfs:label "33"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/34> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G27025MB ;
+		:structureId "https://sugarbind.expasy.org/structures/34"^^xsd:anyURI ;
+		rdfs:label "34"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/35> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G91237TK ;
+		:structureId "https://sugarbind.expasy.org/structures/35"^^xsd:anyURI ;
+		rdfs:label "35"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/35> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G91237TK ;
+		:structureId "https://sugarbind.expasy.org/structures/35"^^xsd:anyURI ;
+		rdfs:label "35"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/36> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G18625KA ;
+		:structureId "https://sugarbind.expasy.org/structures/36"^^xsd:anyURI ;
+		rdfs:label "36"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/37> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G77824XV ;
+		:structureId "https://sugarbind.expasy.org/structures/37"^^xsd:anyURI ;
+		rdfs:label "37"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/38> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G03499BP ;
+		:structureId "https://sugarbind.expasy.org/structures/38"^^xsd:anyURI ;
+		rdfs:label "38"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/39> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G79389NT ;
+		:structureId "https://sugarbind.expasy.org/structures/39"^^xsd:anyURI ;
+		rdfs:label "39"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/40> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G97569KL ;
+		:structureId "https://sugarbind.expasy.org/structures/40"^^xsd:anyURI ;
+		rdfs:label "40"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/41> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G61298NX ;
+		:structureId "https://sugarbind.expasy.org/structures/41"^^xsd:anyURI ;
+		rdfs:label "41"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/42> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G70323CJ ;
+		:structureId "https://sugarbind.expasy.org/structures/42"^^xsd:anyURI ;
+		rdfs:label "42"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/43> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00050MO ;
+		:structureId "https://sugarbind.expasy.org/structures/43"^^xsd:anyURI ;
+		rdfs:label "43"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/44> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G22689CV ;
+		:structureId "https://sugarbind.expasy.org/structures/44"^^xsd:anyURI ;
+		rdfs:label "44"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/45> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G63238VS ;
+		:structureId "https://sugarbind.expasy.org/structures/45"^^xsd:anyURI ;
+		rdfs:label "45"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/46> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G71485PH ;
+		:structureId "https://sugarbind.expasy.org/structures/46"^^xsd:anyURI ;
+		rdfs:label "46"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/48> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G37830TX ;
+		:structureId "https://sugarbind.expasy.org/structures/48"^^xsd:anyURI ;
+		rdfs:label "48"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/48> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G37830TX ;
+		:structureId "https://sugarbind.expasy.org/structures/48"^^xsd:anyURI ;
+		rdfs:label "48"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/49> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G04715SK ;
+		:structureId "https://sugarbind.expasy.org/structures/49"^^xsd:anyURI ;
+		rdfs:label "49"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/50> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G82858KU ;
+		:structureId "https://sugarbind.expasy.org/structures/50"^^xsd:anyURI ;
+		rdfs:label "50"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/51> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G65507FU ;
+		:structureId "https://sugarbind.expasy.org/structures/51"^^xsd:anyURI ;
+		rdfs:label "51"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/52> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00711NG ;
+		:structureId "https://sugarbind.expasy.org/structures/52"^^xsd:anyURI ;
+		rdfs:label "52"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/53> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G76297JC ;
+		:structureId "https://sugarbind.expasy.org/structures/53"^^xsd:anyURI ;
+		rdfs:label "53"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/54> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G26123AX ;
+		:structureId "https://sugarbind.expasy.org/structures/54"^^xsd:anyURI ;
+		rdfs:label "54"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/55> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G33224VN ;
+		:structureId "https://sugarbind.expasy.org/structures/55"^^xsd:anyURI ;
+		rdfs:label "55"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/56> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G05357CB ;
+		:structureId "https://sugarbind.expasy.org/structures/56"^^xsd:anyURI ;
+		rdfs:label "56"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/57> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G97932OH ;
+		:structureId "https://sugarbind.expasy.org/structures/57"^^xsd:anyURI ;
+		rdfs:label "57"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/58> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G32254QI ;
+		:structureId "https://sugarbind.expasy.org/structures/58"^^xsd:anyURI ;
+		rdfs:label "58"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/58> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G32254QI ;
+		:structureId "https://sugarbind.expasy.org/structures/58"^^xsd:anyURI ;
+		rdfs:label "58"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/59> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G64581RP ;
+		:structureId "https://sugarbind.expasy.org/structures/59"^^xsd:anyURI ;
+		rdfs:label "59"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/60> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G67988RO ;
+		:structureId "https://sugarbind.expasy.org/structures/60"^^xsd:anyURI ;
+		rdfs:label "60"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/61> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G98465JN ;
+		:structureId "https://sugarbind.expasy.org/structures/61"^^xsd:anyURI ;
+		rdfs:label "61"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/62> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G72565QB ;
+		:structureId "https://sugarbind.expasy.org/structures/62"^^xsd:anyURI ;
+		rdfs:label "62"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/63> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G75789AR ;
+		:structureId "https://sugarbind.expasy.org/structures/63"^^xsd:anyURI ;
+		rdfs:label "63"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/64> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G70323CJ ;
+		:structureId "https://sugarbind.expasy.org/structures/64"^^xsd:anyURI ;
+		rdfs:label "64"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/65> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G30207PZ ;
+		:structureId "https://sugarbind.expasy.org/structures/65"^^xsd:anyURI ;
+		rdfs:label "65"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/66> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G32969VW ;
+		:structureId "https://sugarbind.expasy.org/structures/66"^^xsd:anyURI ;
+		rdfs:label "66"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/67> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G56299XO ;
+		:structureId "https://sugarbind.expasy.org/structures/67"^^xsd:anyURI ;
+		rdfs:label "67"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/68> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G70323CJ ;
+		:structureId "https://sugarbind.expasy.org/structures/68"^^xsd:anyURI ;
+		rdfs:label "68"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/69> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G17780OR ;
+		:structureId "https://sugarbind.expasy.org/structures/69"^^xsd:anyURI ;
+		rdfs:label "69"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/70> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G07982RO ;
+		:structureId "https://sugarbind.expasy.org/structures/70"^^xsd:anyURI ;
+		rdfs:label "70"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/70> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G07982RO ;
+		:structureId "https://sugarbind.expasy.org/structures/70"^^xsd:anyURI ;
+		rdfs:label "70"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/71> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G50850NI ;
+		:structureId "https://sugarbind.expasy.org/structures/71"^^xsd:anyURI ;
+		rdfs:label "71"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/72> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G56516VH ;
+		:structureId "https://sugarbind.expasy.org/structures/72"^^xsd:anyURI ;
+		rdfs:label "72"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/73> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G47395XN ;
+		:structureId "https://sugarbind.expasy.org/structures/73"^^xsd:anyURI ;
+		rdfs:label "73"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/74> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G56478LD ;
+		:structureId "https://sugarbind.expasy.org/structures/74"^^xsd:anyURI ;
+		rdfs:label "74"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/75> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G95034OI ;
+		:structureId "https://sugarbind.expasy.org/structures/75"^^xsd:anyURI ;
+		rdfs:label "75"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/76> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G83212YI ;
+		:structureId "https://sugarbind.expasy.org/structures/76"^^xsd:anyURI ;
+		rdfs:label "76"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/77> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G72548RZ ;
+		:structureId "https://sugarbind.expasy.org/structures/77"^^xsd:anyURI ;
+		rdfs:label "77"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/78> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G20044TD ;
+		:structureId "https://sugarbind.expasy.org/structures/78"^^xsd:anyURI ;
+		rdfs:label "78"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/79> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G84034JH ;
+		:structureId "https://sugarbind.expasy.org/structures/79"^^xsd:anyURI ;
+		rdfs:label "79"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/80> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G82576YO ;
+		:structureId "https://sugarbind.expasy.org/structures/80"^^xsd:anyURI ;
+		rdfs:label "80"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/81> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G78260AJ ;
+		:structureId "https://sugarbind.expasy.org/structures/81"^^xsd:anyURI ;
+		rdfs:label "81"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/82> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G65889KE ;
+		:structureId "https://sugarbind.expasy.org/structures/82"^^xsd:anyURI ;
+		rdfs:label "82"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/82> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G65889KE ;
+		:structureId "https://sugarbind.expasy.org/structures/82"^^xsd:anyURI ;
+		rdfs:label "82"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/83> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G88796WA ;
+		:structureId "https://sugarbind.expasy.org/structures/83"^^xsd:anyURI ;
+		rdfs:label "83"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/84> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G19336PT ;
+		:structureId "https://sugarbind.expasy.org/structures/84"^^xsd:anyURI ;
+		rdfs:label "84"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/85> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G62971NJ ;
+		:structureId "https://sugarbind.expasy.org/structures/85"^^xsd:anyURI ;
+		rdfs:label "85"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/86> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G80062GG ;
+		:structureId "https://sugarbind.expasy.org/structures/86"^^xsd:anyURI ;
+		rdfs:label "86"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/87> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G24034CH ;
+		:structureId "https://sugarbind.expasy.org/structures/87"^^xsd:anyURI ;
+		rdfs:label "87"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/88> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G02657AK ;
+		:structureId "https://sugarbind.expasy.org/structures/88"^^xsd:anyURI ;
+		rdfs:label "88"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/89> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G98544DH ;
+		:structureId "https://sugarbind.expasy.org/structures/89"^^xsd:anyURI ;
+		rdfs:label "89"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/90> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G04165ZA ;
+		:structureId "https://sugarbind.expasy.org/structures/90"^^xsd:anyURI ;
+		rdfs:label "90"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/91> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G03777BI ;
+		:structureId "https://sugarbind.expasy.org/structures/91"^^xsd:anyURI ;
+		rdfs:label "91"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/92> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G03277YI ;
+		:structureId "https://sugarbind.expasy.org/structures/92"^^xsd:anyURI ;
+		rdfs:label "92"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/93> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G08079IN ;
+		:structureId "https://sugarbind.expasy.org/structures/93"^^xsd:anyURI ;
+		rdfs:label "93"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/94> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G88393MK ;
+		:structureId "https://sugarbind.expasy.org/structures/94"^^xsd:anyURI ;
+		rdfs:label "94"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/95> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G60395SO ;
+		:structureId "https://sugarbind.expasy.org/structures/95"^^xsd:anyURI ;
+		rdfs:label "95"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/96> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G48600JD ;
+		:structureId "https://sugarbind.expasy.org/structures/96"^^xsd:anyURI ;
+		rdfs:label "96"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/97> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G58507AZ ;
+		:structureId "https://sugarbind.expasy.org/structures/97"^^xsd:anyURI ;
+		rdfs:label "97"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/98> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G08855PJ ;
+		:structureId "https://sugarbind.expasy.org/structures/98"^^xsd:anyURI ;
+		rdfs:label "98"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/99> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G45215IJ ;
+		:structureId "https://sugarbind.expasy.org/structures/99"^^xsd:anyURI ;
+		rdfs:label "99"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/100> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G96401FK ;
+		:structureId "https://sugarbind.expasy.org/structures/100"^^xsd:anyURI ;
+		rdfs:label "100"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/101> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G01296LJ ;
+		:structureId "https://sugarbind.expasy.org/structures/101"^^xsd:anyURI ;
+		rdfs:label "101"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/102> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G01767JJ ;
+		:structureId "https://sugarbind.expasy.org/structures/102"^^xsd:anyURI ;
+		rdfs:label "102"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/103> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G03067VG ;
+		:structureId "https://sugarbind.expasy.org/structures/103"^^xsd:anyURI ;
+		rdfs:label "103"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/104> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G26036PN ;
+		:structureId "https://sugarbind.expasy.org/structures/104"^^xsd:anyURI ;
+		rdfs:label "104"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/105> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G28566CQ ;
+		:structureId "https://sugarbind.expasy.org/structures/105"^^xsd:anyURI ;
+		rdfs:label "105"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/106> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G09552LA ;
+		:structureId "https://sugarbind.expasy.org/structures/106"^^xsd:anyURI ;
+		rdfs:label "106"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/107> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G50321QR ;
+		:structureId "https://sugarbind.expasy.org/structures/107"^^xsd:anyURI ;
+		rdfs:label "107"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/108> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G57920AK ;
+		:structureId "https://sugarbind.expasy.org/structures/108"^^xsd:anyURI ;
+		rdfs:label "108"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/109> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G10203DW ;
+		:structureId "https://sugarbind.expasy.org/structures/109"^^xsd:anyURI ;
+		rdfs:label "109"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/110> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G30207PZ ;
+		:structureId "https://sugarbind.expasy.org/structures/110"^^xsd:anyURI ;
+		rdfs:label "110"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/111> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G55153IW ;
+		:structureId "https://sugarbind.expasy.org/structures/111"^^xsd:anyURI ;
+		rdfs:label "111"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/112> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G07169WN ;
+		:structureId "https://sugarbind.expasy.org/structures/112"^^xsd:anyURI ;
+		rdfs:label "112"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/113> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G96614JE ;
+		:structureId "https://sugarbind.expasy.org/structures/113"^^xsd:anyURI ;
+		rdfs:label "113"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/114> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G87245HS ;
+		:structureId "https://sugarbind.expasy.org/structures/114"^^xsd:anyURI ;
+		rdfs:label "114"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/115> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G72692DY ;
+		:structureId "https://sugarbind.expasy.org/structures/115"^^xsd:anyURI ;
+		rdfs:label "115"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/116> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G83513YI ;
+		:structureId "https://sugarbind.expasy.org/structures/116"^^xsd:anyURI ;
+		rdfs:label "116"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/117> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G21066IE ;
+		:structureId "https://sugarbind.expasy.org/structures/117"^^xsd:anyURI ;
+		rdfs:label "117"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/118> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G21938SG ;
+		:structureId "https://sugarbind.expasy.org/structures/118"^^xsd:anyURI ;
+		rdfs:label "118"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/119> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G44345UH ;
+		:structureId "https://sugarbind.expasy.org/structures/119"^^xsd:anyURI ;
+		rdfs:label "119"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/120> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G46776WR ;
+		:structureId "https://sugarbind.expasy.org/structures/120"^^xsd:anyURI ;
+		rdfs:label "120"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/121> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G80722US ;
+		:structureId "https://sugarbind.expasy.org/structures/121"^^xsd:anyURI ;
+		rdfs:label "121"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/122> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00054MO ;
+		:structureId "https://sugarbind.expasy.org/structures/122"^^xsd:anyURI ;
+		rdfs:label "122"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/123> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G99745QX ;
+		:structureId "https://sugarbind.expasy.org/structures/123"^^xsd:anyURI ;
+		rdfs:label "123"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/124> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00065MO ;
+		:structureId "https://sugarbind.expasy.org/structures/124"^^xsd:anyURI ;
+		rdfs:label "124"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/125> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G09376MR ;
+		:structureId "https://sugarbind.expasy.org/structures/125"^^xsd:anyURI ;
+		rdfs:label "125"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/126> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G79536OW ;
+		:structureId "https://sugarbind.expasy.org/structures/126"^^xsd:anyURI ;
+		rdfs:label "126"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/127> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G93779QZ ;
+		:structureId "https://sugarbind.expasy.org/structures/127"^^xsd:anyURI ;
+		rdfs:label "127"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/128> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G16194TN ;
+		:structureId "https://sugarbind.expasy.org/structures/128"^^xsd:anyURI ;
+		rdfs:label "128"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/129> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G29313LW ;
+		:structureId "https://sugarbind.expasy.org/structures/129"^^xsd:anyURI ;
+		rdfs:label "129"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/129> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G29313LW ;
+		:structureId "https://sugarbind.expasy.org/structures/129"^^xsd:anyURI ;
+		rdfs:label "129"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/130> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G60645OK ;
+		:structureId "https://sugarbind.expasy.org/structures/130"^^xsd:anyURI ;
+		rdfs:label "130"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/131> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G72548RZ ;
+		:structureId "https://sugarbind.expasy.org/structures/131"^^xsd:anyURI ;
+		rdfs:label "131"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/132> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G72548RZ ;
+		:structureId "https://sugarbind.expasy.org/structures/132"^^xsd:anyURI ;
+		rdfs:label "132"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/133> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G20044TD ;
+		:structureId "https://sugarbind.expasy.org/structures/133"^^xsd:anyURI ;
+		rdfs:label "133"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/134> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G60011XD ;
+		:structureId "https://sugarbind.expasy.org/structures/134"^^xsd:anyURI ;
+		rdfs:label "134"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/135> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G20420WT ;
+		:structureId "https://sugarbind.expasy.org/structures/135"^^xsd:anyURI ;
+		rdfs:label "135"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/136> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G41709CA ;
+		:structureId "https://sugarbind.expasy.org/structures/136"^^xsd:anyURI ;
+		rdfs:label "136"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/137> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G87727XV ;
+		:structureId "https://sugarbind.expasy.org/structures/137"^^xsd:anyURI ;
+		rdfs:label "137"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/138> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G39211DH ;
+		:structureId "https://sugarbind.expasy.org/structures/138"^^xsd:anyURI ;
+		rdfs:label "138"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/139> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G49963IQ ;
+		:structureId "https://sugarbind.expasy.org/structures/139"^^xsd:anyURI ;
+		rdfs:label "139"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/140> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G58612ZQ ;
+		:structureId "https://sugarbind.expasy.org/structures/140"^^xsd:anyURI ;
+		rdfs:label "140"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/141> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G55958KV ;
+		:structureId "https://sugarbind.expasy.org/structures/141"^^xsd:anyURI ;
+		rdfs:label "141"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/142> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G14300ZJ ;
+		:structureId "https://sugarbind.expasy.org/structures/142"^^xsd:anyURI ;
+		rdfs:label "142"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/143> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G94938PL ;
+		:structureId "https://sugarbind.expasy.org/structures/143"^^xsd:anyURI ;
+		rdfs:label "143"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/144> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G12068BR ;
+		:structureId "https://sugarbind.expasy.org/structures/144"^^xsd:anyURI ;
+		rdfs:label "144"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/145> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G50899UD ;
+		:structureId "https://sugarbind.expasy.org/structures/145"^^xsd:anyURI ;
+		rdfs:label "145"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/146> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G66086EX ;
+		:structureId "https://sugarbind.expasy.org/structures/146"^^xsd:anyURI ;
+		rdfs:label "146"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/147> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00047MO ;
+		:structureId "https://sugarbind.expasy.org/structures/147"^^xsd:anyURI ;
+		rdfs:label "147"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/148> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G23041XK ;
+		:structureId "https://sugarbind.expasy.org/structures/148"^^xsd:anyURI ;
+		rdfs:label "148"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/149> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G01187XC ;
+		:structureId "https://sugarbind.expasy.org/structures/149"^^xsd:anyURI ;
+		rdfs:label "149"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/150> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G72494BI ;
+		:structureId "https://sugarbind.expasy.org/structures/150"^^xsd:anyURI ;
+		rdfs:label "150"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/151> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G37563FN ;
+		:structureId "https://sugarbind.expasy.org/structures/151"^^xsd:anyURI ;
+		rdfs:label "151"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/152> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G98173LG ;
+		:structureId "https://sugarbind.expasy.org/structures/152"^^xsd:anyURI ;
+		rdfs:label "152"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/152> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G98173LG ;
+		:structureId "https://sugarbind.expasy.org/structures/152"^^xsd:anyURI ;
+		rdfs:label "152"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/153> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G91326YS ;
+		:structureId "https://sugarbind.expasy.org/structures/153"^^xsd:anyURI ;
+		rdfs:label "153"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/154> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G86123DJ ;
+		:structureId "https://sugarbind.expasy.org/structures/154"^^xsd:anyURI ;
+		rdfs:label "154"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/155> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00407UJ ;
+		:structureId "https://sugarbind.expasy.org/structures/155"^^xsd:anyURI ;
+		rdfs:label "155"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/156> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G65889KE ;
+		:structureId "https://sugarbind.expasy.org/structures/156"^^xsd:anyURI ;
+		rdfs:label "156"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/157> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G65889KE ;
+		:structureId "https://sugarbind.expasy.org/structures/157"^^xsd:anyURI ;
+		rdfs:label "157"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/158> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00059MO ;
+		:structureId "https://sugarbind.expasy.org/structures/158"^^xsd:anyURI ;
+		rdfs:label "158"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/159> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G91649BT ;
+		:structureId "https://sugarbind.expasy.org/structures/159"^^xsd:anyURI ;
+		rdfs:label "159"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/160> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G12460DL ;
+		:structureId "https://sugarbind.expasy.org/structures/160"^^xsd:anyURI ;
+		rdfs:label "160"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/161> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G50850NI ;
+		:structureId "https://sugarbind.expasy.org/structures/161"^^xsd:anyURI ;
+		rdfs:label "161"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/161> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G50850NI ;
+		:structureId "https://sugarbind.expasy.org/structures/161"^^xsd:anyURI ;
+		rdfs:label "161"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/161> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G50850NI ;
+		:structureId "https://sugarbind.expasy.org/structures/161"^^xsd:anyURI ;
+		rdfs:label "161"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/162> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G02880JU ;
+		:structureId "https://sugarbind.expasy.org/structures/162"^^xsd:anyURI ;
+		rdfs:label "162"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/163> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G45827GY ;
+		:structureId "https://sugarbind.expasy.org/structures/163"^^xsd:anyURI ;
+		rdfs:label "163"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/164> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G48059CD ;
+		:structureId "https://sugarbind.expasy.org/structures/164"^^xsd:anyURI ;
+		rdfs:label "164"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/165> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G39011KA ;
+		:structureId "https://sugarbind.expasy.org/structures/165"^^xsd:anyURI ;
+		rdfs:label "165"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/166> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G55205ZV ;
+		:structureId "https://sugarbind.expasy.org/structures/166"^^xsd:anyURI ;
+		rdfs:label "166"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/167> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G06000DZ ;
+		:structureId "https://sugarbind.expasy.org/structures/167"^^xsd:anyURI ;
+		rdfs:label "167"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/168> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G23581GL ;
+		:structureId "https://sugarbind.expasy.org/structures/168"^^xsd:anyURI ;
+		rdfs:label "168"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/169> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G65191ST ;
+		:structureId "https://sugarbind.expasy.org/structures/169"^^xsd:anyURI ;
+		rdfs:label "169"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/171> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G90889KG ;
+		:structureId "https://sugarbind.expasy.org/structures/171"^^xsd:anyURI ;
+		rdfs:label "171"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/172> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G28330DZ ;
+		:structureId "https://sugarbind.expasy.org/structures/172"^^xsd:anyURI ;
+		rdfs:label "172"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/173> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G47812NS ;
+		:structureId "https://sugarbind.expasy.org/structures/173"^^xsd:anyURI ;
+		rdfs:label "173"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/174> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G62593IS ;
+		:structureId "https://sugarbind.expasy.org/structures/174"^^xsd:anyURI ;
+		rdfs:label "174"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/175> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G59168YE ;
+		:structureId "https://sugarbind.expasy.org/structures/175"^^xsd:anyURI ;
+		rdfs:label "175"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/176> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G59508TM ;
+		:structureId "https://sugarbind.expasy.org/structures/176"^^xsd:anyURI ;
+		rdfs:label "176"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/177> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G32417JV ;
+		:structureId "https://sugarbind.expasy.org/structures/177"^^xsd:anyURI ;
+		rdfs:label "177"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/178> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G00998NI ;
+		:structureId "https://sugarbind.expasy.org/structures/178"^^xsd:anyURI ;
+		rdfs:label "178"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/179> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G28528AG ;
+		:structureId "https://sugarbind.expasy.org/structures/179"^^xsd:anyURI ;
+		rdfs:label "179"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/180> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G15021LG ;
+		:structureId "https://sugarbind.expasy.org/structures/180"^^xsd:anyURI ;
+		rdfs:label "180"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/181> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G11485ID ;
+		:structureId "https://sugarbind.expasy.org/structures/181"^^xsd:anyURI ;
+		rdfs:label "181"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/182> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G03506YN ;
+		:structureId "https://sugarbind.expasy.org/structures/182"^^xsd:anyURI ;
+		rdfs:label "182"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/183> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G68158BT ;
+		:structureId "https://sugarbind.expasy.org/structures/183"^^xsd:anyURI ;
+		rdfs:label "183"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/184> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G07490EK ;
+		:structureId "https://sugarbind.expasy.org/structures/184"^^xsd:anyURI ;
+		rdfs:label "184"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/185> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G51379UR ;
+		:structureId "https://sugarbind.expasy.org/structures/185"^^xsd:anyURI ;
+		rdfs:label "185"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/187> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G89659QV ;
+		:structureId "https://sugarbind.expasy.org/structures/187"^^xsd:anyURI ;
+		rdfs:label "187"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/188> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G48236KP ;
+		:structureId "https://sugarbind.expasy.org/structures/188"^^xsd:anyURI ;
+		rdfs:label "188"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/189> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G72506RN ;
+		:structureId "https://sugarbind.expasy.org/structures/189"^^xsd:anyURI ;
+		rdfs:label "189"^^xsd:string .
+
+<https://sugarbind.expasy.org/structures/190> rdf:type owl:NamedIndividual ,
+			:Structure ;
+		:glytoucanId glycoinfo:G17108EX ;
+		:structureId "https://sugarbind.expasy.org/structures/190"^^xsd:anyURI ;
+		rdfs:label "190"^^xsd:string .
+
