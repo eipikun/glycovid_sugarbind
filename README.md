@@ -23,6 +23,7 @@ create folders to store output files.
 clone this project and then execute commands below
 ```
 $cd glycovid_sugarbind
+$python3 -m venv venv [if you are needed to create new virtualenv]
 $. venv/bin/activate [if you are needed to switch to virtualenv]
 
 [when you are required to install those]
