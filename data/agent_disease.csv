@@ -1,0 +1,336 @@
+Agent ID,Agent Name,Disease ID,Disease Name
+3,Actinobacillus pleuropneumoniae Serotype 1,2,Pleuropneumonia
+3,Actinobacillus pleuropneumoniae Serotype 1,3,Porcine fibrinohemorrhagic necrotizing pleuropneumonia
+4,Actinobacillus pleuropneumoniae Serotype 2,2,Pleuropneumonia
+4,Actinobacillus pleuropneumoniae Serotype 2,3,Porcine fibrinohemorrhagic necrotizing pleuropneumonia
+11,Actinomyces naeslundii ATCC 12104,4,Actinomycosis
+8,Actinomyces naeslundii N/S,4,Actinomycosis
+10,Actinomyces naeslundii N/S,4,Actinomycosis
+7,Actinomyces naeslundii N/S,4,Actinomycosis
+9,Actinomyces naeslundii WVU45,4,Actinomycosis
+12,Actinomyces naeslundii WVU45,4,Actinomycosis
+12,Actinomyces naeslundii WVU45,5,Lazy leukocyte syndrome
+13,Actinomyces spp.,1,Unknown
+14,Actinomyces viscosus,1,Unknown
+16,Actinomyces viscosus ATCC 19246,1,Unknown
+15,Actinomyces viscosus N/S,1,Unknown
+564,Adenovirus Human adenovirus D 37,47,Keratoconjunctivitis
+18,Bordetella pertussis,6,Pertussis
+19,Bordetella pertussis N/S,6,Pertussis
+21,Bordetella pertussis N/S Toxin,6,Pertussis
+24,Borrelia burgdorferi N/S,7,Lyme disease
+548,Burkholderia cenocepacia J2135,44,Lung infection
+30,Burkholderia cepacia,8,Cutaneous lesions
+32,Burkholderia cepacia 25416,8,Cutaneous lesions
+31,Burkholderia cepacia ATCC 13945,8,Cutaneous lesions
+33,Burkholderia cepacia ML1,8,Cutaneous lesions
+34,Burkholderia cepacia N/S,8,Cutaneous lesions
+36,Burkholderia oklahomensis EO147,1,Unknown
+38,Burkholderia pseudomallei H-99,9,Melioidosis
+39,Burkholderia pseudomallei Sp-140,9,Melioidosis
+40,Burkholderia pseudomallei Sp-186,9,Melioidosis
+41,Burkholderia pseudomallei Sp-335,9,Melioidosis
+42,Burkholderia pseudomallei U-232,9,Melioidosis
+52,Candida albicans ATCC 18804,10,Candidiasis
+53,Candida albicans HFH 44,10,Candidiasis
+54,Candida albicans HFH 45,10,Candidiasis
+55,Candida albicans N/S,10,Candidiasis
+58,Chlamydia pneumoniae N/S,11,Taiwan acute respiratory agent
+60,Chlamydia trachomatis N/S,12,Trachoma
+61,Clostridium,1,Unknown
+61,Clostridium,13,Botulism
+61,Clostridium,14,Clostridial myonecrosis
+61,Clostridium,15,Tetanus
+62,Clostridium botulinum,13,Botulism
+76,Clostridium botulinum N/S Neurotoxin type A,13,Botulism
+78,Clostridium botulinum N/S Neurotoxin type B,13,Botulism
+63,Clostridium botulinum Serotype A,13,Botulism
+64,Clostridium botulinum Serotype A Neurotoxin type A,13,Botulism
+65,Clostridium botulinum Serotype A Progenitor toxin type A,13,Botulism
+66,Clostridium botulinum Serotype C,13,Botulism
+67,Clostridium botulinum Serotype C Neurotoxin,13,Botulism
+68,Clostridium botulinum Serotype C Progenitor toxin type C,13,Botulism
+70,"Clostridium botulinum Serotype D, OFD05 Neurotoxin",13,Botulism
+71,Clostridium botulinum Serotype F,13,Botulism
+72,Clostridium botulinum Serotype F Neurotoxin F,13,Botulism
+74,Clostridium botulinum Serotype G Neurotoxin,13,Botulism
+81,Clostridium difficle VP 10463 Toxin A,1,Unknown
+84,Clostridium perfringens N/S Delta toxin,14,Clostridial myonecrosis
+91,Clostridium tetani N/S Tetanus neurotoxin,15,Tetanus
+93,Clostridium tetani N/S Tetanus neurotoxin,15,Tetanus
+95,Clostridium tetani N/S Tetanus neurotoxin,15,Tetanus
+87,Clostridium tetani N/S Tetanus neurotoxin,15,Tetanus
+89,Clostridium tetani N/S Tetanus neurotoxin,15,Tetanus
+101,Cryptococcus neoformans ATCC 34877,16,Cryptococcosis
+102,Cryptococcus neoformans HFH 32,16,Cryptococcosis
+103,Cryptococcus neoformans IMT 43,16,Cryptococcosis
+104,Cryptococcus neoformans NIH 68A,16,Cryptococcosis
+107,Entamoeba histolytica HM1-IMSS,17,Amebiasis
+109,Entamoeba histolytica N/S,17,Amebiasis
+108,Entamoeba histolytica N/S,17,Amebiasis
+115,Escherichia coli 107/86,1,Unknown
+116,Escherichia coli 346,18,Cystitis
+117,Escherichia coli 6883,18,Cystitis
+119,Escherichia coli Bi 135 A O157:H7,19,Hemorrhagic colitis
+120,Escherichia coli EAggEC T7,1,Unknown
+122,Escherichia coli IA2,20,Pyelonephritis
+121,Escherichia coli IA2(pDC1),20,Pyelonephritis
+123,Escherichia coli IH11165,20,Pyelonephritis
+127,Escherichia coli J96,20,Pyelonephritis
+124,Escherichia coli J96 HB101/pPAP5,20,Pyelonephritis
+125,Escherichia coli J96(JJ122),20,Pyelonephritis
+126,Escherichia coli J96(pJFK102),20,Pyelonephritis
+151,Escherichia coli N/S,43,Diarrhea
+152,Escherichia coli N/S,20,Pyelonephritis
+152,Escherichia coli N/S,21,Acute cystitis
+128,Escherichia coli PN7,20,Pyelonephritis
+129,Escherichia coli R45,20,Pyelonephritis
+132,Escherichia coli Recombinant HB101,20,Pyelonephritis
+130,Escherichia coli Recombinant HB101(pPIL 219-15),20,Pyelonephritis
+180,Fusobacterium nucleatum N/S,22,Vincent's angina
+212,Helicobacter pylori 032,23,Chronic gastritis
+212,Helicobacter pylori 032,24,Peptic ulcers
+212,Helicobacter pylori 032,25,Gastric cancer
+205,Helicobacter pylori CCUG 17874,23,Chronic gastritis
+205,Helicobacter pylori CCUG 17874,24,Peptic ulcers
+205,Helicobacter pylori CCUG 17874,25,Gastric cancer
+206,Helicobacter pylori CCUG 17875,23,Chronic gastritis
+206,Helicobacter pylori CCUG 17875,24,Peptic ulcers
+206,Helicobacter pylori CCUG 17875,25,Gastric cancer
+204,Helicobacter pylori CCUG 17875,23,Chronic gastritis
+204,Helicobacter pylori CCUG 17875,24,Peptic ulcers
+204,Helicobacter pylori CCUG 17875,25,Gastric cancer
+207,Helicobacter pylori J99,23,Chronic gastritis
+207,Helicobacter pylori J99,24,Peptic ulcers
+207,Helicobacter pylori J99,25,Gastric cancer
+208,Helicobacter pylori J99/NAP-,23,Chronic gastritis
+208,Helicobacter pylori J99/NAP-,24,Peptic ulcers
+208,Helicobacter pylori J99/NAP-,25,Gastric cancer
+217,Helicobacter pylori N/S,23,Chronic gastritis
+217,Helicobacter pylori N/S,24,Peptic ulcers
+217,Helicobacter pylori N/S,25,Gastric cancer
+211,Helicobacter pylori N/S,23,Chronic gastritis
+211,Helicobacter pylori N/S,24,Peptic ulcers
+211,Helicobacter pylori N/S,25,Gastric cancer
+213,Helicobacter pylori N/S,23,Chronic gastritis
+213,Helicobacter pylori N/S,24,Peptic ulcers
+213,Helicobacter pylori N/S,25,Gastric cancer
+214,Helicobacter pylori N/S,23,Chronic gastritis
+214,Helicobacter pylori N/S,24,Peptic ulcers
+214,Helicobacter pylori N/S,25,Gastric cancer
+215,Helicobacter pylori N/S,23,Chronic gastritis
+215,Helicobacter pylori N/S,24,Peptic ulcers
+215,Helicobacter pylori N/S,25,Gastric cancer
+216,Helicobacter pylori N/S,23,Chronic gastritis
+216,Helicobacter pylori N/S,24,Peptic ulcers
+216,Helicobacter pylori N/S,25,Gastric cancer
+209,Helicobacter pylori NCTC 11637,23,Chronic gastritis
+209,Helicobacter pylori NCTC 11637,24,Peptic ulcers
+209,Helicobacter pylori NCTC 11637,25,Gastric cancer
+210,Helicobacter pylori P466,23,Chronic gastritis
+210,Helicobacter pylori P466,24,Peptic ulcers
+210,Helicobacter pylori P466,25,Gastric cancer
+220,Histoplasma capsulatum CDC B923,26,Histoplasmosis
+221,Histoplasma capsulatum IMT 55,26,Histoplasmosis
+225,Influenza,27,Influenza
+231,Influenza 1918 H1,27,Influenza
+227,Influenza A b,27,Influenza
+228,Influenza B,27,Influenza
+552,Influenza B Influenza B virus,27,Influenza
+229,Influenza B Influenza B virus B/HongKong/8/73,27,Influenza
+230,Influenza C,27,Influenza
+243,"Influenzavirus A influenza A virus H1 Mal/TN/11464/85 (226Q, 228G)",27,Influenza
+235,Influenzavirus A influenza A virus H10N4 subtype A/Mallard/Netherlands/02/00,27,Influenza
+244,Influenzavirus A influenza A virus H10N4 subtype A/Mallard/Netherlands/02/2000,27,Influenza
+236,Influenzavirus A influenza A virus H1N1 subtype,27,Influenza
+245,Influenzavirus A influenza A virus H1N1 subtype A/Swine/Finistere/2899/82,27,Influenza
+246,Influenzavirus A influenza A virus H1N1 subtype A/Swine/France/80,27,Influenza
+248,Influenzavirus A influenza A virus H1N3 subtype A/Duck/Hong Kong/717/79,27,Influenza
+250,"Influenzavirus A influenza A virus H2 Leningrad/134/57 (226Q, 228G)",27,Influenza
+252,Influenzavirus A influenza A virus H2N9 subtype A/Duck/Hong Kong/278/78,27,Influenza
+253,Influenzavirus A influenza A virus H2N9 subtype A/Duck/NanChang/2-0485/00,27,Influenza
+254,Influenzavirus A influenza A virus H2N9 subtype A/Duck/NanChang/2-0485/2000,27,Influenza
+262,Influenzavirus A influenza A virus H3N1 subtype A/Memphis/1/71-Bel/42 (H3N1),27,Influenza
+237,Influenzavirus A influenza A virus H3N2 subtype,27,Influenza
+263,Influenzavirus A influenza A virus H3N2 subtype A/Canada/228/68,27,Influenza
+264,Influenzavirus A influenza A virus H3N2 subtype A/USSR/039/68,27,Influenza
+255,Influenzavirus A influenza A virus H3N3 subtype,27,Influenza
+259,"Influenzavirus A influenza A virus H3N3 subtype A/Udorn/72/R2 (226Q, 228G)",27,Influenza
+260,"Influenzavirus A influenza A virus H3N3 subtype A/Udorn/72/R4 (226Q, 228G)",27,Influenza
+258,Influenzavirus A influenza A virus H3N3 subtype A/seal/MA/3911/1992,27,Influenza
+256,"Influenzavirus A influenza A virus H3N3 subtype Duck/Hokkaido/7/82 (226Q, 228G)",27,Influenza
+257,"Influenzavirus A influenza A virus H3N3 subtype RI/5+/57 (226L, 228S)",27,Influenza
+266,Influenzavirus A influenza A virus H3N6 subtype A/Swine/Kazakhstan/48/82,27,Influenza
+268,Influenzavirus A influenza A virus H3N8 subtype A/Canine/Florida/43/04,27,Influenza
+269,Influenzavirus A influenza A virus H3N8 subtype A/Duck/Burjatia/652/88,27,Influenza
+270,Influenzavirus A influenza A virus H3N8 subtype A/Equine/Kentucky/5/02,27,Influenza
+271,Influenzavirus A influenza A virus H3N8 subtype A/Equine/Ohio/1/03,27,Influenza
+238,Influenzavirus A influenza A virus H4N6 subtype,27,Influenza
+272,Influenzavirus A influenza A virus H4N6 subtype A/Duck/Buryatia/1905/00,27,Influenza
+273,Influenzavirus A influenza A virus H4N6 subtype A/Mallard/New York/670/78,27,Influenza
+274,Influenzavirus A influenza A virus H4N6 subtype A/Mallard/NewYork/670/78,27,Influenza
+275,Influenzavirus A influenza A virus H5N1 subtype,27,Influenza
+276,Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Hong Kong/220/97,27,Influenza
+277,Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Korea/ES/2003,27,Influenza
+278,Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Laos/7191/2004,27,Influenza
+279,Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Vietnam/NCVD11/03,27,Influenza
+280,Influenzavirus A influenza A virus H5N1 subtype A/Chicken/Vietnam/NCVD5/2003,27,Influenza
+281,Influenzavirus A influenza A virus H5N1 subtype A/Duck meat/Amyang/AVL/2001,27,Influenza
+282,Influenzavirus A influenza A virus H5N1 subtype A/Goose/Hong Kong/437-4/99,27,Influenza
+283,Influenzavirus A influenza A virus H5N1 subtype A/Goose/Hong Kong/739.2/2002,27,Influenza
+284,Influenzavirus A influenza A virus H5N1 subtype A/Goose/Vietnam/113/2001,27,Influenza
+285,Influenzavirus A influenza A virus H5N1 subtype A/Goose/Vietnam/324/2001,27,Influenza
+286,Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/212/2003,27,Influenza
+287,Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/213/2003,27,Influenza
+288,Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/483/97,27,Influenza
+289,Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/486/97,27,Influenza
+290,Influenzavirus A influenza A virus H5N1 subtype A/Hong Kong/542/97,27,Influenza
+291,Influenzavirus A influenza A virus H5N1 subtype A/Rosybilled Pochard/Hong Kong/821/2002,27,Influenza
+292,Influenzavirus A influenza A virus H5N1 subtype A/Teal/Hong Kong/2978.1/2002,27,Influenza
+293,Influenzavirus A influenza A virus H5N1 subtype A/Thailand/16/2004,27,Influenza
+294,Influenzavirus A influenza A virus H5N1 subtype A/Vietnam/1194/2004,27,Influenza
+295,Influenzavirus A influenza A virus H5N1 subtype A/Vietnam/1203/2004,27,Influenza
+297,Influenzavirus A influenza A virus H5N2 subtype A/Chicken/Mexico/31381-3/94,27,Influenza
+298,Influenzavirus A influenza A virus H5N2 subtype A/Chicken/New Jersey/17169/1993,27,Influenza
+299,Influenzavirus A influenza A virus H5N2 subtype A/Chukkar/Minnesota/14591-7/98,27,Influenza
+300,Influenzavirus A influenza A virus H5N2 subtype A/Duck/NJ/117228-7/2001,27,Influenza
+301,Influenzavirus A influenza A virus H5N2 subtype A/Turkey/California/DO-6/2002,27,Influenza
+303,Influenzavirus A influenza A virus H5N3 subtype A/Chicken/Texas/167280-4/2002,27,Influenza
+304,Influenzavirus A influenza A virus H5N3 subtype A/Turkey/California/6878/79,27,Influenza
+306,Influenzavirus A influenza A virus H5N8 subtype A/Turkey/Wisconsin/68,27,Influenza
+308,Influenzavirus A influenza A virus H5N9 subtype A/Ratite/New York/12716/94,27,Influenza
+310,Influenzavirus A influenza A virus H6N1 subtype A/Teal/Hong Kong/W312/97,27,Influenza
+312,Influenzavirus A influenza A virus H6N2 subtype A/Gull/Moscow/3100/06,27,Influenza
+313,Influenzavirus A influenza A virus H6N2 subtype A/turkey/Massachusetts/3740/1965,27,Influenza
+315,Influenzavirus A influenza A virus H6N5 subtype A/Shearwater/Australia/1/72,27,Influenza
+317,Influenzavirus A influenza A virus H6N8 subtype A/Chicken/New York/13237/98,27,Influenza
+319,Influenzavirus A influenza A virus H7N2 subtype A/Avian/New York/273874/03,27,Influenza
+320,Influenzavirus A influenza A virus H7N2 subtype A/Chicken/Delaware/296763/04,27,Influenza
+321,Influenzavirus A influenza A virus H7N2 subtype A/Chicken/NJ/294598-12/04,27,Influenza
+322,Influenzavirus A influenza A virus H7N2 subtype A/New York/107/03,27,Influenza
+323,Influenzavirus A influenza A virus H7N2 subtype A/Turkey/Virginia/4529/02,27,Influenza
+325,Influenzavirus A influenza A virus H7N7 subtype A/Netherlands/219/03,27,Influenza
+326,Influenzavirus A influenza A virus H7N7 subtype A/Netherlands/230/03,27,Influenza
+327,Influenzavirus A influenza A virus H7N7 subtype A/Netherlands/231/03,27,Influenza
+329,Influenzavirus A influenza A virus H9N2 subtype A/Chicken/Hong Kong/FY20/99,27,Influenza
+330,Influenzavirus A influenza A virus H9N2 subtype A/Chicken/Hong Kong/G9/97,27,Influenza
+331,Influenzavirus A influenza A virus H9N2 subtype A/Chicken/Hong Kong/SF3/99,27,Influenza
+332,Influenzavirus A influenza A virus H9N2 subtype A/Chicken/Korea/96323/96,27,Influenza
+333,Influenzavirus A influenza A virus H9N2 subtype A/Chicken/New Jersey/12220/97,27,Influenza
+334,Influenzavirus A influenza A virus H9N2 subtype A/Duck/Hong Kong/Y280/97,27,Influenza
+336,Influenzavirus A influenza A virus H9N2 subtype A/Goose/Minnesota/5773/80,27,Influenza
+337,Influenzavirus A influenza A virus H9N2 subtype A/Hong Kong/1073/99,27,Influenza
+338,Influenzavirus A influenza A virus H9N2 subtype A/Hong Kong/2108/03,27,Influenza
+339,Influenzavirus A influenza A virus H9N2 subtype A/Pheasant/Wisconsin/1780/8,27,Influenza
+340,Influenzavirus A influenza A virus H9N2 subtype A/Quail/Hong Kong/G1/97,27,Influenza
+341,Influenzavirus A influenza A virus H9N2 subtype A/Swine/Hong Kong/9/98,27,Influenza
+335,Influenzavirus A influenza A virus H9N2 subtype A/Teal/Primorie/3628/02,27,Influenza
+342,Influenzavirus A influenza A virus H9N2 subtype A/Turkey/Minnesota/38391-6/95,27,Influenza
+343,Influenzavirus A influenza A virus H9N2 subtype A/Turkey/Wisconsin/1/66,27,Influenza
+240,Influenzavirus A influenza A virus N/S,27,Influenza
+239,Influenzavirus A influenza A virus N/S,27,Influenza
+241,Influenzavirus A influenza A virus N/S,27,Influenza
+344,"Influenzavirus A influenza A virus Sw/Germany/2/81 (190D, 155V)",27,Influenza
+345,"Influenzavirus A influenza A virus Sw/Netherlands/3/80 (225E, 155I)",27,Influenza
+348,Klebsiella pneumoniae 27736,28,Klebsiella pneumonia infection
+349,Klebsiella pneumoniae N/S,28,Klebsiella pneumonia infection
+350,Klebsiella pneumoniae N/S,28,Klebsiella pneumonia infection
+351,Klebsiella pneumoniae N/S,28,Klebsiella pneumonia infection
+361,Legionella pneumophila N/S,29,Pneumonia
+361,Legionella pneumophila N/S,30,Legionnaires' disease
+360,Legionella pneumophila N/S,29,Pneumonia
+360,Legionella pneumophila N/S,30,Legionnaires' disease
+223,Lentivirus,46,Acquired immune deficiency syndrome
+222,Lentivirus Human Immunodeficiency Virus,46,Acquired immune deficiency syndrome
+224,Lentivirus Human Immunodeficiency Virus Type 1,46,Acquired immune deficiency syndrome
+366,Mycoplasma gallisepticum N/S,31,Chronic respiratory disease
+369,Mycoplasma pneumoniae N/S,32,Pharyngitis
+369,Mycoplasma pneumoniae N/S,33,Tracheobronchitis
+368,Mycoplasma pneumoniae N/S,32,Pharyngitis
+368,Mycoplasma pneumoniae N/S,33,Tracheobronchitis
+371,Neisseria gonorrhoeae,34,Gonorrhea
+372,Neisseria gonorrhoeae FA5100,34,Gonorrhea
+373,Neisseria gonorrhoeae LP1,34,Gonorrhea
+374,Neisseria gonorrhoeae ML1,34,Gonorrhea
+375,Neisseria gonorrhoeae MS11,34,Gonorrhea
+376,Neisseria gonorrhoeae MS11 with pili,34,Gonorrhea
+377,Neisseria gonorrhoeae MS11 without pili,34,Gonorrhea
+379,Neisseria gonorrhoeae N/S,34,Gonorrhea
+378,Neisseria gonorrhoeae N/S,34,Gonorrhea
+380,Neisseria gonorrhoeae N/S,34,Gonorrhea
+381,Neisseria gonorrhoeae WG-52,34,Gonorrhea
+387,Norovirus norwalk virus BUDS,35,Gastroenteritis
+386,Norovirus norwalk virus Boxer,35,Gastroenteritis
+566,Norovirus norwalk virus GII.12,35,Gastroenteritis
+388,Norovirus norwalk virus GrV,35,Gastroenteritis
+389,Norovirus norwalk virus GrV or VA207,35,Gastroenteritis
+390,Norovirus norwalk virus HV,35,Gastroenteritis
+391,Norovirus norwalk virus MOH,35,Gastroenteritis
+392,Norovirus norwalk virus MxV,35,Gastroenteritis
+393,Norovirus norwalk virus NV,35,Gastroenteritis
+394,Norovirus norwalk virus OIF,35,Gastroenteritis
+395,Norovirus norwalk virus PiV,35,Gastroenteritis
+396,Norovirus norwalk virus VA207,35,Gastroenteritis
+397,Norovirus norwalk virus VA387,35,Gastroenteritis
+399,Parainfluenza virus 5 (SV5) hPIV-5,1,Unknown
+409,Plasmodium falciparum N/S,36,Malaria
+410,Plasmodium falciparum N/S,36,Malaria
+411,Plasmodium falciparum N/S,36,Malaria
+419,Proteus mirabilis,1,Unknown
+430,Pseudomonas aeruginosa N/S,1,Unknown
+456,Respirovirus,1,Unknown
+400,Respirovirus Parainfluenza Virus Type 1 (human),1,Unknown
+401,Respirovirus Parainfluenza Virus Type 1 (human) c35,1,Unknown
+402,Respirovirus Parainfluenza Virus Type 3 (human),1,Unknown
+403,Respirovirus Parainfluenza Virus Type 3 (human) c243,1,Unknown
+439,Rotavirus,35,Gastroenteritis
+559,Rotavirus Bovine rotavirus A,35,Gastroenteritis
+440,Rotavirus Bovine rotavirus A NCDV/G6,35,Gastroenteritis
+442,Rotavirus Bovine rotavirus A UK/G6,35,Gastroenteritis
+569,Rotavirus Human Rotavirus A Human Rotavirus G3P[6],35,Gastroenteritis
+556,Rotavirus Human rotavirus P[14],35,Gastroenteritis
+557,Rotavirus Human rotavirus P[14] HAL1166,35,Gastroenteritis
+558,Rotavirus Simian rotavirus A,35,Gastroenteritis
+441,Rotavirus Simian rotavirus A SA11,35,Gastroenteritis
+560,Rotavirus Unclassified Rotavirus A RRV,35,Gastroenteritis
+445,Saccharomyces cerevisiae ATCC 18824,1,Unknown
+446,Saccharomyces cerevisiae HFH 21,1,Unknown
+451,Salmonella typhimurium N/S,1,Unknown
+452,Salmonella typhimurium N/S,1,Unknown
+454,Salmonella typhimurium N/S Heat-labile enterotoxin,1,Unknown
+460,Serratia marcescens N/S,1,Unknown
+461,Shiga toxin,1,Unknown
+467,Shigella dysenteriae N/S Shiga toxin,37,Shigellosis
+469,Shigella flexneri N/S,1,Unknown
+463,Shigella toxin,1,Unknown
+472,Sporothrix schenckii CDC B4668,38,Sporotrichosis
+473,Sporothrix schenckii IMT58,38,Sporotrichosis
+488,Streptococcus gordonii DL1,5,Lazy leukocyte syndrome
+495,Streptococcus pneumoniae 27336,1,Unknown
+497,Streptococcus pneumoniae 6303,1,Unknown
+496,Streptococcus pneumoniae ATCC 33400,1,Unknown
+500,Streptococcus pneumoniae N/S,1,Unknown
+498,Streptococcus pneumoniae N/S,1,Unknown
+499,Streptococcus pneumoniae N/S,1,Unknown
+501,Streptococcus pneumoniae N/S,1,Unknown
+502,Streptococcus pneumoniae N/S,1,Unknown
+507,Streptococcus suis 628,1,Unknown
+508,Streptococcus suis 836,1,Unknown
+511,Streptococcus suis N/S,1,Unknown
+509,Streptococcus suis N/S,1,Unknown
+510,Streptococcus suis N/S,1,Unknown
+514,Toxoplasma gondii N/S,39,Toxoplasmosis
+515,Toxoplasma gondii N/S,39,Toxoplasmosis
+516,Toxoplasma gondii N/S,39,Toxoplasmosis
+519,Trypanosoma cruzi N/S,40,Chagas disease
+523,Vibrio cholerae ATCC 14034,41,Cholera
+524,Vibrio cholerae ATCC 14035,41,Cholera
+526,Vibrio cholerae N/S,41,Cholera
+528,Vibrio cholerae N/S Toxin,41,Cholera
+530,Vibrio cholerae N/S Toxin,41,Cholera
+532,Vibrio cholerae N/S Toxin,41,Cholera
+534,Vibrio cholerae N/S Toxin,41,Cholera
+536,Vibrio cholerae N/S Toxin,41,Cholera
+538,Vibrio cholerae N/S Toxin,41,Cholera
+525,Vibrio cholerae O1,41,Cholera
+546,Yersinia pestis N/S,42,Plague

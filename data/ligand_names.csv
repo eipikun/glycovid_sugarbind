@@ -1,0 +1,359 @@
+Ligand ID,Ligand name,Unnamed
+201,Unnamed,1
+185,2'-fluorine-3′-sialyl-N-acetyllactosamine,0
+185,2'F-3'SiaLacNAc(1-4),0
+184,2'F-3'SiaLacNAc(1-3),0
+184,2'-fluorine-3′-sialyl-N-acetyllactosamine,0
+115,3'SLN,0
+115,3′-sialyl-N-acetyllactosamine,0
+115,3'SiaLacNAc(1-4),0
+131,3'SLN,0
+131,3′-sialyl-N-acetyllactosamine,0
+186,3'SLN,0
+186,3'SiaLacNAc(1-3),0
+186,3′-sialyl-N-acetyllactosamine(1-3),0
+134,Su-SaiLec,0
+134,6-sulfo sialyl Lewis c,0
+134,Su-SLec,0
+128,Su-SaiLex,0
+128,Su-SLex,0
+128,6-sulfo sialyl Lewis x,0
+132,6′-sialyl-N-acetyllactosamine,0
+132,6'SLN,0
+132,6'SiaLacNAc(1-4),0
+102,A Leb,0
+102,A Lewis b,0
+152,A type 1 A Lewis b,0
+152,A type 1 A Leb,0
+138,A-Galactosylparagloboside,0
+138,A-galactosylparagloboside,0
+103,Antigen A,0
+100,Antigen H,0
+100,H1 (tri-),0
+101,B Lewis b,0
+101,B Leb,0
+151,B type 1 B Lewis b,0
+151,B type 1 B Leb,0
+203,Blood group A type 2 tetrasaccharide,0
+85,Chitobios,0
+14,NeuAc-GD1b,0
+14,Disialogangliotetraosylceramide,0
+14,Disialoganglioside,0
+14,GD1b,0
+22,Disialogangliotetraosylceramide,0
+22,GD1a,0
+59,Disialosyl galactosyl globoside,0
+59,DSGG,0
+42,DiSai,0
+42,Disialylactose,0
+114,Fuc-gangliotetraosylceramide,0
+114,H-5-ganglio,0
+114,Fuc-GgO4,0
+86,Fuc,0
+86,L-Fucose,0
+86,Fucose,0
+12,SSEA-3,0
+12,Stage-specific embryonic antigen-3,0
+12,Gal(b1-3) globoside,0
+31,Galabiose,0
+31,Digalactoside,0
+31,Ga2,0
+79,Galabiosylceramide,0
+32,Galabiosylceramide,0
+32,Digalactosylceramide,0
+7,Gal,0
+7,Galactose,0
+187,Gal,0
+187,Galactose,0
+195,Galactose beta1,0
+195,Gal beta1,0
+1,LC,0
+1,Galactosylceramide,0
+1,GalCer,0
+58,Gg4,0
+58,Gangliotetraosylceramide,0
+2,Asialo-GM1,0
+2,GgO4,0
+2,Gg4,0
+2,GA1,0
+2,Gangliotetraosylceramide,0
+2,Asialo-GM1a,0
+4,Gg3,0
+4,Asialo-GM2,0
+4,GA2,0
+4,Gangliotriaosylceramide,0
+4,Asialo-GM2a,0
+188,Gg4Cer II3-sulfate,0
+188,SM1a,0
+18,Globotetraosylceramide,0
+18,Globoside,0
+18,Gb4,0
+137,Globotetraosylceramide,0
+27,Globotriaosylceramide,0
+27,CTH,0
+27,Gb3,0
+27,Trihexosylceramide,0
+192,D-Glucose,0
+192,Glucose,0
+192,Glc,0
+5,Ceramide monohexoside,0
+5,Glucosylceramide,0
+5,GlcCer,0
+5,CMH,0
+150,H type 1 Leb,0
+150,H type 1 Lewis b,0
+111,I-Active ganglioside,0
+111,NeuAc-G-10,0
+111,NeuAca2-3I,0
+109,I-active ganglioside,0
+109,NeuAca3-nLc6,0
+109,NeuAca2-3i,0
+93,NeuGc-GM1,0
+93,"II3Neu5GcGg4Cer, GM1(Gc)",0
+10,Isoglobotri,0
+10,Isoglobotriaosylceramide,0
+10,IGb3,0
+202,LSTc pentasaccharide,0
+3,Lactosylceramide,0
+3,CDH,0
+3,LacCer,0
+3,Lc2,0
+143,Lactosylceramide,0
+143,LacCer,0
+174,LNT,0
+174,Lactotetraose,0
+174,Lacto-N-tetraose,0
+26,Lactotetraosylceramide,0
+26,Lc4,0
+20,Lactotriaosylceramide,0
+20,Lc3,0
+24,LCA,0
+24,CD45,0
+24,Leukocyte common antigen,0
+171,CD45,0
+171,Leukocyte common antigen,0
+23,SPN,0
+23,Sialophorin,0
+23,Leukosialin,0
+23,CD43,0
+170,Sialophorin and SPN,0
+170,Leukosialin,0
+170,CD43,0
+155,Lea-3,0
+155,Lewis a,0
+56,Lewis a,0
+56,Lea-5,0
+146,Lewis b,0
+146,Leb-4,0
+112,Lewis b,0
+112,Leb-6,0
+157,Lewis x,0
+157,Lex-3,0
+200,Lewis x,0
+200,Lex-5,0
+199,Lewis y,0
+199,Ley-6,0
+147,Lewis y,0
+147,Ley-4,0
+67,Mannose,0
+67,Man,0
+67,Alpha-linked mannose,0
+44,Mannose,0
+44,Man,0
+71,Monosialodihexosylganglioside,0
+71,II3NeuAc LacCer,0
+71,Hematoside,0
+71,GM3,0
+13,Monosialogangliotetraosylceramide,0
+13,Monosialoganglioside,0
+13,NeuAc-GM1,0
+13,GM1a,0
+13,GM1,0
+9,N-acetyl-D-galactosamine,0
+9,GalNAc,0
+36,N-acetylgalactosamine,0
+36,GalNAc,0
+61,N-acetylglucosamine,0
+61,GlcNAc,0
+172,NeuAc,0
+172,N-acetylneuraminic acid,0
+75,NeuAc,0
+75,N-acetylneuraminic acid,0
+35,NANA,0
+35,Sialic acid,0
+35,NeuAc,0
+35,N-acetylneuraminic acid,0
+84,Neolactohexosylceramide,0
+84,NLc6,0
+15,Neolactotetraosylceramide,0
+15,NLc4,0
+15,Paragloboside,0
+175,Neolactotetrose,0
+175,LNnT,0
+175,Lacto-N-neotetraose,0
+33,"3a,6a-mannopentaose",0
+33,Pentasaccharide N-linked glycan core,0
+156,Precusor Lewis a,0
+156,Precusor Lea,0
+60,Sialosyl gal-globoside,0
+60,SGG,0
+60,Sialosyl galactosyl globoside,0
+108,S3P,0
+108,NeuAca3SPG,0
+108,IV3(NeuAc)nLc4Cer,0
+108,Sialosylparagloboside,0
+108,Sial pg,0
+108,NeuAca2-3PG,0
+108,S-3-PG,0
+162,Sialyl Lewis a,0
+162,SLea,0
+113,Sialyl Lewis a,0
+113,NeuAca3-Lea,0
+127,SLec,0
+127,Sialyl Lewis c,0
+127,SaiLec,0
+106,Sialyl Lewis x,0
+106,SLex,0
+106,NeuAca3-Lex,0
+129,Sialyl Lewis x,0
+129,SLex,0
+129,SaiLex,0
+105,NeuAca3-dimer-Lex,0
+105,Sialyl Lewis x Lewis x,0
+105,SDLex,0
+76,Sialyl-3-lactose,0
+76,3'SL,0
+37,Alpha 2-3 sialyllactose,0
+37,Sialyl-3-lactose,0
+37,3'SL,0
+181,Sai-LNnT,0
+181,Sialyllacto-N-neotetraose,0
+189,Sialyllacto-N-tetraose b,0
+189,LSTb,0
+123,NeuAca2-6PG,0
+123,IV6(NeuAc)nLc4Cer,0
+123,Sialylparagloboside,0
+130,Su-3'SLN,0
+130,Sulfated trisaccharide,0
+130,Sulfated sialyl-3-N-acetyllactosamine,0
+28,NeuAc-GT1b,0
+28,Trisialogangliotetraosylceramide,0
+28,GT1b,0
+197,alpha-oligomannoside,0
+198,alpha-oligomannoside,0
+196,dimannoside,0
+196,alpha-oligomannoside,0
+94,GD2,0
+94,NeuAc-GD2,0
+49,A9 type 1,0
+124,LSTa,0
+126,Unnamed,1
+139,Sulfatide,0
+141,Lactosylsulfatide,0
+163,Melibiose,0
+167,Unnamed,1
+204,Unnamed,1
+176,Unnamed,1
+180,Unnamed,1
+158,NeuGca2-3I,0
+133,Sialyllactotetraosylceramide,0
+8,Unnamed,1
+17,Unnamed,1
+19,Unnamed,1
+25,Unnamed,1
+16,Unnamed,1
+66,NeuGc-GM3,0
+66,GM3gc,0
+30,Unnamed,1
+169,Unnamed,1
+38,NeuAc-GQ1b,0
+38,GQ1b,0
+70,Unnamed,1
+47,B6 type 1,0
+148,B antigen(tri-),0
+57,Unnamed,1
+80,Tetraosylceramide,0
+65,Forssman,0
+63,Globo-H,0
+69,Unnamed,1
+90,GL-III,0
+89,Gb5,0
+88,Beta-linked galactose,0
+91,GL-II,0
+97,Unnamed,1
+95,GD3,0
+182,N-glycan,0
+104,G9-B,0
+53,Glycoprotein 2,0
+119,Sulf-gangliotetraosyl ceramide,0
+120,Unnamed,1
+122,Sialyllactotetraosylceramide,0
+135,I-active ganglioside,0
+136,Unnamed,1
+144,Unnamed,1
+142,Sulfatide,0
+149,A antigen(tri-),0
+73,Mannotriose,0
+153,H type 1,0
+118,Sulfatide,0
+193,B-GM1,0
+159,NeuAca2-6I,0
+165,Unnamed,1
+166,Unnamed,1
+164,Unnamed,1
+173,Unnamed,1
+177,Unnamed,1
+178,Unnamed,1
+183,N-glycan,0
+190,NA2F,0
+194,Extended GM1,0
+121,SSEA-4,0
+121,Stage specific embryonic antigen-4,0
+11,Unnamed,1
+29,Unnamed,1
+52,A6 type 1,0
+64,Globo-A,0
+50,A7 type 4,0
+62,Unnamed,1
+81,Hexaosylceramide,0
+82,Sulfatide,0
+34,Unnamed,1
+98,GM1,0
+116,Unnamed,1
+145,Unnamed,1
+154,H3 (di-),0
+179,Unnamed,1
+191,Mannotriose,0
+6,Unnamed,1
+41,NeuAc-GM2,0
+41,GM2,0
+45,H5 type 1,0
+78,NeuGc-GM2,0
+78,GM2gc,0
+51,A8 type 1,0
+54,Glycoprotein 1,0
+55,Glycoprotein 3,0
+72,Unnamed,1
+161,Lacto-N-fucopentose,0
+160,LNFP II,0
+92,Forssman glycolipid,0
+96,Unnamed,1
+168,Unnamed,1
+107,VIM-2,0
+110,NeuAca3-nLc8,0
+99,Unnamed,1
+125,LSTc,0
+140,Seminolipid,0
+21,Unnamed,1
+39,Sai2-3Gal,0
+40,Unnamed,1
+117,Unnamed,1
+43,Unnamed,1
+46,B Lewis b(7),0
+46,B7 type 1,0
+48,A7 type 1,0
+68,Sai2-3Gal,0
+77,Mannotriose,0
+74,Unnamed,1
+83,Sulf-lactosylceramide,0
+87,Unnamed,1

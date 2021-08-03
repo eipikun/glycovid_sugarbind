@@ -26,7 +26,7 @@ $cd glycovid_sugarbind
 $. venv/bin/activate [if you are needed to switch to virtualenv]
 
 [when you are required to install those]
-$pip install requests, bs4, numpy, pandas
+$pip install -r requirements.txt
 
 [execute python file]
 $python3 scraping.py
