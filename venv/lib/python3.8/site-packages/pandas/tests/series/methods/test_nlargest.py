@@ -98,7 +98,7 @@ class TestSeriesNLargestNSmallest:
     )
     def test_nlargest_error(self, r):
         dt = r.dtype
-        msg = f"Cannot use method 'n(larg|small)est' with dtype {dt}"
+        msg = f"Cannot use method 'n(largest|smallest)' with dtype {dt}"
         args = 2, len(r), 0, -1
         methods = r.nlargest, r.nsmallest
         for method, arg in product(methods, args):
@@ -210,4 +210,20 @@ class TestSeriesNLargestNSmallest:
         ser = Series(data)
         result = ser.nlargest(1)
         expected = Series(expected)
+        tm.assert_series_equal(result, expected)
+
+    def test_nlargest_nullable(self, any_nullable_numeric_dtype):
+        # GH#42816
+        dtype = any_nullable_numeric_dtype
+        arr = np.random.randn(10).astype(dtype.lower(), copy=False)
+
+        ser = Series(arr.copy(), dtype=dtype)
+        ser[1] = pd.NA
+        result = ser.nlargest(5)
+
+        expected = (
+            Series(np.delete(arr, 1), index=ser.index.delete(1))
+            .nlargest(5)
+            .astype(dtype)
+        )
         tm.assert_series_equal(result, expected)

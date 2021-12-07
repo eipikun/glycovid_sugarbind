@@ -1,9 +1,17 @@
-from datetime import datetime, timedelta
+from datetime import (
+    datetime,
+    timedelta,
+)
 
 import numpy as np
 import pytest
 
-from pandas import Index, Int64Index, RangeIndex, UInt64Index
+from pandas import (
+    Index,
+    Int64Index,
+    RangeIndex,
+    UInt64Index,
+)
 import pandas._testing as tm
 
 
@@ -345,4 +353,18 @@ class TestRangeIndexSetOps:
 
         result = left.symmetric_difference(right[1:])
         expected = Int64Index([1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14])
+        tm.assert_index_equal(result, expected)
+
+    def test_putmask_range_cast(self):
+        # GH#43240
+        idx = RangeIndex(0, 5, name="test")
+        result = idx.putmask(np.array([True, True, False, False, False]), 10)
+        expected = Index([10, 10, 2, 3, 4], name="test")
+        tm.assert_index_equal(result, expected)
+
+    def test_where_range_cast(self):
+        # GH#43240
+        idx = RangeIndex(0, 5, name="test")
+        result = idx.where(np.array([False, False, True, True, True]), 10)
+        expected = Index([10, 10, 2, 3, 4], name="test")
         tm.assert_index_equal(result, expected)

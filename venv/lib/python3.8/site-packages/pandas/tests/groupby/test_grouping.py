@@ -167,7 +167,10 @@ class TestGrouping:
 
         # GH 7885
         # with level and freq specified in a pd.Grouper
-        from datetime import date, timedelta
+        from datetime import (
+            date,
+            timedelta,
+        )
 
         d0 = date.today() - timedelta(days=14)
         dates = date_range(d0, date.today())
@@ -254,7 +257,8 @@ class TestGrouping:
         )
         result = s.groupby(pd.Grouper(level="three", freq="M")).sum()
         expected = Series(
-            [28], index=Index([Timestamp("2013-01-31")], freq="M", name="three")
+            [28],
+            index=pd.DatetimeIndex([Timestamp("2013-01-31")], freq="M", name="three"),
         )
         tm.assert_series_equal(result, expected)
 
@@ -391,6 +395,23 @@ class TestGrouping:
         tm.assert_series_equal(result, expected)
         tm.assert_series_equal(result, result2)
         tm.assert_series_equal(result, expected2)
+
+    @pytest.mark.parametrize(
+        "index",
+        [
+            [0, 1, 2, 3],
+            ["a", "b", "c", "d"],
+            [Timestamp(2021, 7, 28 + i) for i in range(4)],
+        ],
+    )
+    def test_groupby_series_named_with_tuple(self, frame_or_series, index):
+        # GH 42731
+        obj = frame_or_series([1, 2, 3, 4], index=index)
+        groups = Series([1, 0, 1, 0], index=index, name=("a", "a"))
+        result = obj.groupby(groups).last()
+        expected = frame_or_series([4, 3])
+        expected.index.name = ("a", "a")
+        tm.assert_equal(result, expected)
 
     def test_groupby_grouper_f_sanity_checked(self):
         dates = date_range("01-Jan-2013", periods=12, freq="MS")
@@ -607,7 +628,7 @@ class TestGrouping:
 
     def test_list_grouper_with_nat(self):
         # GH 14715
-        df = DataFrame({"date": pd.date_range("1/1/2011", periods=365, freq="D")})
+        df = DataFrame({"date": date_range("1/1/2011", periods=365, freq="D")})
         df.iloc[-1] = pd.NaT
         grouper = pd.Grouper(key="date", freq="AS")
 
@@ -626,7 +647,7 @@ class TestGrouping:
         [
             (
                 "transform",
-                Series(name=2, dtype=np.float64, index=pd.RangeIndex(0, 0, 1)),
+                Series(name=2, dtype=np.float64, index=Index([])),
             ),
             (
                 "agg",
@@ -659,7 +680,7 @@ class TestGrouping:
         # check group properties
         assert len(gr.grouper.groupings) == 1
         tm.assert_numpy_array_equal(
-            gr.grouper.group_info[0], np.array([], dtype=np.dtype("int64"))
+            gr.grouper.group_info[0], np.array([], dtype=np.dtype(np.intp))
         )
 
         tm.assert_numpy_array_equal(
