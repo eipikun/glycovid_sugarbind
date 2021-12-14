@@ -322,7 +322,7 @@ def ttl_ReferenceInteraction():
         for index, item in filtered_agent.iterrows():
             title += 'AGE' + str(item['Agent ID']) + '_'                                                                    # add agent information to title
         title = title[:-1]                                                                                                  # cut off last '-' from title string
-        file.write(f'reference:{title} rdf:type owl:NamedIndividual ,\n')                                                            # add ttl type description
+        file.write(f'interaction:{title} rdf:type owl:NamedIndividual ,\n')                                                            # add ttl type description
         file.write('\t\t\t:ReferencedInteraction ;\n')                                                                      # add ttl class type description
         # lectin
         file.write(f'\t\t:has_lectin <https://sugarbind.expasy.org/lectins/{lectin_id}> ;\n')                               # add ttl object property and lectin URI
@@ -384,7 +384,7 @@ def ttl_ReferenceInteraction():
             title += 'AGE' + str(item['Agent ID']) + '_'                                                                    # add agent information to title
         title = title[:-1]
         
-        file.write(f'reference:{title} rdf:type owl:NamedIndividual ,\n')                                                            # add ttl type description
+        file.write(f'interaction:{title} rdf:type owl:NamedIndividual ,\n')                                                            # add ttl type description
         file.write('\t\t\t:ReferencedInteraction ;\n')                                                                      # add ttl class type description
         # lectin
         file.write(f'\t\t:has_lectin <https://sugarbind.expasy.org/lectins/{lectin_id}> ;\n')                               # add ttl object property and lectin URI
@@ -622,49 +622,77 @@ def ttl_agent():
         file.write(text + '\n')
     file.close()
 
+def merge_ttl(files):
+    for a in files:
+        print(a + '.ttl')
+
 if __name__ == "__main__":
     ### scraping from sugarbind ( https://sugarbind.expasy.org )
     # agent_list()
-        # creating agent_list.csv
+    # print('agent_list done')
+    #     # creating agent_list.csv
     # lectin_list()
-        # creating lectin_list.csv
+    # print('lectin_list done')
+    #     # creating lectin_list.csv
     # disease_list()
-        # creating disease_list.csv
+    # print('disease_list done')
+    #     # creating disease_list.csv
     # area_list()
-        # creating area_list.csv
+    # print('area_list done')
+    #     # creating area_list.csv
     # lectin_pubmed()
-        # creating lectin_pubmed.csv
+    # print('lectin_pubmed done')
+    #     # creating lectin_pubmed.csv
     # lectin_ligand()
-        # creating lectin_ligand.csv
+    # print('lecctin_ligand done')
+    #     # creating lectin_ligand.csv
     # ligand_glycoconjugate()
+    # print('ligand_glycoconjugate done')
 
     # structure_ligand()
-        # creating ligand_names.csv, structure_ligand
+    # print('structure_ligand done')
+    #     # creating ligand_names.csv, structure_ligand
     # area_disease()
-        # creating area_disease.csv
+    # print('area_disease done')
+    #     # creating area_disease.csv
     # agent_area()
-        # creating agent_affected_area.csv
+    # print('agent_area done')
+    #     # creating agent_affected_area.csv
     # agent_disease()
-        # creating agent_disease.csv
+    # print('agent_disease done')
+    #     # creating agent_disease.csv
     # lectin_area()
-        # creating lectin_area.csv
+    # print('lectin_area done')
+    #     # creating lectin_area.csv
     # lectin_agent()
-        # creating lectin_agent.csv
-    
-    ### making ttl file from csv created above
-    ttl_ReferenceInteraction()  
-        # requires lectin_list.csv, lectin_agent.csv, lectin_affect.csv, lectin_ligand.csv, lectin_pubmed.csv, structure_ligand.csv, ligand_names.csv
-    # ttl_pubmed()                
-        # requires lectin_pubmed.csv
-    # ttl_structure()             
-        # requires structure_ligand.csv
-    # ttl_ligand()                
-        # requires lectin_ligand.csv, ligand_names.csv, structure_ligand.csv
-    # ttl_lectin()                
-        # requires lectin_list.csv
+    # print('lectin_agent done')
+    #     # creating lectin_agent.csv
+
+    # ### making ttl file from csv created above
+    # ttl_ReferenceInteraction()  
+    # print('ttl reference done')
+    #     # requires lectin_list.csv, lectin_agent.csv, lectin_affect.csv, lectin_ligand.csv, lectin_pubmed.csv, structure_ligand.csv, ligand_names.csv
+    # ttl_pubmed()               
+    # print('ttl pubmed done')
+    #     # requires lectin_pubmed.csv
+    # ttl_structure()  
+    # print('ttl structure done')
+    #     # requires structure_ligand.csv
+    # ttl_ligand()
+    # print('ttl ligand done') 
+    #     # requires lectin_ligand.csv, ligand_names.csv, structure_ligand.csv
+    # ttl_lectin() 
+    # print('ttl lectin done')           
+    #     # requires lectin_list.csv
     # ttl_area()                  
-        # requires area_list.csv
-    # ttl_agent()                 
-        # requires agent_list.csv, agent_disease.csv, agent_affected_area.csv
-    # ttl_disease()               
-        # requires agent_disease.csv, area_disease.csv, disease_list.csv
+    # print('ttl area done')
+    #     # requires area_list.csv
+    # ttl_agent()    
+    # print('ttl agent done')             
+    #     # requires agent_list.csv, agent_disease.csv, agent_affected_area.csv
+    # ttl_disease()   
+    # print('ttl disease done')            
+    #     # requires agent_disease.csv, area_disease.csv, disease_list.csv
+
+    merge_ttl(['agent', 'area', 'disease', 'lectin', 'ligand', 'pubmed', 'referenced_interaction', 'structure'])
+    # passing string arguments which corresponds to the file name stored in the output folder
