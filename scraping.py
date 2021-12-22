@@ -21,6 +21,65 @@ def agent_list():
         writer.writerow([agent_id, agent_name])                                                                             # inserting extracted agent id and agent name
     file.close()                                                                                                            # close file
 
+def agent_list_2():
+    target_link = link_header + '/agents?n=407'
+    file = open('data/agent_list2.csv', 'w')
+    writer = csv.writer(file)
+    writer.writerow(['Agent ID', 'Agent Name', 'Agent Type', 'taxonomy ID', 'txonomy level', 'Lineage', 'Agent properties', 'HAMAP', 'Viralzone', 'GOLD'])
+    list_html = requests.get(target_link)
+    list_soup = BeautifulSoup(list_html.content, "html.parser")
+    list_elements = list_soup.find('tbody').find_all('tr')
+    for element in list_elements:
+        name = element.find_all('td')[0].find('a')
+        agent_id = name.get_text()
+        agent_type_link = element.find_all('td')[2].find('a')
+        agent_type = element.find_all('td')[2].find('a').get_text()
+        taxonomy_id_link = element.find_all('td')[3].find('a')
+        taxonomy_id = element.find_all('td')[3].find('a').get_text()
+        num_asterisk = taxonomy_id.count('*')
+        taxonomy_id = taxonomy_id.replace('*', '')
+
+        element_html = requests.get(link_header + name.get('href'))
+        element_soup = BeautifulSoup(element_html.content, "html.parser")
+        info = element_soup.find_all('div', class_='info')
+        if len(info) == 10:
+        # 10 count
+            # 0: References
+            # 1: Glycan Structure Format
+            # 2: Lineage・Type
+            # 3: Agent properties
+            # 4: HAMAP proteome
+            # 5: Viralzone
+            # 6: GOLD
+            # 7: Ligands
+            # 8: Biological Associations
+            # 9: Diseases
+            lineage = info[2].find_all('p')[0].find_all('a') if info[2].find_all('p')[0].find_all('a') else None
+            agent_properties = info[3].find_all('p') if info[3].find_all('p') else None
+            hamap = info[4].find('p').get_text() if info[4].find('p') else None
+            viralzone = info[5].find('p').get_text() if info[5].find('p') else None
+            gold = info[6].find_all('p') if info[6].find_all('p') else None
+            writer.writerow([agent_id, name.get_text(), agent_type, taxonomy_id, num_asterisk, lineage, agent_properties, hamap, viralzone, gold])
+        elif len(info) == 9:
+        # 9 count
+            # 0: References
+            # 1: Glycan Structure Format
+            # 2: Lineage・Type
+            # 3: Agent properties
+            # 4: HAMAP proteome
+            # 5: GOLD
+            # 6: Ligands
+            # 7: Biological Associations
+            # 8: Diseases
+            lineage = info[2].find_all('p')[0].find_all('a') if info[2].find_all('p')[0].find_all('a') else None
+            agent_properties = info[3].find_all('p') if info[3].find_all('p') else None
+            hamap = info[4].find('p').get_text() if info[4].find('p') else None
+            viralzone = None
+            gold = info[5].find_all('p') if info[5].find_all('p') else None
+            writer.writerow([agent_id, name.get_text(), agent_type, taxonomy_id, num_asterisk, lineage, agent_properties, hamap, viralzone, gold])
+        time.sleep(0.75)
+    file.close()
+
 def lectin_list():
     target_link = link_header + '/lectins?n=739'                                                                            # set scraping target link
     file = open('data/lectin_list.csv', 'w')                                                                               # open file named "lectin_list.csv" in "data" folder
@@ -590,46 +649,47 @@ def ttl_agent():
     file.close()
 
 if __name__ == "__main__":
-    ### scraping from sugarbind ( https://sugarbind.expasy.org )
-    agent_list()
-        # creating agent_list.csv
-    lectin_list()
-        # creating lectin_list.csv
-    disease_list()
-        # creating disease_list.csv
-    area_list()
-        # creating area_list.csv
-    lectin_pubmed()
-        # creating lectin_pubmed.csv
-    lectin_ligand()
-        # creating lectin_ligand.csv
-    structure_ligand()
-        # creating ligand_names.csv, structure_ligand
-    area_disease()
-        # creating area_disease.csv
-    agent_area()
-        # creating agent_affected_area.csv
-    agent_disease()
-        # creating agent_disease.csv
-    lectin_area()
-        # creating lectin_area.csv
-    lectin_agent()
-        # creating lectin_agent.csv
+    agent_list_2()
+    # ### scraping from sugarbind ( https://sugarbind.expasy.org )
+    # agent_list()
+    #     # creating agent_list.csv
+    # lectin_list()
+    #     # creating lectin_list.csv
+    # disease_list()
+    #     # creating disease_list.csv
+    # area_list()
+    #     # creating area_list.csv
+    # lectin_pubmed()
+    #     # creating lectin_pubmed.csv
+    # lectin_ligand()
+    #     # creating lectin_ligand.csv
+    # structure_ligand()
+    #     # creating ligand_names.csv, structure_ligand
+    # area_disease()
+    #     # creating area_disease.csv
+    # agent_area()
+    #     # creating agent_affected_area.csv
+    # agent_disease()
+    #     # creating agent_disease.csv
+    # lectin_area()
+    #     # creating lectin_area.csv
+    # lectin_agent()
+    #     # creating lectin_agent.csv
     
-    ### making ttl file from csv created above
-    ttl_ReferenceInteraction()  
-        # requires lectin_list.csv, lectin_agent.csv, lectin_affect.csv, lectin_ligand.csv, lectin_pubmed.csv, structure_ligand.csv, ligand_names.csv
-    ttl_pubmed()                
-        # requires lectin_pubmed.csv
-    ttl_structure()             
-        # requires structure_ligand.csv
-    ttl_ligand()                
-        # requires lectin_ligand.csv, ligand_names.csv, structure_ligand.csv
-    ttl_lectin()                
-        # requires lectin_list.csv
-    ttl_area()                  
-        # requires area_list.csv
-    ttl_agent()                 
-        # requires agent_list.csv, agent_disease.csv, agent_affected_area.csv
-    ttl_disease()               
-        # requires agent_disease.csv, area_disease.csv, disease_list.csv
+    # ### making ttl file from csv created above
+    # ttl_ReferenceInteraction()  
+    #     # requires lectin_list.csv, lectin_agent.csv, lectin_affect.csv, lectin_ligand.csv, lectin_pubmed.csv, structure_ligand.csv, ligand_names.csv
+    # ttl_pubmed()                
+    #     # requires lectin_pubmed.csv
+    # ttl_structure()             
+    #     # requires structure_ligand.csv
+    # ttl_ligand()                
+    #     # requires lectin_ligand.csv, ligand_names.csv, structure_ligand.csv
+    # ttl_lectin()                
+    #     # requires lectin_list.csv
+    # ttl_area()                  
+    #     # requires area_list.csv
+    # ttl_agent()                 
+    #     # requires agent_list.csv, agent_disease.csv, agent_affected_area.csv
+    # ttl_disease()               
+    #     # requires agent_disease.csv, area_disease.csv, disease_list.csv
