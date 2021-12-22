@@ -149,19 +149,30 @@ def area_list():
 def lectin_pubmed():
     file = open('data/lectin_pubmed.csv', 'w')                                                                             # open file named "lectin_pubmed.csv" in "data" folder
     writer = csv.writer(file)                                                                                               # set csv writer
-    writer.writerow(['Lectin ID', 'Pubmed ID',\
-                        'Pubmed link'])                                                                                     # describe header title
+    writer.writerow(['Lectin ID', 'Pubmed ID','Pubmed link', 'Pubmed Year', 'Pubmed Authors', 'Pubmed Title'])              # describe header title
     with open('data/lectin_list.csv') as lectin_file:
         reader = csv.reader(lectin_file)                                                                                    # set csv reader
         _ = next(reader)                                                                                                    # pass_header_row
+        _html = requests.get('https://sugarbind.expasy.org/references?n=183')
+        _soup = BeautifulSoup(_html.content, "html.parser")
+        _table_tr = _soup.find('tbody').find_all('tr')
         for row in reader:
             html = requests.get(row[2])                                                                                     # get html via request
             soup = BeautifulSoup(html.content, "html.parser")                                                               # get html content as Beautiful Soup object
             references = soup.find('tbody').find_all('tr')                                                                  # find all 'tr' elements from individual lectin page
             for reference in references:
-                if reference.find_all('td')[3].find('a'):                                                       # if there are any reference
-                    writer.writerow([row[0], reference.find_all('td')[3].find('a').get_text(),\
-                                reference.find_all('td')[3].find('a').get('href')])                                         # inserting extracted lectin id, pubmed id, pubmed link
+                if reference.find_all('td')[3].find('a'):
+                    pmlink = reference.find_all('td')[3].find('a').get('href')
+                    pmid = reference.find_all('td')[3].find('a').get_text()                                                 # if there are any reference
+                    pmy = None
+                    pma = None
+                    pmt = None
+                    for tr in _table_tr:
+                        if tr.find_all('td')[4] == pmid:
+                            pmy = tr.find_all('td')[1]
+                            pma = tr.find_all('td')[2]
+                            pmt = tr.find_all('td')[0]
+                    writer.writerow([row[0], pmid, pmlink, pmy, pma, pmt])                      # inserting extracted lectin id, pubmed id, pubmed link
             time.sleep(0.5)                                                                                                 # stop processing for avoiding continues request for server
     file.close                                                                                                              # file close
 
@@ -179,6 +190,28 @@ def lectin_ligand():
                 writer.writerow([row[0], ligand.find('a').get('href')[9:]])                                                 # inserting extracted lectin id, ligand id
             time.sleep(0.5)                                                                                                 # stop processing for avoiding continues request for server
     file.close()                                                                                                            # file close
+
+def ligand_glycoconjugate():
+    file = open('data/ligand_glycoconjugate.csv', 'w')
+    writer = csv.writer(file)
+    writer.writerow(['Liogand ID', 'Glycoconjugate URL', 'Glycoconjugate Name'])
+    url = 'https://sugarbind.expasy.org/ligands?n=204'
+    html = requests.get(url)
+    soup = BeautifulSoup(html.content, "html.parser")
+    table = soup.find('tbody')
+    trs = table.find_all('tr')
+    for tr in trs:
+        # print(tr.find_all('td')[1])
+        try:
+            ligand = tr.find_all('td')[0].find('ul').find_all('li')[0].find('a').get('href')[9:]
+            link = tr.find_all('td')[1].find('a').get('href')
+            name = tr.find_all('td')[1].find('a').get_text()
+            writer.writerow([ligand, link_header + link, name])
+        except:
+            pass
+    file.close()
+
+    
 
 def lectin_agent():
     file = open('data/lectin_agent.csv', 'w')                                                                              # open file named "lectin_ligand.csv" in "data" folder
@@ -348,7 +381,7 @@ def ttl_ReferenceInteraction():
         for index, item in filtered_agent.iterrows():
             title += 'AGE' + str(item['Agent ID']) + '_'                                                                    # add agent information to title
         title = title[:-1]                                                                                                  # cut off last '-' from title string
-        file.write(f':{title} rdf:type owl:NamedIndividual ,\n')                                                            # add ttl type description
+        file.write(f'interaction:{title} rdf:type owl:NamedIndividual ,\n')                                                            # add ttl type description
         file.write('\t\t\t:ReferencedInteraction ;\n')                                                                      # add ttl class type description
         # lectin
         file.write(f'\t\t:has_lectin <https://sugarbind.expasy.org/lectins/{lectin_id}> ;\n')                               # add ttl object property and lectin URI
@@ -410,7 +443,7 @@ def ttl_ReferenceInteraction():
             title += 'AGE' + str(item['Agent ID']) + '_'                                                                    # add agent information to title
         title = title[:-1]
         
-        file.write(f':{title} rdf:type owl:NamedIndividual ,\n')                                                            # add ttl type description
+        file.write(f'interaction:{title} rdf:type owl:NamedIndividual ,\n')                                                            # add ttl type description
         file.write('\t\t\t:ReferencedInteraction ;\n')                                                                      # add ttl class type description
         # lectin
         file.write(f'\t\t:has_lectin <https://sugarbind.expasy.org/lectins/{lectin_id}> ;\n')                               # add ttl object property and lectin URI
@@ -648,6 +681,10 @@ def ttl_agent():
         file.write(text + '\n')
     file.close()
 
+def merge_ttl(files):
+    for a in files:
+        print(a + '.ttl')
+
 if __name__ == "__main__":
     agent_list_2()
     # ### scraping from sugarbind ( https://sugarbind.expasy.org )
@@ -693,3 +730,6 @@ if __name__ == "__main__":
     #     # requires agent_list.csv, agent_disease.csv, agent_affected_area.csv
     # ttl_disease()               
     #     # requires agent_disease.csv, area_disease.csv, disease_list.csv
+
+    merge_ttl(['agent', 'area', 'disease', 'lectin', 'ligand', 'pubmed', 'referenced_interaction', 'structure'])
+    # passing string arguments which corresponds to the file name stored in the output folder
